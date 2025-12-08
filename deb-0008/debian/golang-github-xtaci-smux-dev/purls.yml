@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-xtaci-smux-dev@1.5.15%2Bds-1?arch=all
+- pkg:deb/debian/golang-github-xtaci-smux-dev@1.5.16%2Bds-1?arch=all

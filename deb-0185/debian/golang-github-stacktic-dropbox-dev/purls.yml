@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-stacktic-dropbox-dev@0.0~git20160424.0.58f839b-2.1?arch=all
+- pkg:deb/debian/golang-github-stacktic-dropbox-dev@0.0~git20160424.0.58f839b-2?arch=all
+- pkg:deb/debian/golang-github-stacktic-dropbox-dev@0.0~git20160424.0.58f839b-3?arch=all

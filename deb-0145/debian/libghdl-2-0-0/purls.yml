@@ -1,0 +1,7 @@
+- pkg:deb/debian/libghdl-2-0-0@2.0.0%2Bdfsg-6.2?arch=amd64
+- pkg:deb/debian/libghdl-2-0-0@2.0.0%2Bdfsg-6.2?arch=arm64
+- pkg:deb/debian/libghdl-2-0-0@2.0.0%2Bdfsg-6.2?arch=armel
+- pkg:deb/debian/libghdl-2-0-0@2.0.0%2Bdfsg-6.2?arch=i386
+- pkg:deb/debian/libghdl-2-0-0@2.0.0%2Bdfsg-6.2?arch=mips64el
+- pkg:deb/debian/libghdl-2-0-0@2.0.0%2Bdfsg-6.2?arch=mipsel
+- pkg:deb/debian/libghdl-2-0-0@2.0.0%2Bdfsg-6.2?arch=ppc64el

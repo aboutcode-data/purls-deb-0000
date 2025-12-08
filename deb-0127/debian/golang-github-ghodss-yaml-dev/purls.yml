@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-ghodss-yaml-dev@1.0.0%2Bgit20220118.d8423dc-2?arch=all
+- pkg:deb/debian/golang-github-ghodss-yaml-dev@1.0.0-1.1?arch=all

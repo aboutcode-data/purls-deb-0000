@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-mutable-containers-doc@0.3.4-3?arch=all
+- pkg:deb/debian/libghc-mutable-containers-doc@0.3.4.1-1?arch=all
+- pkg:deb/debian/libghc-mutable-containers-doc@0.3.4.1-3?arch=all

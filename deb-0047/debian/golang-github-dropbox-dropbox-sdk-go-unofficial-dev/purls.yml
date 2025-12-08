@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-dropbox-dropbox-sdk-go-unofficial-dev@5.4.0-2?arch=all
+- pkg:deb/debian/golang-github-dropbox-dropbox-sdk-go-unofficial-dev@6.0.5-1?arch=all

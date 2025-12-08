@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-autohidetopbar@111-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-autohidetopbar@120-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-autohidetopbar@123-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-autohidetopbar@20210104-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-gitlab-gitlab-org-labkit-dev@1.17.0-4?arch=all
+- pkg:deb/debian/golang-gitlab-gitlab-org-labkit-dev@1.3.0-4?arch=all

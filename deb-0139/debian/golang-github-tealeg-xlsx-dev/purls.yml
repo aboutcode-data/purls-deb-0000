@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-tealeg-xlsx-dev@1.0.3%2Bgit20181024.dbf71b6-1.1?arch=all
+- pkg:deb/debian/golang-github-tealeg-xlsx-dev@1.0.3%2Bgit20181024.dbf71b6-2?arch=all
+- pkg:deb/debian/golang-github-tealeg-xlsx-dev@1.0.5-1?arch=all

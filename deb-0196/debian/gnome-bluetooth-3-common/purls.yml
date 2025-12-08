@@ -1,0 +1,3 @@
+- pkg:deb/debian/gnome-bluetooth-3-common@42.5-3?arch=all
+- pkg:deb/debian/gnome-bluetooth-3-common@47.1-1?arch=all
+- pkg:deb/debian/gnome-bluetooth-3-common@47.1-3?arch=all

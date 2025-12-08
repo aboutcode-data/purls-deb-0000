@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-bsb-http-chunked-doc@0.0.0.4-3?arch=all
+- pkg:deb/debian/libghc-bsb-http-chunked-doc@0.0.0.4-4?arch=all
+- pkg:deb/debian/libghc-bsb-http-chunked-doc@0.0.0.4-6?arch=all

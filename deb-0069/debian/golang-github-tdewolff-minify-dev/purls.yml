@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-tdewolff-minify-dev@2.12.4-2?arch=all
+- pkg:deb/debian/golang-github-tdewolff-minify-dev@2.20.37-1?arch=all
+- pkg:deb/debian/golang-github-tdewolff-minify-dev@2.24.5-1?arch=all
+- pkg:deb/debian/golang-github-tdewolff-minify-dev@2.7.2-1?arch=all

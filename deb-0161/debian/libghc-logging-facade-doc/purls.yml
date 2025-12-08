@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-logging-facade-doc@0.3.0-4?arch=all
+- pkg:deb/debian/libghc-logging-facade-doc@0.3.1-1?arch=all
+- pkg:deb/debian/libghc-logging-facade-doc@0.3.1-3?arch=all

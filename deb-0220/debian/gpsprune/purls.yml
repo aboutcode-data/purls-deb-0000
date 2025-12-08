@@ -1,0 +1,6 @@
+- pkg:deb/debian/gpsprune@20.2-1?arch=all
+- pkg:deb/debian/gpsprune@22.2-1?arch=all
+- pkg:deb/debian/gpsprune@25.2-1?arch=all
+- pkg:deb/debian/gpsprune@25.2-1~bpo12%2B1?arch=all
+- pkg:deb/debian/gpsprune@26.1-1?arch=all
+- pkg:deb/debian/gpsprune@26.1-1~bpo13%2B1?arch=all

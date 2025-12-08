@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-nsf-termbox-go-dev@0.0~git20160914-3?arch=all
+- pkg:deb/debian/golang-github-nsf-termbox-go-dev@1.1.1-1?arch=all

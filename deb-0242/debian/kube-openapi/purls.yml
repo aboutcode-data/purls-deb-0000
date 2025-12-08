@@ -1,0 +1,17 @@
+- pkg:deb/debian/kube-openapi@0.0~git20211014.b3fe75c-2%2Bb7?arch=amd64
+- pkg:deb/debian/kube-openapi@0.0~git20211014.b3fe75c-2%2Bb7?arch=arm64
+- pkg:deb/debian/kube-openapi@0.0~git20211014.b3fe75c-2%2Bb7?arch=armel
+- pkg:deb/debian/kube-openapi@0.0~git20211014.b3fe75c-2%2Bb7?arch=armhf
+- pkg:deb/debian/kube-openapi@0.0~git20211014.b3fe75c-2%2Bb7?arch=i386
+- pkg:deb/debian/kube-openapi@0.0~git20211014.b3fe75c-2%2Bb7?arch=mips64el
+- pkg:deb/debian/kube-openapi@0.0~git20211014.b3fe75c-2%2Bb7?arch=mipsel
+- pkg:deb/debian/kube-openapi@0.0~git20211014.b3fe75c-2%2Bb7?arch=ppc64el
+- pkg:deb/debian/kube-openapi@0.0~git20211014.b3fe75c-2%2Bb7?arch=s390x
+- pkg:deb/debian/kube-openapi@0.0~git20241212.2c72e55-2?arch=amd64
+- pkg:deb/debian/kube-openapi@0.0~git20241212.2c72e55-2?arch=arm64
+- pkg:deb/debian/kube-openapi@0.0~git20241212.2c72e55-2?arch=armel
+- pkg:deb/debian/kube-openapi@0.0~git20241212.2c72e55-2?arch=armhf
+- pkg:deb/debian/kube-openapi@0.0~git20241212.2c72e55-2?arch=i386
+- pkg:deb/debian/kube-openapi@0.0~git20241212.2c72e55-2?arch=ppc64el
+- pkg:deb/debian/kube-openapi@0.0~git20241212.2c72e55-2?arch=riscv64
+- pkg:deb/debian/kube-openapi@0.0~git20241212.2c72e55-2?arch=s390x

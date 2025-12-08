@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-mockery-doc@0.3.5-4?arch=all
+- pkg:deb/debian/libghc-mockery-doc@0.3.5-5?arch=all
+- pkg:deb/debian/libghc-mockery-doc@0.3.5-7?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-kisielk-sqlstruct-dev@0.0~git20150917.0.0b86a3e-2.1?arch=all
+- pkg:deb/debian/golang-github-kisielk-sqlstruct-dev@0.0~git20210630.dae28ed-1?arch=all

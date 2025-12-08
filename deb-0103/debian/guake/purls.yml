@@ -1,0 +1,4 @@
+- pkg:deb/debian/guake@3.10-2?arch=all
+- pkg:deb/debian/guake@3.10.1-1?arch=all
+- pkg:deb/debian/guake@3.6.3-2?arch=all
+- pkg:deb/debian/guake@3.9.0-2?arch=all

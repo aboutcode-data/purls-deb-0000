@@ -1,0 +1,3 @@
+- pkg:deb/debian/grub-imageboot@0.6%2Bnmu1?arch=all
+- pkg:deb/debian/grub-imageboot@0.6%2Bnmu3?arch=all
+- pkg:deb/debian/grub-imageboot@0.6%2Bnmu4?arch=all

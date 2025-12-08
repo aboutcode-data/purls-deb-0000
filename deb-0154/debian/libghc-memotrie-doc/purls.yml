@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-memotrie-doc@0.6.10-1?arch=all
+- pkg:deb/debian/libghc-memotrie-doc@0.6.10-2?arch=all
+- pkg:deb/debian/libghc-memotrie-doc@0.6.11-2?arch=all

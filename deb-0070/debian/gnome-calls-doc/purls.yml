@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-calls-doc@0.2.0-2?arch=all
+- pkg:deb/debian/gnome-calls-doc@44~alpha.1-1?arch=all
+- pkg:deb/debian/gnome-calls-doc@48.2-1?arch=all
+- pkg:deb/debian/gnome-calls-doc@49.1.1-1?arch=all

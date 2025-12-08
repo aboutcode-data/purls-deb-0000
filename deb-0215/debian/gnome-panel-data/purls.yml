@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-panel-data@3.38.0-1?arch=all
+- pkg:deb/debian/gnome-panel-data@3.46.0-1?arch=all
+- pkg:deb/debian/gnome-panel-data@3.56.0-1?arch=all
+- pkg:deb/debian/gnome-panel-data@3.58.1-1?arch=all

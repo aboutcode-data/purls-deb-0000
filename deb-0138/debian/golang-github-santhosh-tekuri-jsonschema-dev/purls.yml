@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-santhosh-tekuri-jsonschema-dev@5.3.1-2?arch=all
+- pkg:deb/debian/golang-github-santhosh-tekuri-jsonschema-dev@6.0.2-1?arch=all

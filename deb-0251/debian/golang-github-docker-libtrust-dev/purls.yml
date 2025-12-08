@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-docker-libtrust-dev@0.0~git20150526.0.9cbd2a1-3.1?arch=all
+- pkg:deb/debian/golang-github-docker-libtrust-dev@0.0~git20160708.aabc10e-1?arch=all

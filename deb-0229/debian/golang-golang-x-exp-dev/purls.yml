@@ -1,0 +1,5 @@
+- pkg:deb/debian/golang-golang-x-exp-dev@0.0~git20181112.a3060d4-2?arch=all
+- pkg:deb/debian/golang-golang-x-exp-dev@0.0~git20221028.83b7d23-2?arch=all
+- pkg:deb/debian/golang-golang-x-exp-dev@0.0~git20230522.2e198f4-1~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-golang-x-exp-dev@0.0~git20231006.7918f67-2?arch=all
+- pkg:deb/debian/golang-golang-x-exp-dev@0.0~git20250911.df92998-1?arch=all

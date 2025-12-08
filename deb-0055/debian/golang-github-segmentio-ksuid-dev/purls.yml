@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-segmentio-ksuid-dev@1.0.4-2?arch=all
+- pkg:deb/debian/golang-github-segmentio-ksuid-dev@1.0.4-2~bpo12%2B1?arch=all

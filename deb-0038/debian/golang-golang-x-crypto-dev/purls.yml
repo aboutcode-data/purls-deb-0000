@@ -1,0 +1,6 @@
+- pkg:deb/debian/golang-golang-x-crypto-dev@0.0~git20201221.eec23a3-1?arch=all
+- pkg:deb/debian/golang-golang-x-crypto-dev@0.25.0-1?arch=all
+- pkg:deb/debian/golang-golang-x-crypto-dev@0.25.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-golang-x-crypto-dev@0.4.0-1?arch=all
+- pkg:deb/debian/golang-golang-x-crypto-dev@0.43.0-2?arch=all
+- pkg:deb/debian/golang-golang-x-crypto-dev@0.45.0-1?arch=all

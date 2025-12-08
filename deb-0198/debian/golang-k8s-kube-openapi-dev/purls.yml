@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-k8s-kube-openapi-dev@0.0~git20211014.b3fe75c-2?arch=all
+- pkg:deb/debian/golang-k8s-kube-openapi-dev@0.0~git20241212.2c72e55-2?arch=all

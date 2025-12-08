@@ -1,0 +1,4 @@
+- pkg:deb/debian/gedit-common@3.38.1-1?arch=all
+- pkg:deb/debian/gedit-common@44.2-1?arch=all
+- pkg:deb/debian/gedit-common@48.1-4?arch=all
+- pkg:deb/debian/gedit-common@48.1-9?arch=all

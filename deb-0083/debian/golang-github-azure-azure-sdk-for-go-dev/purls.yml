@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-azure-azure-sdk-for-go-dev@43.3.0-1?arch=all
+- pkg:deb/debian/golang-github-azure-azure-sdk-for-go-dev@68.0.0-2?arch=all

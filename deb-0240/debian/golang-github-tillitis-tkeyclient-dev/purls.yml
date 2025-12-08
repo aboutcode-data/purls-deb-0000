@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-tillitis-tkeyclient-dev@1.1.0-2?arch=all
+- pkg:deb/debian/golang-github-tillitis-tkeyclient-dev@1.2.0-1?arch=all
+- pkg:deb/debian/golang-github-tillitis-tkeyclient-dev@1.2.0-2?arch=all
+- pkg:deb/debian/golang-github-tillitis-tkeyclient-dev@1.2.0-2~exp0?arch=all

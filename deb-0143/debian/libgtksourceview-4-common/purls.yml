@@ -1,0 +1,5 @@
+- pkg:deb/debian/libgtksourceview-4-common@4.8.0-1?arch=all
+- pkg:deb/debian/libgtksourceview-4-common@4.8.4-4?arch=all
+- pkg:deb/debian/libgtksourceview-4-common@4.8.4-6?arch=all
+- pkg:deb/debian/libgtksourceview-4-common@4.8.4-8?arch=all
+- pkg:deb/debian/libgtksourceview-4-common@4.8.4-9?arch=all

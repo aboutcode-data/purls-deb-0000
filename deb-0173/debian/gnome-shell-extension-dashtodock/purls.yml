@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-dashtodock@100-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-dashtodock@102-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-dashtodock@69-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-dashtodock@75-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-influxdata-toml-dev@0.0~git20160905.0.ad49a5c-1.1?arch=all
+- pkg:deb/debian/golang-github-influxdata-toml-dev@0.0~git20180607.2a2e301-1?arch=all

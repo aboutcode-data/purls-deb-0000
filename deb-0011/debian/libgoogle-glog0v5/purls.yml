@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgoogle-glog0v5@0.4.0-4?arch=amd64
+- pkg:deb/debian/libgoogle-glog0v5@0.4.0-4?arch=arm64
+- pkg:deb/debian/libgoogle-glog0v5@0.4.0-4?arch=armhf
+- pkg:deb/debian/libgoogle-glog0v5@0.4.0-4?arch=i386

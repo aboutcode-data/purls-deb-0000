@@ -1,0 +1,2 @@
+- pkg:deb/debian/gccrs-14-powerpc64le-linux-gnu@14.2.0-19?arch=ppc64el
+- pkg:deb/debian/gccrs-14-powerpc64le-linux-gnu@14.3.0-10?arch=ppc64el

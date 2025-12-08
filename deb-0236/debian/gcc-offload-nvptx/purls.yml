@@ -1,0 +1,8 @@
+- pkg:deb/debian/gcc-offload-nvptx@10.2.1-1?arch=amd64
+- pkg:deb/debian/gcc-offload-nvptx@12.2.0-3?arch=amd64
+- pkg:deb/debian/gcc-offload-nvptx@12.2.0-3?arch=ppc64el
+- pkg:deb/debian/gcc-offload-nvptx@14.2.0-1?arch=amd64
+- pkg:deb/debian/gcc-offload-nvptx@14.2.0-1?arch=ppc64el
+- pkg:deb/debian/gcc-offload-nvptx@15.2.0-4?arch=amd64
+- pkg:deb/debian/gcc-offload-nvptx@15.2.0-4?arch=arm64
+- pkg:deb/debian/gcc-offload-nvptx@15.2.0-4?arch=ppc64el

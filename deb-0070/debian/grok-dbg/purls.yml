@@ -1,0 +1,4 @@
+- pkg:deb/debian/grok-dbg@1.20110708.1-4.5?arch=amd64
+- pkg:deb/debian/grok-dbg@1.20110708.1-4.5?arch=arm64
+- pkg:deb/debian/grok-dbg@1.20110708.1-4.5?arch=armhf
+- pkg:deb/debian/grok-dbg@1.20110708.1-4.5?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-git-delete-merged-branches@7.4.0-1?arch=all
+- pkg:deb/debian/python3-git-delete-merged-branches@7.5.0-1?arch=all

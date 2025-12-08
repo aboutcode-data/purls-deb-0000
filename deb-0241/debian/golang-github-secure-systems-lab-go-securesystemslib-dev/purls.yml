@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-secure-systems-lab-go-securesystemslib-dev@0.4.0-2~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-secure-systems-lab-go-securesystemslib-dev@0.9.0-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-willfaught-gockle-dev@0.0~git20160623.4f254e1-1.1?arch=all
+- pkg:deb/debian/golang-github-willfaught-gockle-dev@0.0~git20230112.8fc81aa-1?arch=all
+- pkg:deb/debian/golang-github-willfaught-gockle-dev@0.6.0-1?arch=all

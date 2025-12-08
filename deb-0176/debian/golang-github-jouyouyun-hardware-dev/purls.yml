@@ -1,0 +1,5 @@
+- pkg:deb/debian/golang-github-jouyouyun-hardware-dev@0.1.6-2%2Bb5?arch=amd64
+- pkg:deb/debian/golang-github-jouyouyun-hardware-dev@0.1.6-2%2Bb5?arch=arm64
+- pkg:deb/debian/golang-github-jouyouyun-hardware-dev@0.1.6-2%2Bb5?arch=armhf
+- pkg:deb/debian/golang-github-jouyouyun-hardware-dev@0.1.6-2%2Bb5?arch=i386
+- pkg:deb/debian/golang-github-jouyouyun-hardware-dev@0.1.8-1?arch=all

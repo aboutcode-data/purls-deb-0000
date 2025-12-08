@@ -1,0 +1,2 @@
+- pkg:deb/debian/gccbrig-11@11.3.0-12?arch=amd64
+- pkg:deb/debian/gccbrig-11@11.3.0-12?arch=i386

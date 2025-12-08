@@ -1,0 +1,5 @@
+- pkg:deb/debian/gdcm-doc@3.0.21-1?arch=all
+- pkg:deb/debian/gdcm-doc@3.0.24-5?arch=all
+- pkg:deb/debian/gdcm-doc@3.0.24-6?arch=all
+- pkg:deb/debian/gdcm-doc@3.0.24-7?arch=all
+- pkg:deb/debian/gdcm-doc@3.0.8-2?arch=all

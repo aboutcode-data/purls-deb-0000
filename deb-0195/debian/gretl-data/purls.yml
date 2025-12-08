@@ -1,0 +1,4 @@
+- pkg:deb/debian/gretl-data@2021a-1?arch=all
+- pkg:deb/debian/gretl-data@2022c-1?arch=all
+- pkg:deb/debian/gretl-data@2025a-1?arch=all
+- pkg:deb/debian/gretl-data@2025c-2?arch=all

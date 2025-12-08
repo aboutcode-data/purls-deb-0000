@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-antchfx-xmlquery-dev@1.3.3-1?arch=all
+- pkg:deb/debian/golang-github-antchfx-xmlquery-dev@1.4.3-1?arch=all
+- pkg:deb/debian/golang-github-antchfx-xmlquery-dev@1.5.0-1?arch=all

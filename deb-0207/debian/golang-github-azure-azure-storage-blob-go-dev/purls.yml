@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-azure-azure-storage-blob-go-dev@0.10.0-1?arch=all
+- pkg:deb/debian/golang-github-azure-azure-storage-blob-go-dev@0.15.0-1?arch=all

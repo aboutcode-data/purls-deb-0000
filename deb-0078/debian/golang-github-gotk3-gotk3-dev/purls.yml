@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-gotk3-gotk3-dev@0.0~GOTK3~0~2~0%2Bgit20170418.0.96d4110-3.1?arch=all
+- pkg:deb/debian/golang-github-gotk3-gotk3-dev@0.6.1-1?arch=all
+- pkg:deb/debian/golang-github-gotk3-gotk3-dev@0.6.4.1-1?arch=all
+- pkg:deb/debian/golang-github-gotk3-gotk3-dev@0.6.4.2-1?arch=all

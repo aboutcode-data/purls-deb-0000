@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-inconshreveable-log15-dev@2.15-1?arch=all
+- pkg:deb/debian/golang-github-inconshreveable-log15-dev@2.15-2?arch=all

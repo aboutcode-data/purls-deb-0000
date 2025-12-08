@@ -1,0 +1,14 @@
+- pkg:deb/debian/python3-graph-tool@2.45%2Bds-10?arch=amd64
+- pkg:deb/debian/python3-graph-tool@2.45%2Bds-10?arch=arm64
+- pkg:deb/debian/python3-graph-tool@2.45%2Bds-10?arch=ppc64el
+- pkg:deb/debian/python3-graph-tool@2.45%2Bds-10?arch=s390x
+- pkg:deb/debian/python3-graph-tool@2.58%2Bds-1~bpo12%2B1?arch=ppc64el
+- pkg:deb/debian/python3-graph-tool@2.91%2Bds-5?arch=amd64
+- pkg:deb/debian/python3-graph-tool@2.91%2Bds-5?arch=arm64
+- pkg:deb/debian/python3-graph-tool@2.91%2Bds-5?arch=s390x
+- pkg:deb/debian/python3-graph-tool@2.91%2Bds-5~bpo12%2B1?arch=amd64
+- pkg:deb/debian/python3-graph-tool@2.91%2Bds-5~bpo12%2B1?arch=arm64
+- pkg:deb/debian/python3-graph-tool@2.91%2Bds-5~bpo12%2B1?arch=s390x
+- pkg:deb/debian/python3-graph-tool@2.98%2Bds-1?arch=amd64
+- pkg:deb/debian/python3-graph-tool@2.98%2Bds-1?arch=arm64
+- pkg:deb/debian/python3-graph-tool@2.98%2Bds-1?arch=s390x

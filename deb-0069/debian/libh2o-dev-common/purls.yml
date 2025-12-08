@@ -1,0 +1,2 @@
+- pkg:deb/debian/libh2o-dev-common@2.2.5%2Bdfsg2-6?arch=all
+- pkg:deb/debian/libh2o-dev-common@2.2.5%2Bdfsg2-7?arch=all

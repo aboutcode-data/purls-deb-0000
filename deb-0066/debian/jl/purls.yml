@@ -1,0 +1,15 @@
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb11?arch=amd64
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb11?arch=arm64
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb11?arch=armel
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb11?arch=armhf
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb11?arch=i386
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb11?arch=ppc64el
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb11?arch=s390x
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb12?arch=amd64
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb12?arch=arm64
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb12?arch=armhf
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb12?arch=i386
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb12?arch=ppc64el
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb12?arch=riscv64
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb12?arch=s390x
+- pkg:deb/debian/jl@0.1.0%2Bgit20220705%2B8771236337c6-1%2Bb13?arch=riscv64

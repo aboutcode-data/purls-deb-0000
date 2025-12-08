@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-gitlab-gitlab-org-gitaly-dev@16.11.6%2Bds1-4?arch=all
+- pkg:deb/debian/golang-gitlab-gitlab-org-gitaly-dev@16.11.6%2Bds1-5?arch=all

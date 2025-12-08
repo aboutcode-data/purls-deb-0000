@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-kr-pty-dev@1.1.6-1?arch=all
+- pkg:deb/debian/golang-github-kr-pty-dev@1.1.6-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-schollz-progressbar-dev@3.14.1-1?arch=all
+- pkg:deb/debian/golang-github-schollz-progressbar-dev@3.8.2-1?arch=all

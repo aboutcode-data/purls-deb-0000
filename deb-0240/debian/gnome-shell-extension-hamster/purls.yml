@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-hamster@0.10.0%2Bgit20200509-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-hamster@0.10.0%2Bgit20210628-4?arch=all
+- pkg:deb/debian/gnome-shell-extension-hamster@0.10.0%2Bgit20240714-3?arch=all
+- pkg:deb/debian/gnome-shell-extension-hamster@0.10.0%2Bgit20251003-1?arch=all

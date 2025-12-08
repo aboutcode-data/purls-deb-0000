@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-jesseduffield-gocui-dev@0.3.0%2Bgit20190803.ad0cd60-1?arch=all
+- pkg:deb/debian/golang-github-jesseduffield-gocui-dev@0.4%2Bgit20250220.b376cb0%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/golang-github-jesseduffield-gocui-dev@0.4%2Bgit20250605.fc53879%2Bdfsg-1?arch=all
+- pkg:deb/debian/golang-github-jesseduffield-gocui-dev@0.4%2Bgit20251002.67e0e55%2Bdfsg-2?arch=all

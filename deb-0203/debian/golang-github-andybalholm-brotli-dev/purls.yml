@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-andybalholm-brotli-dev@1.0.4-3?arch=all
+- pkg:deb/debian/golang-github-andybalholm-brotli-dev@1.1.1-1?arch=all
+- pkg:deb/debian/golang-github-andybalholm-brotli-dev@1.2.0-1?arch=all

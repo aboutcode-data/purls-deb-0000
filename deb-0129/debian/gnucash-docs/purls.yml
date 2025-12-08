@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnucash-docs@4.13-1?arch=all
+- pkg:deb/debian/gnucash-docs@4.4-1?arch=all
+- pkg:deb/debian/gnucash-docs@5.10-0.1?arch=all
+- pkg:deb/debian/gnucash-docs@5.13-1?arch=all

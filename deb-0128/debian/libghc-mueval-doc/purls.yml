@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-mueval-doc@0.9.3-5?arch=all
+- pkg:deb/debian/libghc-mueval-doc@0.9.3-6?arch=all
+- pkg:deb/debian/libghc-mueval-doc@0.9.4-1?arch=all

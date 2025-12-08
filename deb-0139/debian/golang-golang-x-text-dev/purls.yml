@@ -1,0 +1,5 @@
+- pkg:deb/debian/golang-golang-x-text-dev@0.16.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-golang-x-text-dev@0.22.0-1?arch=all
+- pkg:deb/debian/golang-golang-x-text-dev@0.3.6-1?arch=all
+- pkg:deb/debian/golang-golang-x-text-dev@0.31.0-1?arch=all
+- pkg:deb/debian/golang-golang-x-text-dev@0.7.0-1?arch=all

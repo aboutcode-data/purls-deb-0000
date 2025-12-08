@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-go-ping-ping-dev@0.0~git20210312.d90f377-1?arch=all
+- pkg:deb/debian/golang-github-go-ping-ping-dev@1.1.0-1?arch=all
+- pkg:deb/debian/golang-github-go-ping-ping-dev@1.2.0-1?arch=all

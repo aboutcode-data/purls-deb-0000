@@ -1,0 +1,4 @@
+- pkg:deb/debian/gfarm-doc@2.7.17%2Bdfsg-1?arch=all
+- pkg:deb/debian/gfarm-doc@2.7.20%2Bdfsg-1.2?arch=all
+- pkg:deb/debian/gfarm-doc@2.7.20%2Bdfsg-1.3?arch=all
+- pkg:deb/debian/gfarm-doc@2.7.20%2Bdfsg-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libair-modes1@0.0.20190917-2%2Bb5?arch=amd64
+- pkg:deb/debian/libair-modes1@0.0.20190917-2%2Bb5?arch=arm64
+- pkg:deb/debian/libair-modes1@0.0.20190917-2%2Bb5?arch=armhf
+- pkg:deb/debian/libair-modes1@0.0.20190917-2%2Bb5?arch=i386

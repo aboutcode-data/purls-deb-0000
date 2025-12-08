@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-gliderlabs-ssh-dev@0.3.0-1?arch=all
+- pkg:deb/debian/golang-github-gliderlabs-ssh-dev@0.3.3-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-grafana-grafana-plugin-model-dev@0.0~git20200514.df1eb6b-1?arch=all
+- pkg:deb/debian/golang-github-grafana-grafana-plugin-model-dev@0.0~git20200514.df1eb6b-2?arch=all

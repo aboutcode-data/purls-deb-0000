@@ -1,0 +1,5 @@
+- pkg:deb/debian/golang-golang-x-oauth2-google-dev@0.0~git20190604.0f29369-2?arch=all
+- pkg:deb/debian/golang-golang-x-oauth2-google-dev@0.15.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-golang-x-oauth2-google-dev@0.27.0-1?arch=all
+- pkg:deb/debian/golang-golang-x-oauth2-google-dev@0.3.0-1?arch=all
+- pkg:deb/debian/golang-golang-x-oauth2-google-dev@0.32.0-1?arch=all

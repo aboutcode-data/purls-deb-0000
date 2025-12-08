@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-edsrzf-mmap-go-dev@0.0~git20170320.0.0bce6a6-6?arch=all
+- pkg:deb/debian/golang-github-edsrzf-mmap-go-dev@1.1.0-1?arch=all
+- pkg:deb/debian/golang-github-edsrzf-mmap-go-dev@1.2.0-1?arch=all

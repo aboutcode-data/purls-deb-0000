@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-no-annoyance@0%2B20170928-f21d09a-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-no-annoyance@0%2B20220925-c6804a4-3?arch=all
+- pkg:deb/debian/gnome-shell-extension-no-annoyance@0%2B20241212-8ca0647-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-no-annoyance@0%2B20241212-8ca0647-2?arch=all

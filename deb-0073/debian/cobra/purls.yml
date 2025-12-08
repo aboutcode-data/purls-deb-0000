@@ -1,0 +1,7 @@
+- pkg:deb/debian/cobra@1.1.2-1%2Bb5?arch=amd64
+- pkg:deb/debian/cobra@1.1.2-1%2Bb5?arch=arm64
+- pkg:deb/debian/cobra@1.1.2-1%2Bb5?arch=armhf
+- pkg:deb/debian/cobra@1.1.2-1%2Bb5?arch=i386
+- pkg:deb/debian/cobra@1.10.1-1?arch=all
+- pkg:deb/debian/cobra@1.6.1-1?arch=all
+- pkg:deb/debian/cobra@1.8.1-1?arch=all

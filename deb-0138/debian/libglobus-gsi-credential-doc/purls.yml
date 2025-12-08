@@ -1,0 +1,3 @@
+- pkg:deb/debian/libglobus-gsi-credential-doc@8.2-1?arch=all
+- pkg:deb/debian/libglobus-gsi-credential-doc@8.3-2?arch=all
+- pkg:deb/debian/libglobus-gsi-credential-doc@8.4-3?arch=all

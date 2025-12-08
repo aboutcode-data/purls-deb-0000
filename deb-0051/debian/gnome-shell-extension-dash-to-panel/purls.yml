@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-dash-to-panel@40-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-dash-to-panel@52-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-dash-to-panel@68-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-dash-to-panel@72-1?arch=all

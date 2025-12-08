@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-hashicorp-go-sockaddr-dev@0.0~git20170627.41949a1%2Bds-2?arch=all
+- pkg:deb/debian/golang-github-hashicorp-go-sockaddr-dev@1.0.2-2?arch=all
+- pkg:deb/debian/golang-github-hashicorp-go-sockaddr-dev@1.0.2-3?arch=all

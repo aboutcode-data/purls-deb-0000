@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-elazarl-goproxy-dev@1.1%2Bgit20240726.8b0c205%2Bdfsg-1?arch=all
+- pkg:deb/debian/golang-github-elazarl-goproxy-dev@1.1-1?arch=all

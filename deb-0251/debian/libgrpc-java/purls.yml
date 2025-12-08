@@ -1,0 +1,3 @@
+- pkg:deb/debian/libgrpc-java@1.26.0%2Bds-1?arch=all
+- pkg:deb/debian/libgrpc-java@1.41.3%2Bds-1?arch=all
+- pkg:deb/debian/libgrpc-java@1.41.3%2Bds-5?arch=all

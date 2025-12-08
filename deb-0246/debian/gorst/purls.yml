@@ -1,0 +1,15 @@
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb11?arch=amd64
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb11?arch=arm64
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb11?arch=armel
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb11?arch=armhf
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb11?arch=i386
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb11?arch=ppc64el
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb11?arch=s390x
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb12?arch=amd64
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb12?arch=arm64
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb12?arch=armhf
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb12?arch=i386
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb12?arch=ppc64el
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb12?arch=riscv64
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb12?arch=s390x
+- pkg:deb/debian/gorst@0.0~git20181029.ca9f730-3%2Bb13?arch=riscv64

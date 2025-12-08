@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-pingcap-check-dev@0.0~git20170902.0.4c65d06-5?arch=all
+- pkg:deb/debian/golang-github-pingcap-check-dev@0.0~git20170902.0.4c65d06-6?arch=all

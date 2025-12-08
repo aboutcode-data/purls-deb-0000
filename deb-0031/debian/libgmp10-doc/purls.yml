@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgmp10-doc@6.2.1%2Bdfsg-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/libgmp10-doc@6.2.1%2Bdfsg1-1.1?arch=all
+- pkg:deb/debian/libgmp10-doc@6.3.0%2Bdfsg-3?arch=all
+- pkg:deb/debian/libgmp10-doc@6.3.0%2Bdfsg-5?arch=all

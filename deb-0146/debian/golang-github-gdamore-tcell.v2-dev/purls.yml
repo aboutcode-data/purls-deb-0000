@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-gdamore-tcell.v2-dev@2.1.0-5?arch=all
+- pkg:deb/debian/golang-github-gdamore-tcell.v2-dev@2.5.4-1?arch=all
+- pkg:deb/debian/golang-github-gdamore-tcell.v2-dev@2.7.4-1?arch=all
+- pkg:deb/debian/golang-github-gdamore-tcell.v2-dev@2.9.0-1?arch=all

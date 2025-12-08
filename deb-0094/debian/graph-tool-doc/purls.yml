@@ -1,0 +1,5 @@
+- pkg:deb/debian/graph-tool-doc@2.45%2Bds-10?arch=all
+- pkg:deb/debian/graph-tool-doc@2.58%2Bds-1~bpo12%2B1?arch=all
+- pkg:deb/debian/graph-tool-doc@2.91%2Bds-5?arch=all
+- pkg:deb/debian/graph-tool-doc@2.91%2Bds-5~bpo12%2B1?arch=all
+- pkg:deb/debian/graph-tool-doc@2.98%2Bds-1?arch=all

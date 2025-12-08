@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-go-openapi-swag-dev@0.15.0-1?arch=all
+- pkg:deb/debian/golang-github-go-openapi-swag-dev@0.21.1-1?arch=all
+- pkg:deb/debian/golang-github-go-openapi-swag-dev@0.23.1-1?arch=all
+- pkg:deb/debian/golang-github-go-openapi-swag-dev@0.25.1-1?arch=all

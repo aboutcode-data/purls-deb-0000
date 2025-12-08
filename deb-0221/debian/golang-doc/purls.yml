@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-doc@1.15~1?arch=all
+- pkg:deb/debian/golang-doc@1.19~1?arch=all
+- pkg:deb/debian/golang-doc@1.23~2~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-doc@1.24~2?arch=all

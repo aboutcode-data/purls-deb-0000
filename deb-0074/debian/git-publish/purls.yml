@@ -1,0 +1,2 @@
+- pkg:deb/debian/git-publish@1.6.0-1?arch=all
+- pkg:deb/debian/git-publish@1.8.1-1?arch=all

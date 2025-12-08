@@ -1,0 +1,4 @@
+- pkg:deb/debian/git-extras@6.1.0-1?arch=all
+- pkg:deb/debian/git-extras@6.5.0-1?arch=all
+- pkg:deb/debian/git-extras@7.3.0-1?arch=all
+- pkg:deb/debian/git-extras@7.4.0-1?arch=all

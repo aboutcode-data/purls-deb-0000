@@ -1,0 +1,9 @@
+- pkg:deb/debian/libhwasan0@12.2.0-14%2Bdeb12u1?arch=arm64
+- pkg:deb/debian/libhwasan0@14.2.0-19?arch=amd64
+- pkg:deb/debian/libhwasan0@14.2.0-19?arch=arm64
+- pkg:deb/debian/libhwasan0@15.2.0-10?arch=amd64
+- pkg:deb/debian/libhwasan0@15.2.0-10?arch=arm64
+- pkg:deb/debian/libhwasan0@15.2.0-9?arch=amd64
+- pkg:deb/debian/libhwasan0@15.2.0-9?arch=arm64
+- pkg:deb/debian/libhwasan0@16-20251202-1?arch=amd64
+- pkg:deb/debian/libhwasan0@16-20251202-1?arch=arm64
