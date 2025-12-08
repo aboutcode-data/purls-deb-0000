@@ -1,0 +1,3 @@
+- pkg:deb/debian/zangband-data@2.7.5pre1-13?arch=all
+- pkg:deb/debian/zangband-data@2.7.5pre1-14?arch=all
+- pkg:deb/debian/zangband-data@2.7.5pre1-15?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/vcsh@1.20190621-5?arch=all
+- pkg:deb/debian/vcsh@2.0.10-0.2?arch=all

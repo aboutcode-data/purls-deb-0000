@@ -1,0 +1,4 @@
+- pkg:deb/debian/shotcut-data@21.01.29%2Bds-1?arch=all
+- pkg:deb/debian/shotcut-data@22.12.21%2Bds-2?arch=all
+- pkg:deb/debian/shotcut-data@25.03.29%2Bds-1?arch=all
+- pkg:deb/debian/shotcut-data@25.10.31%2Bds-2?arch=all

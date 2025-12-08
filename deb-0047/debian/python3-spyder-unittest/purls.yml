@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-spyder-unittest@0.4.1-1?arch=all
+- pkg:deb/debian/python3-spyder-unittest@0.5.1-3?arch=all
+- pkg:deb/debian/python3-spyder-unittest@0.7.0-1?arch=all
+- pkg:deb/debian/python3-spyder-unittest@0.7.1-1?arch=all

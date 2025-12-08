@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-textual@0.1.13-1?arch=all
+- pkg:deb/debian/python3-textual@2.1.2-1?arch=all

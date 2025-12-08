@@ -2,3 +2,6 @@
 - pkg:deb/debian/python3-ngs@2.10.9-1?arch=arm64
 - pkg:deb/debian/python3-ngs@2.10.9-1?arch=armhf
 - pkg:deb/debian/python3-ngs@2.10.9-1?arch=i386
+- pkg:deb/debian/python3-ngs@3.0.3%2Bdfsg-6~deb12u1?arch=all
+- pkg:deb/debian/python3-ngs@3.2.1%2Bdfsg-4?arch=all
+- pkg:deb/debian/python3-ngs@3.2.1%2Bdfsg-5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/waymore@3.7-1.1?arch=all
+- pkg:deb/debian/waymore@6.1-1~exp1?arch=all

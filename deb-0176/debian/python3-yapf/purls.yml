@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-yapf@0.30.0-1?arch=all
+- pkg:deb/debian/python3-yapf@0.32.0-1?arch=all
+- pkg:deb/debian/python3-yapf@0.40.2-3?arch=all
+- pkg:deb/debian/python3-yapf@0.43.0-1?arch=all

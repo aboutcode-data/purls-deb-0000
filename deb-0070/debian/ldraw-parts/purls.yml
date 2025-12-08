@@ -1,0 +1,3 @@
+- pkg:deb/debian/ldraw-parts@2003%2Bds-1?arch=all
+- pkg:deb/debian/ldraw-parts@2206%2Bds-1?arch=all
+- pkg:deb/debian/ldraw-parts@2502%2Bds-2?arch=all

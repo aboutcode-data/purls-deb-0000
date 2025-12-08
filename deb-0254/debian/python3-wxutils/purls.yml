@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-wxutils@0.2.7-1?arch=all
+- pkg:deb/debian/python3-wxutils@0.3.0-1?arch=all

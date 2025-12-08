@@ -1,0 +1,4 @@
+- pkg:deb/debian/cuneiform-common@1.1.0%2Bdfsg-12?arch=all
+- pkg:deb/debian/cuneiform-common@1.1.0%2Bdfsg-13?arch=all
+- pkg:deb/debian/cuneiform-common@1.1.0%2Bdfsg-8?arch=all
+- pkg:deb/debian/cuneiform-common@1.1.0%2Bdfsg-9?arch=all

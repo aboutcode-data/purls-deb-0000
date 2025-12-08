@@ -1,0 +1,2 @@
+- pkg:deb/debian/u-boot-efi-dtb@3?arch=all
+- pkg:deb/debian/u-boot-efi-dtb@4?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/othman@0.6.0-2?arch=all
+- pkg:deb/debian/othman@0.6.0-3?arch=all
+- pkg:deb/debian/othman@1.0.0-3?arch=all

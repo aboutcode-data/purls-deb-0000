@@ -1,0 +1,3 @@
+- pkg:deb/debian/system-config-printer@1.5.14-1?arch=all
+- pkg:deb/debian/system-config-printer@1.5.18-1?arch=all
+- pkg:deb/debian/system-config-printer@1.5.18-4?arch=all

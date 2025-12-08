@@ -1,0 +1,4 @@
+- pkg:deb/debian/sg3-utils-udev@1.45-1?arch=all
+- pkg:deb/debian/sg3-utils-udev@1.46-3?arch=all
+- pkg:deb/debian/sg3-utils-udev@1.48-2?arch=all
+- pkg:deb/debian/sg3-utils-udev@1.48-3?arch=all

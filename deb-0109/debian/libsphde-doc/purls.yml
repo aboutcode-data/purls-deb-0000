@@ -1,0 +1,3 @@
+- pkg:deb/debian/libsphde-doc@1.4.0-2?arch=all
+- pkg:deb/debian/libsphde-doc@1.4.0-5.1?arch=all
+- pkg:deb/debian/libsphde-doc@1.4.0-5?arch=all

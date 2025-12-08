@@ -1,0 +1,11 @@
+- pkg:deb/debian/xidle@20200802%2Bb1?arch=arm64
+- pkg:deb/debian/xidle@20200802%2Bb1?arch=riscv64
+- pkg:deb/debian/xidle@20200802?arch=amd64
+- pkg:deb/debian/xidle@20200802?arch=arm64
+- pkg:deb/debian/xidle@20200802?arch=armel
+- pkg:deb/debian/xidle@20200802?arch=armhf
+- pkg:deb/debian/xidle@20200802?arch=i386
+- pkg:deb/debian/xidle@20200802?arch=mips64el
+- pkg:deb/debian/xidle@20200802?arch=mipsel
+- pkg:deb/debian/xidle@20200802?arch=ppc64el
+- pkg:deb/debian/xidle@20200802?arch=s390x

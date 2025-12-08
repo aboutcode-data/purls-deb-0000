@@ -1,0 +1,2 @@
+- pkg:deb/debian/sysprofile@0.3.10?arch=all
+- pkg:deb/debian/sysprofile@0.3.9%2Bnmu1?arch=all

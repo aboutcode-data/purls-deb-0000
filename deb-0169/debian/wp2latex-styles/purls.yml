@@ -1,0 +1,4 @@
+- pkg:deb/debian/wp2latex-styles@3.112%2Bds-1?arch=all
+- pkg:deb/debian/wp2latex-styles@3.97%2Bds-1?arch=all
+- pkg:deb/debian/wp2latex-styles@4.15~ds-1?arch=all
+- pkg:deb/debian/wp2latex-styles@4.18c~ds-1?arch=all

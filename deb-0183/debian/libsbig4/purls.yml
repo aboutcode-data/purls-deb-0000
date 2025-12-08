@@ -1,0 +1,3 @@
+- pkg:deb/debian/libsbig4@4.9.9-4?arch=amd64
+- pkg:deb/debian/libsbig4@4.9.9-4?arch=arm64
+- pkg:deb/debian/libsbig4@4.9.9-4?arch=armhf

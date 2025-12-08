@@ -1,0 +1,2 @@
+- pkg:deb/debian/xtensor-dev@0.24.3-1?arch=all
+- pkg:deb/debian/xtensor-dev@0.25.0-2?arch=all

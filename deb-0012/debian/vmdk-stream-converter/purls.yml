@@ -1,0 +1,2 @@
+- pkg:deb/debian/vmdk-stream-converter@0.2-7?arch=all
+- pkg:deb/debian/vmdk-stream-converter@0.2-8?arch=all

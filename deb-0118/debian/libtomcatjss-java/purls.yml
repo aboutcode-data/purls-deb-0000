@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtomcatjss-java@7.6.1-1?arch=all
+- pkg:deb/debian/libtomcatjss-java@8.4.0-2%2Bexp1?arch=all

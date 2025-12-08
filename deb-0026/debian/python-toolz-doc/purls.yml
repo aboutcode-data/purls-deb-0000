@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-toolz-doc@0.12.0-1?arch=all
+- pkg:deb/debian/python-toolz-doc@0.9.0-1.1?arch=all
+- pkg:deb/debian/python-toolz-doc@1.0.0-2?arch=all

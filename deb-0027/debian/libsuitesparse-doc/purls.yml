@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsuitesparse-doc@5.12.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/libsuitesparse-doc@5.8.1%2Bdfsg-2?arch=all
+- pkg:deb/debian/libsuitesparse-doc@7.10.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/libsuitesparse-doc@7.11.0%2Bdfsg-2?arch=all

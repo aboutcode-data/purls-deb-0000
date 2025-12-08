@@ -1,0 +1,8 @@
+- pkg:deb/debian/yorick-full@2.2.04%2Bdfsg1%2Bfull%2Bb1?arch=amd64
+- pkg:deb/debian/yorick-full@2.2.04%2Bdfsg1%2Bfull%2Bb1?arch=riscv64
+- pkg:deb/debian/yorick-full@2.2.04%2Bdfsg1%2Bfull?arch=arm64
+- pkg:deb/debian/yorick-full@2.2.04%2Bdfsg1%2Bfull?arch=armel
+- pkg:deb/debian/yorick-full@2.2.04%2Bdfsg1%2Bfull?arch=armhf
+- pkg:deb/debian/yorick-full@2.2.04%2Bdfsg1%2Bfull?arch=i386
+- pkg:deb/debian/yorick-full@2.2.04%2Bdfsg1%2Bfull?arch=ppc64el
+- pkg:deb/debian/yorick-full@2.2.04%2Bdfsg1%2Bfull?arch=s390x

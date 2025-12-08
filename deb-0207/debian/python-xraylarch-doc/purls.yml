@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-xraylarch-doc@0.9.58%2Bds1-5?arch=all
+- pkg:deb/debian/python-xraylarch-doc@0.9.81%2Bds1-2?arch=all
+- pkg:deb/debian/python-xraylarch-doc@0.9.81%2Bds1-3?arch=all

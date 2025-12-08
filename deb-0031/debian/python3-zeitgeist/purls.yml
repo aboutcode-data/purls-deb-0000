@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-zeitgeist@1.0.3-4?arch=all
+- pkg:deb/debian/python3-zeitgeist@1.0.4-5?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/tempest@25.0.1-1?arch=all
+- pkg:deb/debian/tempest@33.0.0-1?arch=all
+- pkg:deb/debian/tempest@43.0.0-3?arch=all
+- pkg:deb/debian/tempest@45.0.0-2?arch=all

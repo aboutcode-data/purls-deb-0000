@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-uglify-js@3.12.8-1?arch=all
+- pkg:deb/debian/node-uglify-js@3.17.4-2?arch=all

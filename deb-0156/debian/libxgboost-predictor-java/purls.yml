@@ -1,0 +1,2 @@
+- pkg:deb/debian/libxgboost-predictor-java@0.3.1%2Bdfsg-2?arch=all
+- pkg:deb/debian/libxgboost-predictor-java@0.3.1%2Bdfsg-3?arch=all

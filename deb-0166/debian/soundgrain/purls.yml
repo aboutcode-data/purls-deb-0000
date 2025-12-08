@@ -1,0 +1,3 @@
+- pkg:deb/debian/soundgrain@6.0.1-2?arch=all
+- pkg:deb/debian/soundgrain@6.0.1-4?arch=all
+- pkg:deb/debian/soundgrain@6.0.1-5?arch=all

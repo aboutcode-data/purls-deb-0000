@@ -1,0 +1,4 @@
+- pkg:deb/debian/libjs-vue-router@3.4.9%2Bds-2?arch=all
+- pkg:deb/debian/libjs-vue-router@3.6.5~ds-1?arch=all
+- pkg:deb/debian/libjs-vue-router@3.6.5~ds1-1?arch=all
+- pkg:deb/debian/libjs-vue-router@3.6.5~ds1-2?arch=all

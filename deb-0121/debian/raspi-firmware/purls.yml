@@ -1,0 +1,5 @@
+- pkg:deb/debian/raspi-firmware@1.20210303%2Bds-2?arch=arm64
+- pkg:deb/debian/raspi-firmware@1.20210303%2Bds-2?arch=armhf
+- pkg:deb/debian/raspi-firmware@1.20220830%2Bds-1?arch=all
+- pkg:deb/debian/raspi-firmware@1.20240424%2Bds-6?arch=all
+- pkg:deb/debian/raspi-firmware@1.20250430%2Bds-4?arch=all

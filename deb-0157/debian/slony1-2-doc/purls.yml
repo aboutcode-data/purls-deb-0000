@@ -1,0 +1,3 @@
+- pkg:deb/debian/slony1-2-doc@2.2.10-1?arch=all
+- pkg:deb/debian/slony1-2-doc@2.2.11-1?arch=all
+- pkg:deb/debian/slony1-2-doc@2.2.11-6?arch=all

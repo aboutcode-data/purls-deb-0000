@@ -1,0 +1,4 @@
+- pkg:deb/debian/dahdi-firmware-nonfree@2.11.1.0.20170917-1?arch=all
+- pkg:deb/debian/dahdi-firmware-nonfree@2.11.1.0.20170917-2?arch=all
+- pkg:deb/debian/dahdi-firmware-nonfree@2.11.1.0.20170917-3.1?arch=all
+- pkg:deb/debian/dahdi-firmware-nonfree@2.11.1.0.20170917-3?arch=all

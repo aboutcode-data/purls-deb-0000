@@ -1,0 +1,3 @@
+- pkg:deb/debian/variety@0.8.10-1?arch=all
+- pkg:deb/debian/variety@0.8.13-1?arch=all
+- pkg:deb/debian/variety@0.8.5-1?arch=all

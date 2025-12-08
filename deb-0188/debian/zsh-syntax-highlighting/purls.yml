@@ -1,0 +1,2 @@
+- pkg:deb/debian/zsh-syntax-highlighting@0.7.1-2?arch=all
+- pkg:deb/debian/zsh-syntax-highlighting@0.8.0-2?arch=all

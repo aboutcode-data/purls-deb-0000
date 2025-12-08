@@ -1,0 +1,2 @@
+- pkg:deb/debian/towncrier@22.12.0-1?arch=all
+- pkg:deb/debian/towncrier@24.8.0-2?arch=all

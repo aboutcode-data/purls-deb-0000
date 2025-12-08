@@ -1,0 +1,11 @@
+- pkg:deb/debian/tuxcmd-modules@0.6.70%2Bds-5%2Bb2?arch=amd64
+- pkg:deb/debian/tuxcmd-modules@0.6.70%2Bds-5%2Bb2?arch=arm64
+- pkg:deb/debian/tuxcmd-modules@0.6.70%2Bds-5%2Bb2?arch=armhf
+- pkg:deb/debian/tuxcmd-modules@0.6.70%2Bds-5%2Bb2?arch=i386
+- pkg:deb/debian/tuxcmd-modules@0.6.70%2Bds-6%2Bb1?arch=amd64
+- pkg:deb/debian/tuxcmd-modules@0.6.70%2Bds-6?arch=arm64
+- pkg:deb/debian/tuxcmd-modules@0.6.70%2Bds-6?arch=armel
+- pkg:deb/debian/tuxcmd-modules@0.6.70%2Bds-6?arch=armhf
+- pkg:deb/debian/tuxcmd-modules@0.6.70%2Bds-6?arch=i386
+- pkg:deb/debian/tuxcmd-modules@0.6.70%2Bds-6?arch=mipsel
+- pkg:deb/debian/tuxcmd-modules@0.6.70%2Bds-6?arch=ppc64el

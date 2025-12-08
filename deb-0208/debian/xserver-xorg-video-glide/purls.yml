@@ -1,0 +1,6 @@
+- pkg:deb/debian/xserver-xorg-video-glide@1.2.2-1%2Bb7?arch=amd64
+- pkg:deb/debian/xserver-xorg-video-glide@1.2.2-1%2Bb7?arch=i386
+- pkg:deb/debian/xserver-xorg-video-glide@1.2.2-1%2Bb8?arch=amd64
+- pkg:deb/debian/xserver-xorg-video-glide@1.2.2-1%2Bb8?arch=i386
+- pkg:deb/debian/xserver-xorg-video-glide@1.2.2-2?arch=amd64
+- pkg:deb/debian/xserver-xorg-video-glide@1.2.2-2?arch=i386

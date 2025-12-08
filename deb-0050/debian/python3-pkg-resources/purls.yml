@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pkg-resources@52.0.0-4?arch=all
+- pkg:deb/debian/python3-pkg-resources@66.1.1-1%2Bdeb12u2?arch=all
+- pkg:deb/debian/python3-pkg-resources@78.1.1-0.1?arch=all
+- pkg:deb/debian/python3-pkg-resources@80.9.0-1?arch=all

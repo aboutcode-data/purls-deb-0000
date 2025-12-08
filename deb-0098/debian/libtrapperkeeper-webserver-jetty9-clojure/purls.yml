@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtrapperkeeper-webserver-jetty9-clojure@4.1.0-4?arch=all
+- pkg:deb/debian/libtrapperkeeper-webserver-jetty9-clojure@4.4.1-5?arch=all
+- pkg:deb/debian/libtrapperkeeper-webserver-jetty9-clojure@4.5.2-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/cpio-doc@2.13-1?arch=all
+- pkg:deb/debian/cpio-doc@2.15-1?arch=all

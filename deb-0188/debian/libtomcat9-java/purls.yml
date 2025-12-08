@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtomcat9-java@9.0.111-1?arch=all
+- pkg:deb/debian/libtomcat9-java@9.0.43-2~deb11u10?arch=all
+- pkg:deb/debian/libtomcat9-java@9.0.70-2?arch=all
+- pkg:deb/debian/libtomcat9-java@9.0.95-1?arch=all

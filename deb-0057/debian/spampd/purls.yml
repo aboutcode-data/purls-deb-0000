@@ -1,0 +1,3 @@
+- pkg:deb/debian/spampd@2.53-1.1?arch=all
+- pkg:deb/debian/spampd@2.53-1.2?arch=all
+- pkg:deb/debian/spampd@2.62-2?arch=all

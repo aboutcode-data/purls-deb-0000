@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-sphinxcontrib.programoutput-doc@0.16-1?arch=all
+- pkg:deb/debian/python-sphinxcontrib.programoutput-doc@0.17-2?arch=all
+- pkg:deb/debian/python-sphinxcontrib.programoutput-doc@0.17-6?arch=all

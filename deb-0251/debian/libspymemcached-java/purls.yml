@@ -1,0 +1,2 @@
+- pkg:deb/debian/libspymemcached-java@2.12.3%2Bdfsg-2?arch=all
+- pkg:deb/debian/libspymemcached-java@2.12.3%2Bdfsg-3?arch=all

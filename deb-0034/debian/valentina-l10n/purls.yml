@@ -1,0 +1,4 @@
+- pkg:deb/debian/valentina-l10n@0.7.47~dfsg-1?arch=all
+- pkg:deb/debian/valentina-l10n@0.7.52~dfsg-1?arch=all
+- pkg:deb/debian/valentina-l10n@0.7.53~dfsg-2?arch=all
+- pkg:deb/debian/valentina-l10n@1.0.0~dfsg-4?arch=all

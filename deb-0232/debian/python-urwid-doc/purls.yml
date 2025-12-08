@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-urwid-doc@2.1.2-1?arch=all
+- pkg:deb/debian/python-urwid-doc@2.1.2-4?arch=all
+- pkg:deb/debian/python-urwid-doc@2.6.16-1?arch=all

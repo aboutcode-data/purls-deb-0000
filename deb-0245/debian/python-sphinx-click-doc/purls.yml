@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-sphinx-click-doc@2.5.0-1?arch=all
+- pkg:deb/debian/python-sphinx-click-doc@4.4.0-1?arch=all
+- pkg:deb/debian/python-sphinx-click-doc@6.0.0-2?arch=all
+- pkg:deb/debian/python-sphinx-click-doc@6.1.0-2?arch=all

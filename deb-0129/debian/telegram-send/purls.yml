@@ -1,0 +1,2 @@
+- pkg:deb/debian/telegram-send@0.34-2?arch=all
+- pkg:deb/debian/telegram-send@0.37-3?arch=all

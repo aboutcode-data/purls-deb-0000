@@ -1,0 +1,8 @@
+- pkg:deb/debian/libsofia-sip-ua0t64@1.12.11%2B20110422.1%2B1e14eea~dfsg-6.1%2Bb1?arch=amd64
+- pkg:deb/debian/libsofia-sip-ua0t64@1.12.11%2B20110422.1%2B1e14eea~dfsg-6.1%2Bb1?arch=armel
+- pkg:deb/debian/libsofia-sip-ua0t64@1.12.11%2B20110422.1%2B1e14eea~dfsg-6.1%2Bb1?arch=armhf
+- pkg:deb/debian/libsofia-sip-ua0t64@1.12.11%2B20110422.1%2B1e14eea~dfsg-6.1%2Bb1?arch=i386
+- pkg:deb/debian/libsofia-sip-ua0t64@1.12.11%2B20110422.1%2B1e14eea~dfsg-6.1%2Bb1?arch=ppc64el
+- pkg:deb/debian/libsofia-sip-ua0t64@1.12.11%2B20110422.1%2B1e14eea~dfsg-6.1%2Bb1?arch=riscv64
+- pkg:deb/debian/libsofia-sip-ua0t64@1.12.11%2B20110422.1%2B1e14eea~dfsg-6.1%2Bb1?arch=s390x
+- pkg:deb/debian/libsofia-sip-ua0t64@1.12.11%2B20110422.1%2B1e14eea~dfsg-6.1%2Bb2?arch=arm64

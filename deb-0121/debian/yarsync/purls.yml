@@ -1,0 +1,2 @@
+- pkg:deb/debian/yarsync@0.1.1%2Bdeb-2?arch=all
+- pkg:deb/debian/yarsync@0.3.1-1?arch=all

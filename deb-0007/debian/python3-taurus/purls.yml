@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-taurus@4.7.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/python3-taurus@5.0.0-1?arch=all
+- pkg:deb/debian/python3-taurus@5.1.8-1~bpo12%2B1?arch=all
+- pkg:deb/debian/python3-taurus@5.2.3-2?arch=all

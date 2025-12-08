@@ -1,0 +1,4 @@
+- pkg:deb/debian/signon-ui-qt@0.17%2Bgit20231016.eef943f-3?arch=amd64
+- pkg:deb/debian/signon-ui-qt@0.17%2Bgit20231016.eef943f-3?arch=arm64
+- pkg:deb/debian/signon-ui-qt@0.17%2Bgit20231016.eef943f-3?arch=armhf
+- pkg:deb/debian/signon-ui-qt@0.17%2Bgit20231016.eef943f-3?arch=i386

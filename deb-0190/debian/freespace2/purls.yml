@@ -1,0 +1,6 @@
+- pkg:deb/debian/freespace2@24.0.2%2Brepack-1?arch=amd64
+- pkg:deb/debian/freespace2@24.0.2%2Brepack-1?arch=i386
+- pkg:deb/debian/freespace2@24.2.0%2Brepack-1?arch=amd64
+- pkg:deb/debian/freespace2@24.2.0%2Brepack-1?arch=i386
+- pkg:deb/debian/freespace2@3.7.4%2Brepack-1.1?arch=amd64
+- pkg:deb/debian/freespace2@3.7.4%2Brepack-1.1?arch=i386

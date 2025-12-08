@@ -1,0 +1,2 @@
+- pkg:deb/debian/bison-doc@3.7.5%2Brepack-1?arch=all
+- pkg:deb/debian/bison-doc@3.8.2%2Brepack-1?arch=all

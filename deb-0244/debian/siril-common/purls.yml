@@ -1,0 +1,4 @@
+- pkg:deb/debian/siril-common@0.99.8.1-1?arch=all
+- pkg:deb/debian/siril-common@1.0.6-1?arch=all
+- pkg:deb/debian/siril-common@1.2.6-1?arch=all
+- pkg:deb/debian/siril-common@1.4.0~rc2-1?arch=all

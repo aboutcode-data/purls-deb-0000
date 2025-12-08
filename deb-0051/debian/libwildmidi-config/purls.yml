@@ -1,0 +1,2 @@
+- pkg:deb/debian/libwildmidi-config@0.4.3-1?arch=all
+- pkg:deb/debian/libwildmidi-config@0.4.6-1?arch=all

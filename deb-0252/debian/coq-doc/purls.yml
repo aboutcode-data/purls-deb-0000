@@ -1,0 +1,2 @@
+- pkg:deb/debian/coq-doc@8.16.1-1?arch=all
+- pkg:deb/debian/coq-doc@8.20.0-2?arch=all

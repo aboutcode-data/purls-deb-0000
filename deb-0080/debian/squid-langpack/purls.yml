@@ -1,0 +1,2 @@
+- pkg:deb/debian/squid-langpack@20200403-1?arch=all
+- pkg:deb/debian/squid-langpack@20220130-1?arch=all

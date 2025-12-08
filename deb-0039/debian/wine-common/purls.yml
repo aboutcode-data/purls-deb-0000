@@ -1,0 +1,2 @@
+- pkg:deb/debian/wine-common@10.0~repack-11?arch=all
+- pkg:deb/debian/wine-common@10.0~repack-12?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/thunar-data@4.16.8-1?arch=all
+- pkg:deb/debian/thunar-data@4.18.4-1?arch=all
+- pkg:deb/debian/thunar-data@4.20.2-1%2Bdeb13u1?arch=all
+- pkg:deb/debian/thunar-data@4.20.5-1?arch=all

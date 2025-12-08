@@ -1,0 +1,9 @@
+- pkg:deb/debian/texlive-binaries-sse2@2024.20240313.70630%2Bds-6?arch=amd64
+- pkg:deb/debian/texlive-binaries-sse2@2024.20240313.70630%2Bds-6?arch=arm64
+- pkg:deb/debian/texlive-binaries-sse2@2024.20240313.70630%2Bds-6?arch=armel
+- pkg:deb/debian/texlive-binaries-sse2@2024.20240313.70630%2Bds-6?arch=armhf
+- pkg:deb/debian/texlive-binaries-sse2@2024.20240313.70630%2Bds-6?arch=i386
+- pkg:deb/debian/texlive-binaries-sse2@2025.20250727.75242%2Bds-5?arch=amd64
+- pkg:deb/debian/texlive-binaries-sse2@2025.20250727.75242%2Bds-5?arch=arm64
+- pkg:deb/debian/texlive-binaries-sse2@2025.20250727.75242%2Bds-5?arch=armhf
+- pkg:deb/debian/texlive-binaries-sse2@2025.20250727.75242%2Bds-5?arch=i386

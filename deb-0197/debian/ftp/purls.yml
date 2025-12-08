@@ -2,3 +2,5 @@
 - pkg:deb/debian/ftp@0.17-34.1.1?arch=arm64
 - pkg:deb/debian/ftp@0.17-34.1.1?arch=armhf
 - pkg:deb/debian/ftp@0.17-34.1.1?arch=i386
+- pkg:deb/debian/ftp@20210827-4?arch=all
+- pkg:deb/debian/ftp@20230507-2?arch=all

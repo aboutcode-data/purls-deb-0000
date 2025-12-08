@@ -1,0 +1,7 @@
+- pkg:deb/debian/libtgl-0.0.0.20160623-0t64@2.0.1%2Bgit20160323.ffb04cac-5?arch=amd64
+- pkg:deb/debian/libtgl-0.0.0.20160623-0t64@2.0.1%2Bgit20160323.ffb04cac-5?arch=arm64
+- pkg:deb/debian/libtgl-0.0.0.20160623-0t64@2.0.1%2Bgit20160323.ffb04cac-5?arch=armhf
+- pkg:deb/debian/libtgl-0.0.0.20160623-0t64@2.0.1%2Bgit20160323.ffb04cac-5?arch=i386
+- pkg:deb/debian/libtgl-0.0.0.20160623-0t64@2.0.1%2Bgit20160323.ffb04cac-5?arch=ppc64el
+- pkg:deb/debian/libtgl-0.0.0.20160623-0t64@2.0.1%2Bgit20160323.ffb04cac-5?arch=riscv64
+- pkg:deb/debian/libtgl-0.0.0.20160623-0t64@2.0.1%2Bgit20160323.ffb04cac-5?arch=s390x

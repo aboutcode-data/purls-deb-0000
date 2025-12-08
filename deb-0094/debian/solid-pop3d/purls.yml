@@ -1,0 +1,11 @@
+- pkg:deb/debian/solid-pop3d@0.15-31%2Bb2?arch=arm64
+- pkg:deb/debian/solid-pop3d@0.15-31%2Bb2?arch=riscv64
+- pkg:deb/debian/solid-pop3d@0.15-31?arch=amd64
+- pkg:deb/debian/solid-pop3d@0.15-31?arch=arm64
+- pkg:deb/debian/solid-pop3d@0.15-31?arch=armel
+- pkg:deb/debian/solid-pop3d@0.15-31?arch=armhf
+- pkg:deb/debian/solid-pop3d@0.15-31?arch=i386
+- pkg:deb/debian/solid-pop3d@0.15-31?arch=mips64el
+- pkg:deb/debian/solid-pop3d@0.15-31?arch=mipsel
+- pkg:deb/debian/solid-pop3d@0.15-31?arch=ppc64el
+- pkg:deb/debian/solid-pop3d@0.15-31?arch=s390x

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-yoyo-doc@7.3.1%2Bdfsg1-1?arch=all
+- pkg:deb/debian/python-yoyo-doc@8.2.0%2Bdfsg1-1?arch=all
+- pkg:deb/debian/python-yoyo-doc@9.0.0%2Bdfsg1-3?arch=all

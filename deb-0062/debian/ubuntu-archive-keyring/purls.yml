@@ -1,0 +1,2 @@
+- pkg:deb/debian/ubuntu-archive-keyring@2023.11.28.1-0.2?arch=all
+- pkg:deb/debian/ubuntu-archive-keyring@2023.11.28.1-0.2~bpo12%2B1?arch=all

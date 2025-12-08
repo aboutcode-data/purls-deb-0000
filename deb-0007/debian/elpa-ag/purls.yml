@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-ag@0.48-1.1?arch=all
+- pkg:deb/debian/elpa-ag@0.48-1?arch=all
+- pkg:deb/debian/elpa-ag@0.48-2?arch=all
+- pkg:deb/debian/elpa-ag@0.48-3?arch=all

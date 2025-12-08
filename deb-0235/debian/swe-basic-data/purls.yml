@@ -1,1 +1,2 @@
 - pkg:deb/debian/swe-basic-data@1.80.00.0002-1.1?arch=all
+- pkg:deb/debian/swe-basic-data@4.0-20221111-2?arch=all

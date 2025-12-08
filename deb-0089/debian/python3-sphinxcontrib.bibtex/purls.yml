@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-sphinxcontrib.bibtex@1.0.0-1?arch=all
+- pkg:deb/debian/python3-sphinxcontrib.bibtex@2.5.0-1?arch=all
+- pkg:deb/debian/python3-sphinxcontrib.bibtex@2.6.2-1?arch=all
+- pkg:deb/debian/python3-sphinxcontrib.bibtex@2.6.5-3?arch=all

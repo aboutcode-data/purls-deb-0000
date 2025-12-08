@@ -1,0 +1,2 @@
+- pkg:deb/debian/raspi3-firmware@1.20210303%2Bds-2?arch=arm64
+- pkg:deb/debian/raspi3-firmware@1.20210303%2Bds-2?arch=armhf

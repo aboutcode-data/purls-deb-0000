@@ -1,0 +1,2 @@
+- pkg:deb/debian/xdg-terminal-exec@0.12.3-1?arch=all
+- pkg:deb/debian/xdg-terminal-exec@0.13.3-2?arch=all

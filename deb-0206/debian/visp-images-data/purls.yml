@@ -1,0 +1,4 @@
+- pkg:deb/debian/visp-images-data@3.3.0-1?arch=all
+- pkg:deb/debian/visp-images-data@3.5.0-1?arch=all
+- pkg:deb/debian/visp-images-data@3.6.0-1?arch=all
+- pkg:deb/debian/visp-images-data@3.7.3-1?arch=all

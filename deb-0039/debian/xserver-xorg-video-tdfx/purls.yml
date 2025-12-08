@@ -1,0 +1,15 @@
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-4?arch=amd64
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-4?arch=arm64
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-4?arch=armhf
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-4?arch=i386
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-5?arch=amd64
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-5?arch=arm64
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-5?arch=armel
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-5?arch=armhf
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-5?arch=i386
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-5?arch=mips64el
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-5?arch=mipsel
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-5?arch=ppc64el
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-6?arch=amd64
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-6?arch=i386
+- pkg:deb/debian/xserver-xorg-video-tdfx@1.5.0-6?arch=ppc64el

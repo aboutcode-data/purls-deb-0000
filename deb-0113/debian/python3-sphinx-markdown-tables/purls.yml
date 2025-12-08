@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-sphinx-markdown-tables@0.0.15-2?arch=all
+- pkg:deb/debian/python3-sphinx-markdown-tables@0.0.17-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/wbar-config@2.3.4-10?arch=amd64
+- pkg:deb/debian/wbar-config@2.3.4-10?arch=arm64
+- pkg:deb/debian/wbar-config@2.3.4-10?arch=armhf
+- pkg:deb/debian/wbar-config@2.3.4-10?arch=i386

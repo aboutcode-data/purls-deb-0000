@@ -1,0 +1,4 @@
+- pkg:deb/debian/tryton-modules-product@5.0.3-1?arch=all
+- pkg:deb/debian/tryton-modules-product@6.0.3-3?arch=all
+- pkg:deb/debian/tryton-modules-product@7.0.2-1?arch=all
+- pkg:deb/debian/tryton-modules-product@7.0.3-1?arch=all

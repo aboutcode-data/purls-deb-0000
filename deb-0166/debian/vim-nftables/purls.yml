@@ -1,0 +1,3 @@
+- pkg:deb/debian/vim-nftables@0.20200629-6?arch=all
+- pkg:deb/debian/vim-nftables@0.20200629-8?arch=all
+- pkg:deb/debian/vim-nftables@0.20200629-9?arch=all

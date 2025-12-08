@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-zope.testing@4.9-1?arch=all
+- pkg:deb/debian/python3-zope.testing@5.0.1-1?arch=all
+- pkg:deb/debian/python3-zope.testing@5.1-1?arch=all
+- pkg:deb/debian/python3-zope.testing@6.0-2?arch=all

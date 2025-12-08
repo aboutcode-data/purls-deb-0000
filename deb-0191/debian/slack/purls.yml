@@ -1,0 +1,2 @@
+- pkg:deb/debian/slack@0.15.2-11?arch=all
+- pkg:deb/debian/slack@0.15.2-9.1?arch=all

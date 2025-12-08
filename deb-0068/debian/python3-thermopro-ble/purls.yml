@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-thermopro-ble@0.13.1-1?arch=all
+- pkg:deb/debian/python3-thermopro-ble@1.1.0-1?arch=all

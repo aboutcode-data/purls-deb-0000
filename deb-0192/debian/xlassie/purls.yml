@@ -1,0 +1,17 @@
+- pkg:deb/debian/xlassie@1.8-21%2Bb2?arch=amd64
+- pkg:deb/debian/xlassie@1.8-21%2Bb2?arch=arm64
+- pkg:deb/debian/xlassie@1.8-21%2Bb2?arch=armel
+- pkg:deb/debian/xlassie@1.8-21%2Bb2?arch=armhf
+- pkg:deb/debian/xlassie@1.8-21%2Bb2?arch=i386
+- pkg:deb/debian/xlassie@1.8-21%2Bb2?arch=mips64el
+- pkg:deb/debian/xlassie@1.8-21%2Bb2?arch=mipsel
+- pkg:deb/debian/xlassie@1.8-21%2Bb2?arch=ppc64el
+- pkg:deb/debian/xlassie@1.8-21%2Bb2?arch=s390x
+- pkg:deb/debian/xlassie@1.8-23?arch=amd64
+- pkg:deb/debian/xlassie@1.8-23?arch=arm64
+- pkg:deb/debian/xlassie@1.8-23?arch=armel
+- pkg:deb/debian/xlassie@1.8-23?arch=armhf
+- pkg:deb/debian/xlassie@1.8-23?arch=i386
+- pkg:deb/debian/xlassie@1.8-23?arch=ppc64el
+- pkg:deb/debian/xlassie@1.8-23?arch=riscv64
+- pkg:deb/debian/xlassie@1.8-23?arch=s390x
