@@ -1,0 +1,2 @@
+- pkg:deb/debian/libpqxx-doc@6.4.5-2?arch=all
+- pkg:deb/debian/libpqxx-doc@7.10.0-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgettext-commons-java@0.9.6-6?arch=all
+- pkg:deb/debian/libgettext-commons-java@0.9.8-1?arch=all

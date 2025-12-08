@@ -1,0 +1,4 @@
+- pkg:deb/debian/libosinfo-l10n@1.10.0-2?arch=all
+- pkg:deb/debian/libosinfo-l10n@1.12.0-2?arch=all
+- pkg:deb/debian/libosinfo-l10n@1.12.0-3?arch=all
+- pkg:deb/debian/libosinfo-l10n@1.8.0-1?arch=all

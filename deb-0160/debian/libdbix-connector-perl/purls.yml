@@ -1,0 +1,3 @@
+- pkg:deb/debian/libdbix-connector-perl@0.56-1?arch=all
+- pkg:deb/debian/libdbix-connector-perl@0.58-1?arch=all
+- pkg:deb/debian/libdbix-connector-perl@0.60-1?arch=all

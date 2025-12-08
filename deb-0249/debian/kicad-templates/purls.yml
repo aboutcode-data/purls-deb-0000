@@ -1,0 +1,4 @@
+- pkg:deb/debian/kicad-templates@5.1.7-1?arch=all
+- pkg:deb/debian/kicad-templates@6.0.8-1?arch=all
+- pkg:deb/debian/kicad-templates@9.0.0-1?arch=all
+- pkg:deb/debian/kicad-templates@9.0.0-1~bpo12%2B1?arch=all

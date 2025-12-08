@@ -1,0 +1,4 @@
+- pkg:deb/debian/hddtemp@0.3-beta15-54?arch=amd64
+- pkg:deb/debian/hddtemp@0.3-beta15-54?arch=arm64
+- pkg:deb/debian/hddtemp@0.3-beta15-54?arch=armhf
+- pkg:deb/debian/hddtemp@0.3-beta15-54?arch=i386

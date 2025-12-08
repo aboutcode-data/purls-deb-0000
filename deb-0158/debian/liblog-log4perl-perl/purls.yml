@@ -1,0 +1,2 @@
+- pkg:deb/debian/liblog-log4perl-perl@1.54-1?arch=all
+- pkg:deb/debian/liblog-log4perl-perl@1.57-1?arch=all

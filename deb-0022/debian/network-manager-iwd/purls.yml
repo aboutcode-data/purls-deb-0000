@@ -1,0 +1,2 @@
+- pkg:deb/debian/network-manager-iwd@3.10-1?arch=all
+- pkg:deb/debian/network-manager-iwd@3.8-2?arch=all

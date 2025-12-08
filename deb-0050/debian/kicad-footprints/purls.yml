@@ -1,0 +1,6 @@
+- pkg:deb/debian/kicad-footprints@5.1.7-1?arch=all
+- pkg:deb/debian/kicad-footprints@6.0.11-1?arch=all
+- pkg:deb/debian/kicad-footprints@9.0.2-1?arch=all
+- pkg:deb/debian/kicad-footprints@9.0.6-1?arch=all
+- pkg:deb/debian/kicad-footprints@9.0.6-1~bpo12%2B1?arch=all
+- pkg:deb/debian/kicad-footprints@9.0.6-1~bpo13%2B1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libpmemobj-cpp-dev@1.12-1?arch=amd64
+- pkg:deb/debian/libpmemobj-cpp-dev@1.12-1?arch=arm64

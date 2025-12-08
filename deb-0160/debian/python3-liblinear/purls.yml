@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-liblinear@2.3.0%2Bdfsg-5?arch=all
+- pkg:deb/debian/python3-liblinear@2.43%2Bdfsg-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhangul-data@0.1.0%2Bgit20191003-2?arch=all
+- pkg:deb/debian/libhangul-data@0.2.0-1?arch=all

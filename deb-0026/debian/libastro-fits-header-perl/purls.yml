@@ -1,0 +1,2 @@
+- pkg:deb/debian/libastro-fits-header-perl@3.07-2.1?arch=all
+- pkg:deb/debian/libastro-fits-header-perl@3.09-1?arch=all

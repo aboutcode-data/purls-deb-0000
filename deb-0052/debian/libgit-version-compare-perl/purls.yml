@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgit-version-compare-perl@1.004-1?arch=all
+- pkg:deb/debian/libgit-version-compare-perl@1.005-1?arch=all

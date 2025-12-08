@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjarjar-java@1.4%2Bsvn142-10?arch=all
+- pkg:deb/debian/libjarjar-java@1.4%2Bsvn142-12?arch=all

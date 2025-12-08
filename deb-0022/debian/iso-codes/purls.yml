@@ -1,0 +1,4 @@
+- pkg:deb/debian/iso-codes@4.15.0-1?arch=all
+- pkg:deb/debian/iso-codes@4.18.0-1?arch=all
+- pkg:deb/debian/iso-codes@4.19.0-1?arch=all
+- pkg:deb/debian/iso-codes@4.6.0-1?arch=all

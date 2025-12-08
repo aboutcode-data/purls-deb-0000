@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-stringprep-doc@1.0.0-11?arch=all
+- pkg:deb/debian/libghc-stringprep-doc@1.0.0-12?arch=all
+- pkg:deb/debian/libghc-stringprep-doc@1.0.0-14?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmarc-file-mij-perl@0.04-2.1?arch=all
+- pkg:deb/debian/libmarc-file-mij-perl@0.04-3?arch=all
+- pkg:deb/debian/libmarc-file-mij-perl@0.04-4?arch=all
+- pkg:deb/debian/libmarc-file-mij-perl@0.04-6?arch=all

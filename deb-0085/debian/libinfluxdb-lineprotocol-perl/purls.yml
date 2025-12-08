@@ -1,0 +1,2 @@
+- pkg:deb/debian/libinfluxdb-lineprotocol-perl@1.014-1?arch=all
+- pkg:deb/debian/libinfluxdb-lineprotocol-perl@1.015-1?arch=all

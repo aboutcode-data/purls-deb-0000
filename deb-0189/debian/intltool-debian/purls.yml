@@ -1,0 +1,2 @@
+- pkg:deb/debian/intltool-debian@0.35.0%2B20060710.5?arch=all
+- pkg:deb/debian/intltool-debian@0.35.0%2B20060710.6?arch=all

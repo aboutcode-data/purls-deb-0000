@@ -1,0 +1,5 @@
+- pkg:deb/debian/libfm-qt-l10n@0.16.0-3?arch=all
+- pkg:deb/debian/libfm-qt-l10n@1.2.1-1?arch=all
+- pkg:deb/debian/libfm-qt-l10n@2.1.0-1?arch=all
+- pkg:deb/debian/libfm-qt-l10n@2.2.0%2Breally2.2.0-3?arch=all
+- pkg:deb/debian/libfm-qt-l10n@2.3.0-1~exp1?arch=all

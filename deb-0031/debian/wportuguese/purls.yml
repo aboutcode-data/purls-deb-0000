@@ -1,0 +1,3 @@
+- pkg:deb/debian/wportuguese@20210112-1?arch=all
+- pkg:deb/debian/wportuguese@20220621-1?arch=all
+- pkg:deb/debian/wportuguese@20251001-1?arch=all

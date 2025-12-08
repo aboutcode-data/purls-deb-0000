@@ -1,0 +1,2 @@
+- pkg:deb/debian/libexcel-valuereader-xlsx-perl@1.16-1?arch=all
+- pkg:deb/debian/libexcel-valuereader-xlsx-perl@1.17-1?arch=all

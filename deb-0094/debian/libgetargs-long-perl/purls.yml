@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgetargs-long-perl@1.1012-3?arch=all
+- pkg:deb/debian/libgetargs-long-perl@1.1012-5?arch=all
+- pkg:deb/debian/libgetargs-long-perl@1.1012-6?arch=all
+- pkg:deb/debian/libgetargs-long-perl@1.1012-7?arch=all

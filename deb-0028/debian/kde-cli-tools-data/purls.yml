@@ -1,0 +1,4 @@
+- pkg:deb/debian/kde-cli-tools-data@5.20.5-2?arch=all
+- pkg:deb/debian/kde-cli-tools-data@5.27.5.1-2?arch=all
+- pkg:deb/debian/kde-cli-tools-data@6.3.4-1?arch=all
+- pkg:deb/debian/kde-cli-tools-data@6.5.3-1?arch=all

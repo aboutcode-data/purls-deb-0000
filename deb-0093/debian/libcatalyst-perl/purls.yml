@@ -1,0 +1,3 @@
+- pkg:deb/debian/libcatalyst-perl@5.90128-1?arch=all
+- pkg:deb/debian/libcatalyst-perl@5.90130-1?arch=all
+- pkg:deb/debian/libcatalyst-perl@5.90132-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/eatmydata@105-9?arch=all
+- pkg:deb/debian/eatmydata@130-2?arch=all
+- pkg:deb/debian/eatmydata@131-2?arch=all

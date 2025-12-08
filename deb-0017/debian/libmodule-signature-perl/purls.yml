@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmodule-signature-perl@0.87-1?arch=all
+- pkg:deb/debian/libmodule-signature-perl@0.88-2?arch=all
+- pkg:deb/debian/libmodule-signature-perl@0.89-2?arch=all
+- pkg:deb/debian/libmodule-signature-perl@0.93-1?arch=all

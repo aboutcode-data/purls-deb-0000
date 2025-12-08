@@ -1,0 +1,3 @@
+- pkg:deb/debian/libalog-doc@0.6.1-4?arch=all
+- pkg:deb/debian/libalog-doc@0.6.2-3?arch=all
+- pkg:deb/debian/libalog-doc@0.6.2-7.1?arch=all

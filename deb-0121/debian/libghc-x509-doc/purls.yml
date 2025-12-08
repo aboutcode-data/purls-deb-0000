@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-x509-doc@1.7.5-2?arch=all
+- pkg:deb/debian/libghc-x509-doc@1.7.7-1?arch=all
+- pkg:deb/debian/libghc-x509-doc@1.7.7-3?arch=all

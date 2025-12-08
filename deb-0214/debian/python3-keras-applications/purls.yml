@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-keras-applications@1.0.8%2Bds-1?arch=all
+- pkg:deb/debian/python3-keras-applications@1.0.8%2Bds-2?arch=all

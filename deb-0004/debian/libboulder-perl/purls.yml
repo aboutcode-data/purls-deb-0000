@@ -1,0 +1,2 @@
+- pkg:deb/debian/libboulder-perl@1.30-5.1?arch=all
+- pkg:deb/debian/libboulder-perl@1.30-6?arch=all

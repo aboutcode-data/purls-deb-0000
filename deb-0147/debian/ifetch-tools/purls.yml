@@ -1,0 +1,2 @@
+- pkg:deb/debian/ifetch-tools@0.18.2-2?arch=all
+- pkg:deb/debian/ifetch-tools@0.18.5-1?arch=all

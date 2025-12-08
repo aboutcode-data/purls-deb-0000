@@ -1,0 +1,4 @@
+- pkg:deb/debian/libclass-csv-perl@1.03-2.2?arch=all
+- pkg:deb/debian/libclass-csv-perl@1.03-2.3?arch=all
+- pkg:deb/debian/libclass-csv-perl@1.03-2.4?arch=all
+- pkg:deb/debian/libclass-csv-perl@1.03-3?arch=all

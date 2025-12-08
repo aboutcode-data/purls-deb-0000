@@ -1,0 +1,8 @@
+- pkg:deb/debian/python3-ignition-math@6.10.0%2Bds3-7%2Bb4?arch=amd64
+- pkg:deb/debian/python3-ignition-math@6.10.0%2Bds3-7%2Bb4?arch=arm64
+- pkg:deb/debian/python3-ignition-math@6.10.0%2Bds3-7%2Bb4?arch=armel
+- pkg:deb/debian/python3-ignition-math@6.10.0%2Bds3-7%2Bb4?arch=armhf
+- pkg:deb/debian/python3-ignition-math@6.10.0%2Bds3-7%2Bb4?arch=i386
+- pkg:deb/debian/python3-ignition-math@6.10.0%2Bds3-7%2Bb4?arch=mips64el
+- pkg:deb/debian/python3-ignition-math@6.10.0%2Bds3-7%2Bb4?arch=ppc64el
+- pkg:deb/debian/python3-ignition-math@6.10.0%2Bds3-7%2Bb4?arch=s390x

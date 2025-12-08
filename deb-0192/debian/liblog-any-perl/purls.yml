@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblog-any-perl@1.709-1?arch=all
+- pkg:deb/debian/liblog-any-perl@1.713-1?arch=all
+- pkg:deb/debian/liblog-any-perl@1.717-1?arch=all
+- pkg:deb/debian/liblog-any-perl@1.718-1?arch=all

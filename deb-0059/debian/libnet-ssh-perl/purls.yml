@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnet-ssh-perl@0.09-4?arch=all
+- pkg:deb/debian/libnet-ssh-perl@0.09-5?arch=all

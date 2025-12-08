@@ -1,0 +1,3 @@
+- pkg:deb/debian/libcpan-mini-inject-perl@0.35-1?arch=all
+- pkg:deb/debian/libcpan-mini-inject-perl@0.35-5?arch=all
+- pkg:deb/debian/libcpan-mini-inject-perl@1.012-1?arch=all

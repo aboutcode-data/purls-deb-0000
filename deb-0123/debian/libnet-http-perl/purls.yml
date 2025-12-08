@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnet-http-perl@6.20-1?arch=all
+- pkg:deb/debian/libnet-http-perl@6.22-1?arch=all
+- pkg:deb/debian/libnet-http-perl@6.23-1?arch=all
+- pkg:deb/debian/libnet-http-perl@6.24-1?arch=all

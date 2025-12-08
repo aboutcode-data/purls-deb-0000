@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-wai-doc@3.2.2.1-2?arch=all
+- pkg:deb/debian/libghc-wai-doc@3.2.3-1?arch=all
+- pkg:deb/debian/libghc-wai-doc@3.2.4-1?arch=all

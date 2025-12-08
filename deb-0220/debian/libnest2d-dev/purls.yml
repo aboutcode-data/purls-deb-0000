@@ -1,0 +1,10 @@
+- pkg:deb/debian/libnest2d-dev@0.4-26-g4d6fb4d-2?arch=all
+- pkg:deb/debian/libnest2d-dev@5.0.0-1?arch=all
+- pkg:deb/debian/libnest2d-dev@5.0.0-3%2Bb2?arch=riscv64
+- pkg:deb/debian/libnest2d-dev@5.0.0-3?arch=amd64
+- pkg:deb/debian/libnest2d-dev@5.0.0-3?arch=arm64
+- pkg:deb/debian/libnest2d-dev@5.0.0-3?arch=armel
+- pkg:deb/debian/libnest2d-dev@5.0.0-3?arch=armhf
+- pkg:deb/debian/libnest2d-dev@5.0.0-3?arch=i386
+- pkg:deb/debian/libnest2d-dev@5.0.0-3?arch=ppc64el
+- pkg:deb/debian/libnest2d-dev@5.0.0-3?arch=s390x

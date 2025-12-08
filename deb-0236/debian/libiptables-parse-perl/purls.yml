@@ -1,0 +1,2 @@
+- pkg:deb/debian/libiptables-parse-perl@1.6-2?arch=all
+- pkg:deb/debian/libiptables-parse-perl@1.6-3?arch=all

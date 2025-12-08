@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-yesod-auth-doc@1.6.10-1?arch=all
+- pkg:deb/debian/libghc-yesod-auth-doc@1.6.11-1?arch=all
+- pkg:deb/debian/libghc-yesod-auth-doc@1.6.11.3-1?arch=all

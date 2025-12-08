@@ -1,0 +1,3 @@
+- pkg:deb/debian/khmer-common@2.1.2%2Bdfsg-8?arch=all
+- pkg:deb/debian/khmer-common@3.0.0~a3%2Bdfsg-4?arch=all
+- pkg:deb/debian/khmer-common@3.0.0~a3%2Bdfsg-9~0exp?arch=all

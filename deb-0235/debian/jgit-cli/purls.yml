@@ -1,0 +1,3 @@
+- pkg:deb/debian/jgit-cli@4.11.9-1?arch=all
+- pkg:deb/debian/jgit-cli@4.11.9-2?arch=all
+- pkg:deb/debian/jgit-cli@6.7.0-2?arch=all

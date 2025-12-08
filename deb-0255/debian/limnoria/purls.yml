@@ -1,0 +1,5 @@
+- pkg:deb/debian/limnoria@2021.06.15-1?arch=all
+- pkg:deb/debian/limnoria@2023.1.28-1?arch=all
+- pkg:deb/debian/limnoria@2024.12.20-1~bpo12%2B1?arch=all
+- pkg:deb/debian/limnoria@2025.11.2-1?arch=all
+- pkg:deb/debian/limnoria@2025.5.3-1?arch=all

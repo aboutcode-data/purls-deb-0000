@@ -1,0 +1,2 @@
+- pkg:deb/debian/liblz4-tool@1.9.3-2?arch=all
+- pkg:deb/debian/liblz4-tool@1.9.4-1?arch=all

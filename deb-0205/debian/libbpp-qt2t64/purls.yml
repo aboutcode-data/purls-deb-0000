@@ -1,0 +1,15 @@
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-12%2Bb1?arch=amd64
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-12%2Bb1?arch=arm64
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-12%2Bb1?arch=armel
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-12%2Bb1?arch=armhf
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-12%2Bb1?arch=i386
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-12%2Bb1?arch=ppc64el
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-12%2Bb1?arch=riscv64
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-12%2Bb1?arch=s390x
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-13?arch=amd64
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-13?arch=arm64
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-13?arch=armhf
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-13?arch=i386
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-13?arch=ppc64el
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-13?arch=riscv64
+- pkg:deb/debian/libbpp-qt2t64@2.4.1-13?arch=s390x

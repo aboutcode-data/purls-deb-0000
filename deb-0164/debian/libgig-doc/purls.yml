@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgig-doc@4.2.0~ds1-2?arch=all
+- pkg:deb/debian/libgig-doc@4.3.0~ds1-2?arch=all
+- pkg:deb/debian/libgig-doc@4.4.1-1?arch=all
+- pkg:deb/debian/libgig-doc@4.5.0-1?arch=all

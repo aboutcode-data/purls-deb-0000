@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblimesuite-doc@20.10.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/liblimesuite-doc@22.09.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/liblimesuite-doc@23.11.0%2Bdfsg-3?arch=all
+- pkg:deb/debian/liblimesuite-doc@23.11.0%2Bdfsg-4?arch=all

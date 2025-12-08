@@ -1,0 +1,2 @@
+- pkg:deb/debian/hw-probe@1.5-1?arch=all
+- pkg:deb/debian/hw-probe@1.6.5-1?arch=all

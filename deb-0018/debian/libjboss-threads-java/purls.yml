@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjboss-threads-java@3.2.0-1?arch=all
+- pkg:deb/debian/libjboss-threads-java@3.5.0-1?arch=all

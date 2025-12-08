@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmodule-info-perl@0.37-1?arch=all
+- pkg:deb/debian/libmodule-info-perl@0.37-2?arch=all
+- pkg:deb/debian/libmodule-info-perl@0.39-1?arch=all

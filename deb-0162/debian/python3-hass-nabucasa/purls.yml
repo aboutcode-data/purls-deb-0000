@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-hass-nabucasa@0.103.0-1?arch=all
+- pkg:deb/debian/python3-hass-nabucasa@1.5.1-1?arch=all

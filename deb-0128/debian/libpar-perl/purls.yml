@@ -1,0 +1,4 @@
+- pkg:deb/debian/libpar-perl@1.017-1?arch=all
+- pkg:deb/debian/libpar-perl@1.018-2?arch=all
+- pkg:deb/debian/libpar-perl@1.020-1?arch=all
+- pkg:deb/debian/libpar-perl@1.021-1?arch=all

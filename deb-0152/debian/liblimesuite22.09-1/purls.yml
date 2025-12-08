@@ -1,0 +1,9 @@
+- pkg:deb/debian/liblimesuite22.09-1@22.09.1%2Bdfsg-1%2Bb2?arch=amd64
+- pkg:deb/debian/liblimesuite22.09-1@22.09.1%2Bdfsg-1%2Bb2?arch=arm64
+- pkg:deb/debian/liblimesuite22.09-1@22.09.1%2Bdfsg-1%2Bb2?arch=armel
+- pkg:deb/debian/liblimesuite22.09-1@22.09.1%2Bdfsg-1%2Bb2?arch=armhf
+- pkg:deb/debian/liblimesuite22.09-1@22.09.1%2Bdfsg-1%2Bb2?arch=i386
+- pkg:deb/debian/liblimesuite22.09-1@22.09.1%2Bdfsg-1%2Bb2?arch=mips64el
+- pkg:deb/debian/liblimesuite22.09-1@22.09.1%2Bdfsg-1%2Bb2?arch=mipsel
+- pkg:deb/debian/liblimesuite22.09-1@22.09.1%2Bdfsg-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/liblimesuite22.09-1@22.09.1%2Bdfsg-1%2Bb2?arch=s390x

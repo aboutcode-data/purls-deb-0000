@@ -1,0 +1,5 @@
+- pkg:deb/debian/libphobos2-ldc-shared110@1.40.0-5?arch=amd64
+- pkg:deb/debian/libphobos2-ldc-shared110@1.40.0-5?arch=arm64
+- pkg:deb/debian/libphobos2-ldc-shared110@1.40.0-5?arch=armhf
+- pkg:deb/debian/libphobos2-ldc-shared110@1.40.0-5?arch=i386
+- pkg:deb/debian/libphobos2-ldc-shared110@1.40.0-5?arch=riscv64

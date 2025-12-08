@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjsonld-perl@0.005-1?arch=all
+- pkg:deb/debian/libjsonld-perl@0.006-1?arch=all

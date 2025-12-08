@@ -1,0 +1,3 @@
+- pkg:deb/debian/howdoi@1.1.9-1.1?arch=all
+- pkg:deb/debian/howdoi@1.1.9-1?arch=all
+- pkg:deb/debian/howdoi@2.0.20-2?arch=all

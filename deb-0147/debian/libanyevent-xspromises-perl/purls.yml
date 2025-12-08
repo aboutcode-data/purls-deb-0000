@@ -1,0 +1,17 @@
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2%2Bb3?arch=amd64
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2%2Bb3?arch=arm64
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2%2Bb3?arch=armel
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2%2Bb3?arch=armhf
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2%2Bb3?arch=i386
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2%2Bb3?arch=ppc64el
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2%2Bb3?arch=riscv64
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2%2Bb3?arch=s390x
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2~bpo12%2B1?arch=amd64
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2~bpo12%2B1?arch=arm64
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2~bpo12%2B1?arch=armel
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2~bpo12%2B1?arch=armhf
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2~bpo12%2B1?arch=i386
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2~bpo12%2B1?arch=mips64el
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2~bpo12%2B1?arch=mipsel
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2~bpo12%2B1?arch=ppc64el
+- pkg:deb/debian/libanyevent-xspromises-perl@0.005-2~bpo12%2B1?arch=s390x

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-jaraco.collections@3.8.0-1?arch=all
+- pkg:deb/debian/python3-jaraco.collections@5.1.0-1?arch=all

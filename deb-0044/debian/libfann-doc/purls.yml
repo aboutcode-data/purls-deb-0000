@@ -1,0 +1,3 @@
+- pkg:deb/debian/libfann-doc@2.2.0%2Bds-6?arch=all
+- pkg:deb/debian/libfann-doc@2.2.0%2Bds-8?arch=all
+- pkg:deb/debian/libfann-doc@2.2.0%2Bds-9?arch=all

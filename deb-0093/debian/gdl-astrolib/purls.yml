@@ -1,0 +1,4 @@
+- pkg:deb/debian/gdl-astrolib@2020.10.29%2Bdfsg-3?arch=all
+- pkg:deb/debian/gdl-astrolib@2022.06.02%2Bdfsg-1?arch=all
+- pkg:deb/debian/gdl-astrolib@2022.09.12%2Bdfsg-2?arch=all
+- pkg:deb/debian/gdl-astrolib@2022.09.12%2Bdfsg-3?arch=all

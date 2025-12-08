@@ -1,0 +1,4 @@
+- pkg:deb/debian/icingaweb2-module-businessprocess@2.3.0-2?arch=all
+- pkg:deb/debian/icingaweb2-module-businessprocess@2.4.0-1?arch=all
+- pkg:deb/debian/icingaweb2-module-businessprocess@2.5.1-2?arch=all
+- pkg:deb/debian/icingaweb2-module-businessprocess@2.5.2-2?arch=all

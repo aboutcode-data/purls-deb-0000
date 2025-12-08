@@ -1,0 +1,2 @@
+- pkg:deb/debian/linux-compiler-gcc-10-x86@5.10.223-1?arch=amd64
+- pkg:deb/debian/linux-compiler-gcc-10-x86@5.10.223-1?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcatalyst-plugin-authentication-credential-openid-perl@0.03%2Brp-3.1?arch=all
+- pkg:deb/debian/libcatalyst-plugin-authentication-credential-openid-perl@0.03%2Brp-4?arch=all

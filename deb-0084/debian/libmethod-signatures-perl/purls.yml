@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmethod-signatures-perl@20170211-2?arch=all
+- pkg:deb/debian/libmethod-signatures-perl@20170211-3?arch=all
+- pkg:deb/debian/libmethod-signatures-perl@20170211-4?arch=all

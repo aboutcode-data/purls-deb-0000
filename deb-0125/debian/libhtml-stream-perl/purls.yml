@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhtml-stream-perl@1.60-2.1?arch=all
+- pkg:deb/debian/libhtml-stream-perl@1.60-3?arch=all

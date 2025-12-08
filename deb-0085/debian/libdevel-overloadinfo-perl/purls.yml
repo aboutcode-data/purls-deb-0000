@@ -1,0 +1,3 @@
+- pkg:deb/debian/libdevel-overloadinfo-perl@0.005-1?arch=all
+- pkg:deb/debian/libdevel-overloadinfo-perl@0.007-1?arch=all
+- pkg:deb/debian/libdevel-overloadinfo-perl@0.008-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-jupyter-telemetry@0.1.0-4?arch=all
+- pkg:deb/debian/python3-jupyter-telemetry@0.1.0-6?arch=all

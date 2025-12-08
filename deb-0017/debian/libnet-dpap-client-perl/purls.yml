@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnet-dpap-client-perl@0.26-3.1?arch=all
+- pkg:deb/debian/libnet-dpap-client-perl@0.26-4?arch=all

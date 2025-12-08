@@ -1,0 +1,2 @@
+- pkg:deb/debian/libica3@3.9.0-1?arch=s390x
+- pkg:deb/debian/libica3@3.9.0-2?arch=s390x

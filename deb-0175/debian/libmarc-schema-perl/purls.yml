@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmarc-schema-perl@0.14-1?arch=all
+- pkg:deb/debian/libmarc-schema-perl@0.16-1?arch=all

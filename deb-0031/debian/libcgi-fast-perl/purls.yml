@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcgi-fast-perl@2.15-1?arch=all
+- pkg:deb/debian/libcgi-fast-perl@2.17-1?arch=all

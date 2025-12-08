@@ -1,0 +1,3 @@
+- pkg:deb/debian/libdevel-stacktrace-perl@2.0400-1?arch=all
+- pkg:deb/debian/libdevel-stacktrace-perl@2.0400-2?arch=all
+- pkg:deb/debian/libdevel-stacktrace-perl@2.0500-1?arch=all

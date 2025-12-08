@@ -1,0 +1,3 @@
+- pkg:deb/debian/libnet-ntp-perl@1.5-1.1?arch=all
+- pkg:deb/debian/libnet-ntp-perl@1.5-3?arch=all
+- pkg:deb/debian/libnet-ntp-perl@1.5-4?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libanyevent-rabbitmq-perl@1.19%2Bdfsg-2?arch=all
+- pkg:deb/debian/libanyevent-rabbitmq-perl@1.22~dfsg-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libignition-fuel-tools4-4@4.1.0%2Bdfsg-5%2Bb4?arch=amd64
+- pkg:deb/debian/libignition-fuel-tools4-4@4.1.0%2Bdfsg-5%2Bb4?arch=arm64
+- pkg:deb/debian/libignition-fuel-tools4-4@4.1.0%2Bdfsg-5%2Bb4?arch=armhf
+- pkg:deb/debian/libignition-fuel-tools4-4@4.1.0%2Bdfsg-5%2Bb4?arch=i386

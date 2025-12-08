@@ -1,0 +1,3 @@
+- pkg:deb/debian/lightdm-settings@1.5.1-1?arch=all
+- pkg:deb/debian/lightdm-settings@1.6.1-1?arch=all
+- pkg:deb/debian/lightdm-settings@2.0.7-1?arch=all

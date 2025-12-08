@@ -1,0 +1,2 @@
+- pkg:deb/debian/libconfig-yaml-perl@1.42-3.1?arch=all
+- pkg:deb/debian/libconfig-yaml-perl@1.42-4?arch=all

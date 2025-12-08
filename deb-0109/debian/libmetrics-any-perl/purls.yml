@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmetrics-any-perl@0.06-1?arch=all
+- pkg:deb/debian/libmetrics-any-perl@0.09-1?arch=all
+- pkg:deb/debian/libmetrics-any-perl@0.10-1?arch=all

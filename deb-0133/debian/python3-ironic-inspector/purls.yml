@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ironic-inspector@10.4.1-1?arch=all
+- pkg:deb/debian/python3-ironic-inspector@11.1.0-2?arch=all
+- pkg:deb/debian/python3-ironic-inspector@12.4.0-2?arch=all
+- pkg:deb/debian/python3-ironic-inspector@12.5.0-2?arch=all

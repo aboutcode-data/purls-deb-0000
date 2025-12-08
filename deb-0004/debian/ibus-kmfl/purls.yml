@@ -1,0 +1,13 @@
+- pkg:deb/debian/ibus-kmfl@11.0.101-1?arch=amd64
+- pkg:deb/debian/ibus-kmfl@11.0.101-1?arch=arm64
+- pkg:deb/debian/ibus-kmfl@11.0.101-1?arch=armhf
+- pkg:deb/debian/ibus-kmfl@11.0.101-1?arch=i386
+- pkg:deb/debian/ibus-kmfl@14.0.290-3?arch=amd64
+- pkg:deb/debian/ibus-kmfl@14.0.290-3?arch=arm64
+- pkg:deb/debian/ibus-kmfl@14.0.290-3?arch=armel
+- pkg:deb/debian/ibus-kmfl@14.0.290-3?arch=armhf
+- pkg:deb/debian/ibus-kmfl@14.0.290-3?arch=i386
+- pkg:deb/debian/ibus-kmfl@14.0.290-3?arch=mips64el
+- pkg:deb/debian/ibus-kmfl@14.0.290-3?arch=mipsel
+- pkg:deb/debian/ibus-kmfl@14.0.290-3?arch=ppc64el
+- pkg:deb/debian/ibus-kmfl@14.0.290-3?arch=s390x

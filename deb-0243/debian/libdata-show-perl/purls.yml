@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdata-show-perl@0.002004-1?arch=all
+- pkg:deb/debian/libdata-show-perl@0.002004-2?arch=all
+- pkg:deb/debian/libdata-show-perl@0.004001-1?arch=all
+- pkg:deb/debian/libdata-show-perl@0.004002-1?arch=all

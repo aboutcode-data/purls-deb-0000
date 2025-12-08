@@ -1,0 +1,4 @@
+- pkg:deb/debian/libjsoncpp-doc@1.9.4-4?arch=all
+- pkg:deb/debian/libjsoncpp-doc@1.9.5-4?arch=all
+- pkg:deb/debian/libjsoncpp-doc@1.9.6-3?arch=all
+- pkg:deb/debian/libjsoncpp-doc@1.9.6-5?arch=all

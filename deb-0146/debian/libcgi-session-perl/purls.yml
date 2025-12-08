@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcgi-session-perl@4.48-3?arch=all
+- pkg:deb/debian/libcgi-session-perl@4.48-4?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjs-jquery-geo@1.1.0%2Bds-1?arch=all
+- pkg:deb/debian/libjs-jquery-geo@1.1.0%2Bds-6?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libparse-debcontrol-perl@2.005-4.1?arch=all
+- pkg:deb/debian/libparse-debcontrol-perl@2.005-6?arch=all

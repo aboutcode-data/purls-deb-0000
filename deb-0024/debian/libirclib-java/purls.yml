@@ -1,0 +1,2 @@
+- pkg:deb/debian/libirclib-java@1.10-4?arch=all
+- pkg:deb/debian/libirclib-java@2.0.0~alpha3-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/instaloader@4.14.1%2Bds-1?arch=all
+- pkg:deb/debian/instaloader@4.9.5%2Bds-1?arch=all

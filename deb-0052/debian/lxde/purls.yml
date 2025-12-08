@@ -1,0 +1,2 @@
+- pkg:deb/debian/lxde@11?arch=all
+- pkg:deb/debian/lxde@13.0?arch=all

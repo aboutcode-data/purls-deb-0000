@@ -1,0 +1,2 @@
+- pkg:deb/debian/ketm-data@0.0.6-25?arch=all
+- pkg:deb/debian/ketm-data@0.0.6-27?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhttp-negotiate-perl@6.01-1?arch=all
+- pkg:deb/debian/libhttp-negotiate-perl@6.01-2?arch=all

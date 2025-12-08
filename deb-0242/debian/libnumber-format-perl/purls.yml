@@ -1,0 +1,3 @@
+- pkg:deb/debian/libnumber-format-perl@1.75-1.1?arch=all
+- pkg:deb/debian/libnumber-format-perl@1.75-3?arch=all
+- pkg:deb/debian/libnumber-format-perl@1.76-1?arch=all

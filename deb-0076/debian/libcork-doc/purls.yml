@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcork-doc@0.15.0%2Bds-16?arch=all
+- pkg:deb/debian/libcork-doc@1.0.0~rc3-3?arch=all
+- pkg:deb/debian/libcork-doc@1.0.0~rc3-4.1?arch=all
+- pkg:deb/debian/libcork-doc@1.0.0~rc3-4?arch=all

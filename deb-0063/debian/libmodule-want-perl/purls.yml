@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmodule-want-perl@0.6-2.1?arch=all
+- pkg:deb/debian/libmodule-want-perl@0.6-5?arch=all

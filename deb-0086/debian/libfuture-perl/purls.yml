@@ -1,0 +1,4 @@
+- pkg:deb/debian/libfuture-perl@0.47-1?arch=all
+- pkg:deb/debian/libfuture-perl@0.49-1?arch=all
+- pkg:deb/debian/libfuture-perl@0.51-1?arch=all
+- pkg:deb/debian/libfuture-perl@0.52-1?arch=all

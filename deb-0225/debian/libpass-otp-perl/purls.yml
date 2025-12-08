@@ -1,0 +1,2 @@
+- pkg:deb/debian/libpass-otp-perl@1.5-2?arch=all
+- pkg:deb/debian/libpass-otp-perl@1.801-1?arch=all

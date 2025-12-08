@@ -1,0 +1,3 @@
+- pkg:deb/debian/libchemistry-elements-perl@1.074-1?arch=all
+- pkg:deb/debian/libchemistry-elements-perl@1.075-2?arch=all
+- pkg:deb/debian/libchemistry-elements-perl@1.081-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libfile-find-rule-vcs-perl@1.08-2.1?arch=all
+- pkg:deb/debian/libfile-find-rule-vcs-perl@1.08-3?arch=all
+- pkg:deb/debian/libfile-find-rule-vcs-perl@1.09-1?arch=all

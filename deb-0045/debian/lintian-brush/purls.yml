@@ -1,0 +1,8 @@
+- pkg:deb/debian/lintian-brush@0.147?arch=all
+- pkg:deb/debian/lintian-brush@0.162?arch=amd64
+- pkg:deb/debian/lintian-brush@0.162?arch=arm64
+- pkg:deb/debian/lintian-brush@0.162?arch=armhf
+- pkg:deb/debian/lintian-brush@0.162?arch=i386
+- pkg:deb/debian/lintian-brush@0.162?arch=ppc64el
+- pkg:deb/debian/lintian-brush@0.162?arch=riscv64
+- pkg:deb/debian/lintian-brush@0.162?arch=s390x

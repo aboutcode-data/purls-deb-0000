@@ -1,0 +1,3 @@
+- pkg:deb/debian/lua-resty-lrucache@0.13-10?arch=all
+- pkg:deb/debian/lua-resty-lrucache@0.15-2?arch=all
+- pkg:deb/debian/lua-resty-lrucache@0.15-4?arch=all

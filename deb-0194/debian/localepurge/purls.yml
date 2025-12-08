@@ -1,0 +1,2 @@
+- pkg:deb/debian/localepurge@0.7.3.10?arch=all
+- pkg:deb/debian/localepurge@0.7.3.11?arch=all

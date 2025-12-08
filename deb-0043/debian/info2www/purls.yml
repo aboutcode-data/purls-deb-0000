@@ -1,0 +1,4 @@
+- pkg:deb/debian/info2www@1.2.2.9-24.1?arch=all
+- pkg:deb/debian/info2www@1.2.2.9-24.2?arch=all
+- pkg:deb/debian/info2www@1.2.2.9-27?arch=all
+- pkg:deb/debian/info2www@1.2.2.9-28?arch=all

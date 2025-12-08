@@ -1,0 +1,2 @@
+- pkg:deb/debian/libffi-checklib-perl@0.27-1?arch=all
+- pkg:deb/debian/libffi-checklib-perl@0.31-1?arch=all

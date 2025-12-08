@@ -1,0 +1,5 @@
+- pkg:deb/debian/kas@2.3.3-2?arch=all
+- pkg:deb/debian/kas@3.1-2?arch=all
+- pkg:deb/debian/kas@4.8.1-2?arch=all
+- pkg:deb/debian/kas@5.0-1?arch=all
+- pkg:deb/debian/kas@5.1-1?arch=all

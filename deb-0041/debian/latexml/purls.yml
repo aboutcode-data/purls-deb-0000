@@ -1,0 +1,4 @@
+- pkg:deb/debian/latexml@0.8.5-3?arch=all
+- pkg:deb/debian/latexml@0.8.7-2?arch=all
+- pkg:deb/debian/latexml@0.8.8-2?arch=all
+- pkg:deb/debian/latexml@0.8.8-4?arch=all

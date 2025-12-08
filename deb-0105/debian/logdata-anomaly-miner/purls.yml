@@ -1,0 +1,4 @@
+- pkg:deb/debian/logdata-anomaly-miner@2.2.2-1?arch=all
+- pkg:deb/debian/logdata-anomaly-miner@2.6.0-1?arch=all
+- pkg:deb/debian/logdata-anomaly-miner@2.6.1-2?arch=all
+- pkg:deb/debian/logdata-anomaly-miner@2.8.0-2?arch=all

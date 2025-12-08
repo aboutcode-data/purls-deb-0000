@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjansi-native-java@1.8-1?arch=all
+- pkg:deb/debian/libjansi-native-java@1.8-2?arch=all

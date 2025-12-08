@@ -1,0 +1,13 @@
+- pkg:deb/debian/libbpp-raa4@2.4.1-4?arch=amd64
+- pkg:deb/debian/libbpp-raa4@2.4.1-4?arch=arm64
+- pkg:deb/debian/libbpp-raa4@2.4.1-4?arch=armhf
+- pkg:deb/debian/libbpp-raa4@2.4.1-4?arch=i386
+- pkg:deb/debian/libbpp-raa4@2.4.1-7?arch=amd64
+- pkg:deb/debian/libbpp-raa4@2.4.1-7?arch=arm64
+- pkg:deb/debian/libbpp-raa4@2.4.1-7?arch=armel
+- pkg:deb/debian/libbpp-raa4@2.4.1-7?arch=armhf
+- pkg:deb/debian/libbpp-raa4@2.4.1-7?arch=i386
+- pkg:deb/debian/libbpp-raa4@2.4.1-7?arch=mips64el
+- pkg:deb/debian/libbpp-raa4@2.4.1-7?arch=mipsel
+- pkg:deb/debian/libbpp-raa4@2.4.1-7?arch=ppc64el
+- pkg:deb/debian/libbpp-raa4@2.4.1-7?arch=s390x

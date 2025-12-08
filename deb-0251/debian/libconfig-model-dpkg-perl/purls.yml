@@ -1,0 +1,4 @@
+- pkg:deb/debian/libconfig-model-dpkg-perl@2.143?arch=all
+- pkg:deb/debian/libconfig-model-dpkg-perl@2.165?arch=all
+- pkg:deb/debian/libconfig-model-dpkg-perl@3.014?arch=all
+- pkg:deb/debian/libconfig-model-dpkg-perl@3.016?arch=all

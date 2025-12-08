@@ -1,0 +1,4 @@
+- pkg:deb/debian/libbase58-dev@0.1.4-3?arch=amd64
+- pkg:deb/debian/libbase58-dev@0.1.4-3?arch=arm64
+- pkg:deb/debian/libbase58-dev@0.1.4-3?arch=armhf
+- pkg:deb/debian/libbase58-dev@0.1.4-3?arch=i386

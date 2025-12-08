@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmatio-doc@1.5.19-2?arch=all
+- pkg:deb/debian/libmatio-doc@1.5.23-2?arch=all
+- pkg:deb/debian/libmatio-doc@1.5.28-2?arch=all
+- pkg:deb/debian/libmatio-doc@1.5.29-1?arch=all

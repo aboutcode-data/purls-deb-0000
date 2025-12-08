@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmail-box-perl@3.009-1?arch=all
+- pkg:deb/debian/libmail-box-perl@3.011-1?arch=all
+- pkg:deb/debian/libmail-box-perl@3.012-1?arch=all

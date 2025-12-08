@@ -1,0 +1,3 @@
+- pkg:deb/debian/libgraph-perl@0.9716-2?arch=all
+- pkg:deb/debian/libgraph-perl@0.9726-1?arch=all
+- pkg:deb/debian/libgraph-perl@0.9735-1?arch=all

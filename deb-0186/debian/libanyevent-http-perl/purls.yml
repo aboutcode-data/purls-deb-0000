@@ -1,0 +1,2 @@
+- pkg:deb/debian/libanyevent-http-perl@2.25-1?arch=all
+- pkg:deb/debian/libanyevent-http-perl@2.25-2?arch=all

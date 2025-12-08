@@ -1,0 +1,2 @@
+- pkg:deb/debian/lintian-doc@2.122.0?arch=all
+- pkg:deb/debian/lintian-doc@2.127.0?arch=all

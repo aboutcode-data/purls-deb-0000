@@ -1,0 +1,5 @@
+- pkg:deb/debian/python3-identify@1.5.13-1?arch=all
+- pkg:deb/debian/python3-identify@2.5.17-1?arch=all
+- pkg:deb/debian/python3-identify@2.6.10-2?arch=all
+- pkg:deb/debian/python3-identify@2.6.15-1?arch=all
+- pkg:deb/debian/python3-identify@2.6.15-2?arch=all

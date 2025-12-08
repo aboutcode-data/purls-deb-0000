@@ -1,0 +1,12 @@
+- pkg:deb/debian/libkmnkbp0-0@11.0.101-3?arch=amd64
+- pkg:deb/debian/libkmnkbp0-0@11.0.101-3?arch=arm64
+- pkg:deb/debian/libkmnkbp0-0@11.0.101-3?arch=armhf
+- pkg:deb/debian/libkmnkbp0-0@11.0.101-3?arch=i386
+- pkg:deb/debian/libkmnkbp0-0@16.0.138-4?arch=amd64
+- pkg:deb/debian/libkmnkbp0-0@16.0.138-4?arch=arm64
+- pkg:deb/debian/libkmnkbp0-0@16.0.138-4?arch=armel
+- pkg:deb/debian/libkmnkbp0-0@16.0.138-4?arch=armhf
+- pkg:deb/debian/libkmnkbp0-0@16.0.138-4?arch=i386
+- pkg:deb/debian/libkmnkbp0-0@16.0.138-4?arch=mips64el
+- pkg:deb/debian/libkmnkbp0-0@16.0.138-4?arch=mipsel
+- pkg:deb/debian/libkmnkbp0-0@16.0.138-4?arch=ppc64el

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnitrokey-common@3.5-3.3?arch=all
+- pkg:deb/debian/libnitrokey-common@3.7-1?arch=all
+- pkg:deb/debian/libnitrokey-common@3.7-3?arch=all
+- pkg:deb/debian/libnitrokey-common@3.8-1?arch=all

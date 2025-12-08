@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-th-extras-doc@0.0.0.4-6?arch=all
+- pkg:deb/debian/libghc-th-extras-doc@0.0.0.6-1?arch=all
+- pkg:deb/debian/libghc-th-extras-doc@0.0.0.8-1?arch=all

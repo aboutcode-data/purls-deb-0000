@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-zeromq4-haskell-doc@0.8.0-1?arch=all
+- pkg:deb/debian/libghc-zeromq4-haskell-doc@0.8.0-2?arch=all
+- pkg:deb/debian/libghc-zeromq4-haskell-doc@0.8.0-4?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/likwid@5.1.0%2Bdfsg1-1?arch=amd64
+- pkg:deb/debian/likwid@5.1.0%2Bdfsg1-1?arch=i386
+- pkg:deb/debian/likwid@5.2.2%2Bdfsg1-1?arch=amd64
+- pkg:deb/debian/likwid@5.2.2%2Bdfsg1-1?arch=i386
+- pkg:deb/debian/likwid@5.4.1%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/likwid@5.4.1%2Bdfsg-1?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/krb5-config@2.6%2Bnmu1?arch=all
+- pkg:deb/debian/krb5-config@2.7?arch=all

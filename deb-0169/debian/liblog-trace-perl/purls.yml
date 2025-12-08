@@ -1,0 +1,2 @@
+- pkg:deb/debian/liblog-trace-perl@1.070-3?arch=all
+- pkg:deb/debian/liblog-trace-perl@1.070-5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-imap-tools@0.54.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/python3-imap-tools@1.10.0%2Bdfsg-1?arch=all

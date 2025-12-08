@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-xml-doc@1.3.14-10?arch=all
+- pkg:deb/debian/libghc-xml-doc@1.3.14-11?arch=all
+- pkg:deb/debian/libghc-xml-doc@1.3.14-13?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-stringsearch-doc@0.3.6.6-10?arch=all
+- pkg:deb/debian/libghc-stringsearch-doc@0.3.6.6-11?arch=all
+- pkg:deb/debian/libghc-stringsearch-doc@0.3.6.6-13?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/jellyfish-examples@2.3.0-10?arch=all
+- pkg:deb/debian/jellyfish-examples@2.3.0-15?arch=all
+- pkg:deb/debian/jellyfish-examples@2.3.1-4?arch=all
+- pkg:deb/debian/jellyfish-examples@2.3.1-5?arch=all

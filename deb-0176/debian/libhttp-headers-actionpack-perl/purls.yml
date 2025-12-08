@@ -1,0 +1,4 @@
+- pkg:deb/debian/libhttp-headers-actionpack-perl@0.09-1.1?arch=all
+- pkg:deb/debian/libhttp-headers-actionpack-perl@0.09-2?arch=all
+- pkg:deb/debian/libhttp-headers-actionpack-perl@0.09-3?arch=all
+- pkg:deb/debian/libhttp-headers-actionpack-perl@0.09-4?arch=all

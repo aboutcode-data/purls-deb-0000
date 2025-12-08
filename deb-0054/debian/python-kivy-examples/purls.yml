@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-kivy-examples@1.11.0-2?arch=all
+- pkg:deb/debian/python-kivy-examples@2.1.0-1?arch=all
+- pkg:deb/debian/python-kivy-examples@2.3.1-1?arch=all
+- pkg:deb/debian/python-kivy-examples@2.3.1-2?arch=all

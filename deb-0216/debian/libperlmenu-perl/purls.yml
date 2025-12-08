@@ -1,0 +1,4 @@
+- pkg:deb/debian/libperlmenu-perl@4.0-5.1?arch=all
+- pkg:deb/debian/libperlmenu-perl@4.0-5.2?arch=all
+- pkg:deb/debian/libperlmenu-perl@4.0-7?arch=all
+- pkg:deb/debian/libperlmenu-perl@4.0-8?arch=all
