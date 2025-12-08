@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmongodb-java@3.6.3-2.1?arch=all
+- pkg:deb/debian/libmongodb-java@3.6.3-2?arch=all

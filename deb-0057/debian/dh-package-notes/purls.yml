@@ -1,0 +1,4 @@
+- pkg:deb/debian/dh-package-notes@0.15?arch=all
+- pkg:deb/debian/dh-package-notes@0.15~bpo12%2B1?arch=all
+- pkg:deb/debian/dh-package-notes@0.17?arch=all
+- pkg:deb/debian/dh-package-notes@0.9?arch=all

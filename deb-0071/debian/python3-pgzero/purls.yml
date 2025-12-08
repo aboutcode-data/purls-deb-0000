@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pgzero@1.2.post4%2Bdfsg-2?arch=all
+- pkg:deb/debian/python3-pgzero@1.2.post6%2Breally1.2.1%2Bdfsg-2?arch=all

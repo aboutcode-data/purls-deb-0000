@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-horde-core@2.31.16%2Bdebian0-2?arch=all
+- pkg:deb/debian/php-horde-core@2.31.18%2Bdebian0-2?arch=all

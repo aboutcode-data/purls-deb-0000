@@ -1,0 +1,3 @@
+- pkg:deb/debian/pysassc@0.20.1-3?arch=all
+- pkg:deb/debian/pysassc@0.22.0-1?arch=all
+- pkg:deb/debian/pysassc@0.23.0-0.1?arch=all

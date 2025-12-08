@@ -1,0 +1,4 @@
+- pkg:deb/debian/plastimatch@1.10.0%2Bdfsg.1-1%2Bb1?arch=amd64
+- pkg:deb/debian/plastimatch@1.9.3%2Bdfsg.1-1?arch=amd64
+- pkg:deb/debian/plastimatch@1.9.3%2Bdfsg.1-1?arch=i386
+- pkg:deb/debian/plastimatch@1.9.4%2Bdfsg.1-1?arch=amd64

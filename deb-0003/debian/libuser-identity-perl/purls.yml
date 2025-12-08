@@ -1,0 +1,4 @@
+- pkg:deb/debian/libuser-identity-perl@1.00-1?arch=all
+- pkg:deb/debian/libuser-identity-perl@1.01-1?arch=all
+- pkg:deb/debian/libuser-identity-perl@1.02-1?arch=all
+- pkg:deb/debian/libuser-identity-perl@1.03-1?arch=all

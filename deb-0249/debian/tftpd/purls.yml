@@ -1,0 +1,4 @@
+- pkg:deb/debian/tftpd@0.17-23?arch=amd64
+- pkg:deb/debian/tftpd@0.17-23?arch=arm64
+- pkg:deb/debian/tftpd@0.17-23?arch=armhf
+- pkg:deb/debian/tftpd@0.17-23?arch=i386

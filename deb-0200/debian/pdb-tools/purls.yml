@@ -1,0 +1,3 @@
+- pkg:deb/debian/pdb-tools@2.5.0-2?arch=all
+- pkg:deb/debian/pdb-tools@2.5.1-2?arch=all
+- pkg:deb/debian/pdb-tools@2.5.2-1?arch=all

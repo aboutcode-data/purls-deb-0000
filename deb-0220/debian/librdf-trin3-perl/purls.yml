@@ -1,0 +1,4 @@
+- pkg:deb/debian/librdf-trin3-perl@0.206-2.1?arch=all
+- pkg:deb/debian/librdf-trin3-perl@0.206-3?arch=all
+- pkg:deb/debian/librdf-trin3-perl@0.206-4?arch=all
+- pkg:deb/debian/librdf-trin3-perl@0.206-5?arch=all

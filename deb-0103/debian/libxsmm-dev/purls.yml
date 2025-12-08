@@ -1,0 +1,2 @@
+- pkg:deb/debian/libxsmm-dev@1.17-2?arch=amd64
+- pkg:deb/debian/libxsmm-dev@1.17-4?arch=amd64

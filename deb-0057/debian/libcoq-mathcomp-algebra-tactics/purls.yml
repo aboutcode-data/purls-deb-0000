@@ -1,0 +1,14 @@
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.0.0-8%2Bb6?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.0.0-8%2Bb6?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.0.0-8%2Bb6?arch=i386
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.0.0-8%2Bb6?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.2.4-1%2Bb10?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.2.4-1%2Bb10?arch=riscv64
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.2.4-1%2Bb10?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.2.4-1%2Bb11?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.2.4-1%2Bb11?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.2.4-1%2Bb4?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.2.4-1%2Bb4?arch=riscv64
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.2.4-1%2Bb4?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.2.4-1%2Bb5?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-algebra-tactics@1.2.4-1%2Bb5?arch=arm64

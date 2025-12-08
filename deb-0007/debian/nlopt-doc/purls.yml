@@ -1,0 +1,4 @@
+- pkg:deb/debian/nlopt-doc@2.7.0-4?arch=all
+- pkg:deb/debian/nlopt-doc@2.7.1-5?arch=all
+- pkg:deb/debian/nlopt-doc@2.7.1-6?arch=all
+- pkg:deb/debian/nlopt-doc@2.7.1-7.1?arch=all

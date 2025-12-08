@@ -1,0 +1,12 @@
+- pkg:deb/debian/princeprocessor@0.22-2?arch=amd64
+- pkg:deb/debian/princeprocessor@0.22-2?arch=arm64
+- pkg:deb/debian/princeprocessor@0.22-4?arch=amd64
+- pkg:deb/debian/princeprocessor@0.22-4?arch=arm64
+- pkg:deb/debian/princeprocessor@0.22-4?arch=mips64el
+- pkg:deb/debian/princeprocessor@0.22-4?arch=ppc64el
+- pkg:deb/debian/princeprocessor@0.22-4?arch=s390x
+- pkg:deb/debian/princeprocessor@0.22-6%2Bb1?arch=arm64
+- pkg:deb/debian/princeprocessor@0.22-6?arch=amd64
+- pkg:deb/debian/princeprocessor@0.22-6?arch=ppc64el
+- pkg:deb/debian/princeprocessor@0.22-6?arch=riscv64
+- pkg:deb/debian/princeprocessor@0.22-6?arch=s390x

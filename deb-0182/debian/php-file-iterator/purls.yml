@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-file-iterator@3.0.5-2?arch=all
+- pkg:deb/debian/php-file-iterator@3.0.6-2?arch=all
+- pkg:deb/debian/php-file-iterator@5.1.0-4?arch=all
+- pkg:deb/debian/php-file-iterator@6.0.0-2?arch=all

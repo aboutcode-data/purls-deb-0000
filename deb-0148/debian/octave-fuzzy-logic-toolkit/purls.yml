@@ -1,0 +1,4 @@
+- pkg:deb/debian/octave-fuzzy-logic-toolkit@0.4.5-4?arch=all
+- pkg:deb/debian/octave-fuzzy-logic-toolkit@0.4.6-4?arch=all
+- pkg:deb/debian/octave-fuzzy-logic-toolkit@0.6.1-1?arch=all
+- pkg:deb/debian/octave-fuzzy-logic-toolkit@0.6.2-3?arch=all

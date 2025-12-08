@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmetrics-clojure@2.9.0-2.1?arch=all
+- pkg:deb/debian/libmetrics-clojure@2.9.0-3?arch=all

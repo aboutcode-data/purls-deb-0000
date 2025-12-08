@@ -1,0 +1,4 @@
+- pkg:deb/debian/libxmu6-dbg@1.1.2-2%2Bb3?arch=amd64
+- pkg:deb/debian/libxmu6-dbg@1.1.2-2%2Bb3?arch=arm64
+- pkg:deb/debian/libxmu6-dbg@1.1.2-2%2Bb3?arch=armhf
+- pkg:deb/debian/libxmu6-dbg@1.1.2-2%2Bb3?arch=i386

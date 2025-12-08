@@ -1,0 +1,10 @@
+- pkg:deb/debian/pbdagcon@0.3%2Bgit20180411.c14c422%2Bdfsg-1%2Bb1?arch=amd64
+- pkg:deb/debian/pbdagcon@0.3%2Bgit20180411.c14c422%2Bdfsg-1%2Bb1?arch=arm64
+- pkg:deb/debian/pbdagcon@0.3%2Bgit20180411.c14c422%2Bdfsg-8?arch=amd64
+- pkg:deb/debian/pbdagcon@0.3%2Bgit20180411.c14c422%2Bdfsg-8?arch=arm64
+- pkg:deb/debian/pbdagcon@0.3%2Bgit20180411.c14c422%2Bdfsg-8?arch=mips64el
+- pkg:deb/debian/pbdagcon@0.3%2Bgit20180411.c14c422%2Bdfsg-8?arch=ppc64el
+- pkg:deb/debian/pbdagcon@0.3%2Bgit20180411.c14c422%2Bdfsg-9?arch=amd64
+- pkg:deb/debian/pbdagcon@0.3%2Bgit20180411.c14c422%2Bdfsg-9?arch=arm64
+- pkg:deb/debian/pbdagcon@0.3%2Bgit20180411.c14c422%2Bdfsg-9?arch=ppc64el
+- pkg:deb/debian/pbdagcon@0.3%2Bgit20180411.c14c422%2Bdfsg-9?arch=riscv64

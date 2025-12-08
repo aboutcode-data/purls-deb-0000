@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-mime-types@2.1.28-1?arch=all
+- pkg:deb/debian/node-mime-types@2.1.35-1?arch=all
+- pkg:deb/debian/node-mime-types@2.1.35-2?arch=all
+- pkg:deb/debian/node-mime-types@3.0.1%2B~3.0.1-2?arch=all

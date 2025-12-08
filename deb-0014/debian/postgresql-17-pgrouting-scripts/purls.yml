@@ -1,0 +1,2 @@
+- pkg:deb/debian/postgresql-17-pgrouting-scripts@3.7.3-1?arch=all
+- pkg:deb/debian/postgresql-17-pgrouting-scripts@3.8.0-1?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/libtest-simple-perl@1.302183-1?arch=all
+- pkg:deb/debian/libtest-simple-perl@1.302192-1?arch=all
+- pkg:deb/debian/libtest-simple-perl@1.302210-1?arch=all
+- pkg:deb/debian/libtest-simple-perl@1.302214-1?arch=all
+- pkg:deb/debian/libtest-simple-perl@1.302216-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-configstore@5.0.1-1?arch=all
+- pkg:deb/debian/node-configstore@6.0.0-2?arch=all

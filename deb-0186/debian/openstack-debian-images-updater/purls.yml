@@ -1,0 +1,2 @@
+- pkg:deb/debian/openstack-debian-images-updater@1.73?arch=all
+- pkg:deb/debian/openstack-debian-images-updater@1.87?arch=all

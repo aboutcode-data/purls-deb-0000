@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmaven-plugin-tools-java@3.10.2-2?arch=all
+- pkg:deb/debian/libmaven-plugin-tools-java@3.6.0-1?arch=all
+- pkg:deb/debian/libmaven-plugin-tools-java@3.7.1-1?arch=all

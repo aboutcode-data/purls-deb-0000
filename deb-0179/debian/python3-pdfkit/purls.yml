@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pdfkit@0.6.1-2?arch=all
+- pkg:deb/debian/python3-pdfkit@1.0.0-2?arch=all

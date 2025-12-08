@@ -1,0 +1,4 @@
+- pkg:deb/debian/libxml-libxml-lazybuilder-perl@0.08-2.1?arch=all
+- pkg:deb/debian/libxml-libxml-lazybuilder-perl@0.08-3?arch=all
+- pkg:deb/debian/libxml-libxml-lazybuilder-perl@0.08-4?arch=all
+- pkg:deb/debian/libxml-libxml-lazybuilder-perl@0.08-5?arch=all

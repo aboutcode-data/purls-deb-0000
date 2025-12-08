@@ -1,0 +1,2 @@
+- pkg:deb/debian/pari-elldata@0.20190911-1?arch=all
+- pkg:deb/debian/pari-elldata@0.20210301-1?arch=all

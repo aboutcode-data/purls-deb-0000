@@ -1,0 +1,3 @@
+- pkg:deb/debian/mrb@0.3%2Bnmu1?arch=all
+- pkg:deb/debian/mrb@0.3%2Bnmu2?arch=all
+- pkg:deb/debian/mrb@0.5?arch=all

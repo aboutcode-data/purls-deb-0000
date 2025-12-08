@@ -1,0 +1,4 @@
+- pkg:deb/debian/mkosi@14-2?arch=all
+- pkg:deb/debian/mkosi@24.3-1~bpo12%2B1?arch=all
+- pkg:deb/debian/mkosi@25.3-7?arch=all
+- pkg:deb/debian/mkosi@5-1?arch=all

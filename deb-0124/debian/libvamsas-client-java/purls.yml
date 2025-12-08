@@ -1,0 +1,2 @@
+- pkg:deb/debian/libvamsas-client-java@0.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/libvamsas-client-java@0.2~git2011.10.17%2B1b42648-1.1?arch=all

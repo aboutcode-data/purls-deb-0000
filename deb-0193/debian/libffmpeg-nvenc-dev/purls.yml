@@ -1,0 +1,2 @@
+- pkg:deb/debian/libffmpeg-nvenc-dev@11.1.5.2-1?arch=all
+- pkg:deb/debian/libffmpeg-nvenc-dev@12.1.14.0-1?arch=all

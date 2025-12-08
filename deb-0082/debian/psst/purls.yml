@@ -1,0 +1,8 @@
+- pkg:deb/debian/psst@1.0-3?arch=amd64
+- pkg:deb/debian/psst@1.0-3?arch=i386
+- pkg:deb/debian/psst@1.0-4?arch=amd64
+- pkg:deb/debian/psst@1.0-4?arch=i386
+- pkg:deb/debian/psst@1.0-8?arch=amd64
+- pkg:deb/debian/psst@1.0-8?arch=i386
+- pkg:deb/debian/psst@1.0-9?arch=amd64
+- pkg:deb/debian/psst@1.0-9?arch=i386

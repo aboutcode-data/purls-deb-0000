@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-lwp-useragent-perl@0.034-1?arch=all
+- pkg:deb/debian/libtest-lwp-useragent-perl@0.036-1?arch=all

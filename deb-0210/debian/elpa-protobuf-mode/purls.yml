@@ -1,0 +1,5 @@
+- pkg:deb/debian/elpa-protobuf-mode@3.12.4-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/elpa-protobuf-mode@3.21.12-11?arch=all
+- pkg:deb/debian/elpa-protobuf-mode@3.21.12-14?arch=all
+- pkg:deb/debian/elpa-protobuf-mode@3.21.12-3?arch=all
+- pkg:deb/debian/elpa-protobuf-mode@3.25.4-1?arch=all

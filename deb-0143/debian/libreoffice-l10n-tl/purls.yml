@@ -1,0 +1,6 @@
+- pkg:deb/debian/libreoffice-l10n-tl@25.2.3-2%2Bdeb13u2?arch=all
+- pkg:deb/debian/libreoffice-l10n-tl@25.2.3-2%2Bdeb13u2~bpo12%2B1?arch=all
+- pkg:deb/debian/libreoffice-l10n-tl@25.8.3-1?arch=all
+- pkg:deb/debian/libreoffice-l10n-tl@25.8.3-1~bpo13%2B1?arch=all
+- pkg:deb/debian/libreoffice-l10n-tl@26.2.0~alpha1-3?arch=all
+- pkg:deb/debian/libreoffice-l10n-tl@26.2.0~beta1-1?arch=all

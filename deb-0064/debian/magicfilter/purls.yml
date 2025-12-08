@@ -1,0 +1,17 @@
+- pkg:deb/debian/magicfilter@1.2-66?arch=amd64
+- pkg:deb/debian/magicfilter@1.2-66?arch=arm64
+- pkg:deb/debian/magicfilter@1.2-66?arch=armel
+- pkg:deb/debian/magicfilter@1.2-66?arch=armhf
+- pkg:deb/debian/magicfilter@1.2-66?arch=i386
+- pkg:deb/debian/magicfilter@1.2-66?arch=mips64el
+- pkg:deb/debian/magicfilter@1.2-66?arch=mipsel
+- pkg:deb/debian/magicfilter@1.2-66?arch=ppc64el
+- pkg:deb/debian/magicfilter@1.2-66?arch=s390x
+- pkg:deb/debian/magicfilter@1.2-68?arch=amd64
+- pkg:deb/debian/magicfilter@1.2-68?arch=arm64
+- pkg:deb/debian/magicfilter@1.2-68?arch=armel
+- pkg:deb/debian/magicfilter@1.2-68?arch=armhf
+- pkg:deb/debian/magicfilter@1.2-68?arch=i386
+- pkg:deb/debian/magicfilter@1.2-68?arch=ppc64el
+- pkg:deb/debian/magicfilter@1.2-68?arch=riscv64
+- pkg:deb/debian/magicfilter@1.2-68?arch=s390x

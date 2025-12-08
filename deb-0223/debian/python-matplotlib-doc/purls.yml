@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-matplotlib-doc@3.10.1%2Bdfsg1-4?arch=all
+- pkg:deb/debian/python-matplotlib-doc@3.10.7%2Bdfsg1-1?arch=all
+- pkg:deb/debian/python-matplotlib-doc@3.3.4-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-composer-semver@3.2.4-2?arch=all
+- pkg:deb/debian/php-composer-semver@3.3.2-1?arch=all
+- pkg:deb/debian/php-composer-semver@3.4.3-2?arch=all
+- pkg:deb/debian/php-composer-semver@3.4.4-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-composer-spdx-licenses@1.5.5-2?arch=all
+- pkg:deb/debian/php-composer-spdx-licenses@1.5.7-1?arch=all
+- pkg:deb/debian/php-composer-spdx-licenses@1.5.8-3?arch=all
+- pkg:deb/debian/php-composer-spdx-licenses@1.5.9-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-esquery@1.3.1~ds-4?arch=all
+- pkg:deb/debian/node-esquery@1.4.2~ds-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-nanoc-live@4.11.14.really1.0.0%2B4.12.14-3?arch=all
+- pkg:deb/debian/ruby-nanoc-live@4.11.14.really1.0.0b8-1?arch=all
+- pkg:deb/debian/ruby-nanoc-live@4.11.14.really1.1.0%2B4.13.3-3?arch=all

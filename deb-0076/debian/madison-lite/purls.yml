@@ -1,0 +1,4 @@
+- pkg:deb/debian/madison-lite@0.26?arch=all
+- pkg:deb/debian/madison-lite@0.27?arch=all
+- pkg:deb/debian/madison-lite@0.28?arch=all
+- pkg:deb/debian/madison-lite@0.29?arch=all

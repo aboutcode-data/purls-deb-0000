@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-power@1.4%2Bdfsg-4?arch=all
+- pkg:deb/debian/python3-power@1.4%2Bdfsg-6?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/libopenturns0.26@1.25.1-1%2Bb1?arch=amd64
+- pkg:deb/debian/libopenturns0.26@1.25.1-1%2Bb1?arch=arm64
+- pkg:deb/debian/libopenturns0.26@1.25.1-1%2Bb1?arch=armhf
+- pkg:deb/debian/libopenturns0.26@1.25.1-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/libopenturns0.26@1.25.1-1%2Bb1?arch=s390x
+- pkg:deb/debian/libopenturns0.26@1.25.1-1?arch=riscv64

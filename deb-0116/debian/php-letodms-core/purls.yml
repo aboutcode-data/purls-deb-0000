@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-letodms-core@3.4.2-1.1?arch=all
+- pkg:deb/debian/php-letodms-core@3.4.2-1?arch=all

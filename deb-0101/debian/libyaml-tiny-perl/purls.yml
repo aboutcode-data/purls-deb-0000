@@ -1,0 +1,2 @@
+- pkg:deb/debian/libyaml-tiny-perl@1.73-1?arch=all
+- pkg:deb/debian/libyaml-tiny-perl@1.76-1?arch=all

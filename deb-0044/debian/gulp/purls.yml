@@ -1,0 +1,3 @@
+- pkg:deb/debian/gulp@4.0.2%2B~cs54.26.36-6?arch=all
+- pkg:deb/debian/gulp@4.0.2%2B~cs54.26.36-8?arch=all
+- pkg:deb/debian/gulp@4.0.2-8?arch=all

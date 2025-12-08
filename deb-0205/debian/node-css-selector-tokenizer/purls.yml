@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-css-selector-tokenizer@0.7.3%2B~cs4.1.2-1?arch=all
+- pkg:deb/debian/node-css-selector-tokenizer@0.8.0%2B~cs4.8.3-1?arch=all

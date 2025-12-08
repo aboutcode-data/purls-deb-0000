@@ -1,0 +1,3 @@
+- pkg:deb/debian/mailfromd-doc@8.15-2?arch=all
+- pkg:deb/debian/mailfromd-doc@9.0-1?arch=all
+- pkg:deb/debian/mailfromd-doc@9.0-2?arch=all

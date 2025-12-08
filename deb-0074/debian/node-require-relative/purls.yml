@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-require-relative@0.8.7%2B~0.8.0-1?arch=all
+- pkg:deb/debian/node-require-relative@0.8.7-3?arch=all

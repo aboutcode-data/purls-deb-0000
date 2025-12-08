@@ -1,0 +1,10 @@
+- pkg:deb/debian/memtest86%2B@5.01-3.1?arch=amd64
+- pkg:deb/debian/memtest86%2B@5.01-3.1?arch=i386
+- pkg:deb/debian/memtest86%2B@6.10-4?arch=amd64
+- pkg:deb/debian/memtest86%2B@6.10-4?arch=i386
+- pkg:deb/debian/memtest86%2B@7.20-1?arch=amd64
+- pkg:deb/debian/memtest86%2B@7.20-1?arch=i386
+- pkg:deb/debian/memtest86%2B@7.20-1~bpo12%2B1?arch=amd64
+- pkg:deb/debian/memtest86%2B@7.20-1~bpo12%2B1?arch=i386
+- pkg:deb/debian/memtest86%2B@8.00-3?arch=amd64
+- pkg:deb/debian/memtest86%2B@8.00-3?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/mm-common@1.0.2-1?arch=all
+- pkg:deb/debian/mm-common@1.0.5-1?arch=all
+- pkg:deb/debian/mm-common@1.0.6-2.1?arch=all
+- pkg:deb/debian/mm-common@1.0.7-1?arch=all

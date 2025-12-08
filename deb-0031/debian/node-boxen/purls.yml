@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-boxen@4.2.0%2Brepack-1?arch=all
+- pkg:deb/debian/node-boxen@4.2.0-3?arch=all
+- pkg:deb/debian/node-boxen@7.1.1-1?arch=all
+- pkg:deb/debian/node-boxen@7.1.1-2?arch=all

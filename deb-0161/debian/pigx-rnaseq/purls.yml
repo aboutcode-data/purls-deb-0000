@@ -1,0 +1,4 @@
+- pkg:deb/debian/pigx-rnaseq@0.0.10%2Bds-2?arch=all
+- pkg:deb/debian/pigx-rnaseq@0.1.0-1.1?arch=all
+- pkg:deb/debian/pigx-rnaseq@0.1.1-1?arch=all
+- pkg:deb/debian/pigx-rnaseq@0.1.1-2?arch=all

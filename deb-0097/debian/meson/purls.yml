@@ -1,0 +1,6 @@
+- pkg:deb/debian/meson@0.56.2-1?arch=all
+- pkg:deb/debian/meson@1.0.1-5?arch=all
+- pkg:deb/debian/meson@1.10.0~rc2-1?arch=all
+- pkg:deb/debian/meson@1.7.0-1?arch=all
+- pkg:deb/debian/meson@1.7.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/meson@1.9.1-2?arch=all

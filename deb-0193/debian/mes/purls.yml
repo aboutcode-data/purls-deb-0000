@@ -1,0 +1,7 @@
+- pkg:deb/debian/mes@0.22-5?arch=amd64
+- pkg:deb/debian/mes@0.22-5?arch=i386
+- pkg:deb/debian/mes@0.24.2-1?arch=amd64
+- pkg:deb/debian/mes@0.24.2-1?arch=armhf
+- pkg:deb/debian/mes@0.24.2-1?arch=i386
+- pkg:deb/debian/mes@0.27-1?arch=amd64
+- pkg:deb/debian/mes@0.27-1?arch=i386

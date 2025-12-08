@@ -1,0 +1,2 @@
+- pkg:deb/debian/mdformat@0.7.22-1?arch=all
+- pkg:deb/debian/mdformat@1.0.0-1?arch=all

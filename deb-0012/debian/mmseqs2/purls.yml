@@ -1,0 +1,16 @@
+- pkg:deb/debian/mmseqs2@12-113e3%2Bds-3%2Bb1?arch=amd64
+- pkg:deb/debian/mmseqs2@12-113e3%2Bds-3%2Bb1?arch=arm64
+- pkg:deb/debian/mmseqs2@12-113e3%2Bds-3%2Bb1?arch=armhf
+- pkg:deb/debian/mmseqs2@12-113e3%2Bds-3%2Bb1?arch=i386
+- pkg:deb/debian/mmseqs2@14-7e284%2Bds-1%2Bb2?arch=amd64
+- pkg:deb/debian/mmseqs2@14-7e284%2Bds-1%2Bb2?arch=arm64
+- pkg:deb/debian/mmseqs2@14-7e284%2Bds-1%2Bb2?arch=mips64el
+- pkg:deb/debian/mmseqs2@14-7e284%2Bds-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/mmseqs2@15-6f452%2Bds-2%2Bb3?arch=amd64
+- pkg:deb/debian/mmseqs2@15-6f452%2Bds-2%2Bb3?arch=arm64
+- pkg:deb/debian/mmseqs2@15-6f452%2Bds-2%2Bb3?arch=ppc64el
+- pkg:deb/debian/mmseqs2@15-6f452%2Bds-2%2Bb4?arch=riscv64
+- pkg:deb/debian/mmseqs2@18-8cc5c%2Bds-1?arch=amd64
+- pkg:deb/debian/mmseqs2@18-8cc5c%2Bds-1?arch=arm64
+- pkg:deb/debian/mmseqs2@18-8cc5c%2Bds-1?arch=ppc64el
+- pkg:deb/debian/mmseqs2@18-8cc5c%2Bds-1?arch=riscv64

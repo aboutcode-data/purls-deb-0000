@@ -1,0 +1,2 @@
+- pkg:deb/debian/libswish-api-common-perl@0.04-1.1?arch=all
+- pkg:deb/debian/libswish-api-common-perl@0.04-3?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmilib-java@1.13-1?arch=all
+- pkg:deb/debian/libmilib-java@2.2.0%2Bdfsg-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-extglob@3.0.0-2?arch=all
+- pkg:deb/debian/node-extglob@3.0.0-4?arch=all

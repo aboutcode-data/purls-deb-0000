@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsecret-common@0.20.4-2?arch=all
+- pkg:deb/debian/libsecret-common@0.20.5-3?arch=all
+- pkg:deb/debian/libsecret-common@0.21.7-1?arch=all
+- pkg:deb/debian/libsecret-common@0.21.7-2?arch=all

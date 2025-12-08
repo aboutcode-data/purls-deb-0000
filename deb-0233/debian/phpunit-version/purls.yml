@@ -1,0 +1,4 @@
+- pkg:deb/debian/phpunit-version@3.0.2-2?arch=all
+- pkg:deb/debian/phpunit-version@3.0.2-3?arch=all
+- pkg:deb/debian/phpunit-version@5.0.2-2?arch=all
+- pkg:deb/debian/phpunit-version@6.0.0-2?arch=all

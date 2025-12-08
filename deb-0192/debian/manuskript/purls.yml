@@ -1,0 +1,3 @@
+- pkg:deb/debian/manuskript@0.11.0-2?arch=all
+- pkg:deb/debian/manuskript@0.14.0-1?arch=all
+- pkg:deb/debian/manuskript@0.16.1-2?arch=all

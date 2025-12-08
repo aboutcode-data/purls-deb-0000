@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-psshlib@2.3.4-2?arch=all
+- pkg:deb/debian/python3-psshlib@2.3.5-2?arch=all
+- pkg:deb/debian/python3-psshlib@2.3.6-1?arch=all

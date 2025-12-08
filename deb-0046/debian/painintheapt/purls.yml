@@ -1,0 +1,5 @@
+- pkg:deb/debian/painintheapt@0.20181201-2?arch=all
+- pkg:deb/debian/painintheapt@0.20220226-2?arch=all
+- pkg:deb/debian/painintheapt@0.20220226-4?arch=all
+- pkg:deb/debian/painintheapt@0.20251121-1?arch=all
+- pkg:deb/debian/painintheapt@0.20251205-1?arch=all

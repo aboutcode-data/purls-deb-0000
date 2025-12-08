@@ -1,0 +1,4 @@
+- pkg:deb/debian/magnum-conductor@11.0.0-1?arch=all
+- pkg:deb/debian/magnum-conductor@15.0.1-4?arch=all
+- pkg:deb/debian/magnum-conductor@20.0.0-2?arch=all
+- pkg:deb/debian/magnum-conductor@21.0.1-1?arch=all

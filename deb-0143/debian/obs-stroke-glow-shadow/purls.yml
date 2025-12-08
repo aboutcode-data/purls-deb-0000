@@ -1,0 +1,7 @@
+- pkg:deb/debian/obs-stroke-glow-shadow@1.5.2-3?arch=amd64
+- pkg:deb/debian/obs-stroke-glow-shadow@1.5.2-3?arch=arm64
+- pkg:deb/debian/obs-stroke-glow-shadow@1.5.2-3?arch=armel
+- pkg:deb/debian/obs-stroke-glow-shadow@1.5.2-3?arch=armhf
+- pkg:deb/debian/obs-stroke-glow-shadow@1.5.2-3?arch=i386
+- pkg:deb/debian/obs-stroke-glow-shadow@1.5.2-3?arch=riscv64
+- pkg:deb/debian/obs-stroke-glow-shadow@1.5.2-3?arch=s390x

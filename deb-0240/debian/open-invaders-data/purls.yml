@@ -1,0 +1,3 @@
+- pkg:deb/debian/open-invaders-data@0.3-10?arch=all
+- pkg:deb/debian/open-invaders-data@0.3-5?arch=all
+- pkg:deb/debian/open-invaders-data@0.3-8?arch=all

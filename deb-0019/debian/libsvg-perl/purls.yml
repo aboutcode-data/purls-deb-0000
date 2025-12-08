@@ -1,0 +1,2 @@
+- pkg:deb/debian/libsvg-perl@2.85-1?arch=all
+- pkg:deb/debian/libsvg-perl@2.87-1?arch=all

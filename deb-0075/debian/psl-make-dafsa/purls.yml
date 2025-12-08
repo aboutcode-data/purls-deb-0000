@@ -1,0 +1,3 @@
+- pkg:deb/debian/psl-make-dafsa@0.21.0-1.2?arch=all
+- pkg:deb/debian/psl-make-dafsa@0.21.2-1.1?arch=all
+- pkg:deb/debian/psl-make-dafsa@0.21.2-1?arch=all

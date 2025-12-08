@@ -1,0 +1,4 @@
+- pkg:deb/debian/libterm-choose-perl@1.713-1?arch=all
+- pkg:deb/debian/libterm-choose-perl@1.760-1?arch=all
+- pkg:deb/debian/libterm-choose-perl@1.774-1?arch=all
+- pkg:deb/debian/libterm-choose-perl@1.777-1?arch=all

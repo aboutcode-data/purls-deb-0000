@@ -1,0 +1,17 @@
+- pkg:deb/debian/nbsdgames@5-4?arch=amd64
+- pkg:deb/debian/nbsdgames@5-4?arch=arm64
+- pkg:deb/debian/nbsdgames@5-4?arch=armel
+- pkg:deb/debian/nbsdgames@5-4?arch=armhf
+- pkg:deb/debian/nbsdgames@5-4?arch=i386
+- pkg:deb/debian/nbsdgames@5-4?arch=mips64el
+- pkg:deb/debian/nbsdgames@5-4?arch=mipsel
+- pkg:deb/debian/nbsdgames@5-4?arch=ppc64el
+- pkg:deb/debian/nbsdgames@5-4?arch=s390x
+- pkg:deb/debian/nbsdgames@5-8?arch=amd64
+- pkg:deb/debian/nbsdgames@5-8?arch=arm64
+- pkg:deb/debian/nbsdgames@5-8?arch=armel
+- pkg:deb/debian/nbsdgames@5-8?arch=armhf
+- pkg:deb/debian/nbsdgames@5-8?arch=i386
+- pkg:deb/debian/nbsdgames@5-8?arch=ppc64el
+- pkg:deb/debian/nbsdgames@5-8?arch=riscv64
+- pkg:deb/debian/nbsdgames@5-8?arch=s390x

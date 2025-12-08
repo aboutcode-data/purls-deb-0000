@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-caniuse-db@1.0.30001181-1?arch=all
+- pkg:deb/debian/node-caniuse-db@1.0.30001436-1?arch=all
+- pkg:deb/debian/node-caniuse-db@1.0.30001723-1?arch=all
+- pkg:deb/debian/node-caniuse-db@1.0.30001752-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-horde-compress@2.2.3-3?arch=all
+- pkg:deb/debian/php-horde-compress@2.2.4-3?arch=all

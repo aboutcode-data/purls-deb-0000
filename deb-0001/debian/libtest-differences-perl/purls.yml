@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtest-differences-perl@0.67-1?arch=all
+- pkg:deb/debian/libtest-differences-perl@0.69-1?arch=all
+- pkg:deb/debian/libtest-differences-perl@0.71-1?arch=all
+- pkg:deb/debian/libtest-differences-perl@0.72-1?arch=all

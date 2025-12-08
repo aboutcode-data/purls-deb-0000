@@ -1,0 +1,6 @@
+- pkg:deb/debian/ngspice-doc@34%2Bds-1?arch=all
+- pkg:deb/debian/ngspice-doc@39.3%2Bds-1?arch=all
+- pkg:deb/debian/ngspice-doc@44.2%2Bds-1?arch=all
+- pkg:deb/debian/ngspice-doc@45.2%2Bds-1?arch=all
+- pkg:deb/debian/ngspice-doc@45.2%2Bds-1~bpo12%2B1?arch=all
+- pkg:deb/debian/ngspice-doc@45.2%2Bds-1~bpo13%2B1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-sequencify@0.0.7%2B~0.1.0-1?arch=all
+- pkg:deb/debian/node-sequencify@0.0.7-1.1?arch=all

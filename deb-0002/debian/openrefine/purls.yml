@@ -1,0 +1,5 @@
+- pkg:deb/debian/openrefine@3.6.2-2%2Bdeb12u2?arch=all
+- pkg:deb/debian/openrefine@3.6.2-2%2Bdeb12u3?arch=all
+- pkg:deb/debian/openrefine@3.8.7-1?arch=all
+- pkg:deb/debian/openrefine@3.8.7-2?arch=all
+- pkg:deb/debian/openrefine@3.9.5-1?arch=all

@@ -1,0 +1,7 @@
+- pkg:deb/debian/nfs-ganesha-mount-9p@3.4-1?arch=all
+- pkg:deb/debian/nfs-ganesha-mount-9p@4.3-2?arch=all
+- pkg:deb/debian/nfs-ganesha-mount-9p@4.3-8?arch=all
+- pkg:deb/debian/nfs-ganesha-mount-9p@5.9-5~bpo12%2B1?arch=all
+- pkg:deb/debian/nfs-ganesha-mount-9p@6.5-5?arch=all
+- pkg:deb/debian/nfs-ganesha-mount-9p@6.5-6?arch=all
+- pkg:deb/debian/nfs-ganesha-mount-9p@6.5-6~bpo13%2B1?arch=all

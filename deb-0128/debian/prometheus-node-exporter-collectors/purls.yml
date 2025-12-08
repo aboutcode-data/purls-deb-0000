@@ -1,0 +1,3 @@
+- pkg:deb/debian/prometheus-node-exporter-collectors@0%2Bgit20210115.7d89f19-1?arch=all
+- pkg:deb/debian/prometheus-node-exporter-collectors@0.0~git20230203.6f710f8-1%2Bdeb12u2?arch=all
+- pkg:deb/debian/prometheus-node-exporter-collectors@0.0~git20241119.a2b43e1-1?arch=all

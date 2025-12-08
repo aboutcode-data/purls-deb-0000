@@ -1,0 +1,2 @@
+- pkg:deb/debian/libshell-command-perl@0.06-4?arch=all
+- pkg:deb/debian/libshell-command-perl@0.06-6?arch=all

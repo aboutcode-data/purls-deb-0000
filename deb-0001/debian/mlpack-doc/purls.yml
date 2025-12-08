@@ -1,0 +1,3 @@
+- pkg:deb/debian/mlpack-doc@3.4.2-1?arch=all
+- pkg:deb/debian/mlpack-doc@4.6.0-1?arch=all
+- pkg:deb/debian/mlpack-doc@4.6.2-1?arch=all

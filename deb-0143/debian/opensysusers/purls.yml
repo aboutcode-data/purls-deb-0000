@@ -1,0 +1,4 @@
+- pkg:deb/debian/opensysusers@0.6-2?arch=all
+- pkg:deb/debian/opensysusers@0.7.3-2?arch=all
+- pkg:deb/debian/opensysusers@0.7.3-5.1?arch=all
+- pkg:deb/debian/opensysusers@0.7.3-5?arch=all

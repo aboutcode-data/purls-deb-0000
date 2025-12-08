@@ -1,0 +1,3 @@
+- pkg:deb/debian/php-uuid-all-dev@1.2.0-12?arch=all
+- pkg:deb/debian/php-uuid-all-dev@1.2.1-2?arch=all
+- pkg:deb/debian/php-uuid-all-dev@1.3.0-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libpcre2-posix2@10.36-2%2Bdeb11u1?arch=amd64
+- pkg:deb/debian/libpcre2-posix2@10.36-2%2Bdeb11u1?arch=arm64
+- pkg:deb/debian/libpcre2-posix2@10.36-2%2Bdeb11u1?arch=armhf
+- pkg:deb/debian/libpcre2-posix2@10.36-2%2Bdeb11u1?arch=i386

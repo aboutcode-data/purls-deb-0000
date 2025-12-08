@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-del@5.1.0-2?arch=all
+- pkg:deb/debian/node-del@7.0.0-5?arch=all
+- pkg:deb/debian/node-del@7.1.0-1?arch=all

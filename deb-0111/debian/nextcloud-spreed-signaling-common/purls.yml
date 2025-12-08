@@ -1,0 +1,3 @@
+- pkg:deb/debian/nextcloud-spreed-signaling-common@1.2.4-1~bpo12%2B1?arch=all
+- pkg:deb/debian/nextcloud-spreed-signaling-common@1.2.4-3?arch=all
+- pkg:deb/debian/nextcloud-spreed-signaling-common@2.0.2-2?arch=all

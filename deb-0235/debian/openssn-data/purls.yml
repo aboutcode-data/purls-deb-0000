@@ -1,0 +1,2 @@
+- pkg:deb/debian/openssn-data@1.4-3?arch=all
+- pkg:deb/debian/openssn-data@1.4-4?arch=all

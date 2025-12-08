@@ -1,0 +1,6 @@
+- pkg:deb/debian/libpapi7.1t64@7.1.0-5%2Bb1?arch=amd64
+- pkg:deb/debian/libpapi7.1t64@7.1.0-5%2Bb1?arch=arm64
+- pkg:deb/debian/libpapi7.1t64@7.1.0-5%2Bb1?arch=armel
+- pkg:deb/debian/libpapi7.1t64@7.1.0-5%2Bb1?arch=armhf
+- pkg:deb/debian/libpapi7.1t64@7.1.0-5%2Bb1?arch=i386
+- pkg:deb/debian/libpapi7.1t64@7.1.0-5%2Bb1?arch=ppc64el

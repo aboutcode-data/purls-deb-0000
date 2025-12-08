@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-pretty-bytes@5.5.0-1?arch=all
+- pkg:deb/debian/node-pretty-bytes@5.6.0%2B~5.2.0-1?arch=all

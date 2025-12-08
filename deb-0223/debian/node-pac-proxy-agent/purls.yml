@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-pac-proxy-agent@7.0.1~0~2024040606-6?arch=all
+- pkg:deb/debian/node-pac-proxy-agent@7.2.0~0~2025070717-6?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-libxml2-dbg@2.9.10%2Bdfsg-6.7%2Bdeb11u4?arch=amd64
+- pkg:deb/debian/python3-libxml2-dbg@2.9.10%2Bdfsg-6.7%2Bdeb11u4?arch=arm64
+- pkg:deb/debian/python3-libxml2-dbg@2.9.10%2Bdfsg-6.7%2Bdeb11u4?arch=armhf
+- pkg:deb/debian/python3-libxml2-dbg@2.9.10%2Bdfsg-6.7%2Bdeb11u4?arch=i386

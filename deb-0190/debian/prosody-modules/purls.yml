@@ -1,0 +1,4 @@
+- pkg:deb/debian/prosody-modules@0.0~hg20210130.dd3bfe8f182e%2Bdfsg-2?arch=all
+- pkg:deb/debian/prosody-modules@0.0~hg20230223.556bf57d6417%2Bdfsg-1?arch=all
+- pkg:deb/debian/prosody-modules@0.0~hg20250402.f315edc39f3d%2Bdfsg-1~bpo12%2B1?arch=all
+- pkg:deb/debian/prosody-modules@0.0~hg20250402.f315edc39f3d%2Bdfsg-2?arch=all

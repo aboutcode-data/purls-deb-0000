@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-18-prioritize@1.0.4-13?arch=amd64
+- pkg:deb/debian/postgresql-18-prioritize@1.0.4-13?arch=arm64
+- pkg:deb/debian/postgresql-18-prioritize@1.0.4-13?arch=ppc64el
+- pkg:deb/debian/postgresql-18-prioritize@1.0.4-13?arch=riscv64
+- pkg:deb/debian/postgresql-18-prioritize@1.0.4-13?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-m2crypto-doc@0.37.1-2?arch=all
+- pkg:deb/debian/python-m2crypto-doc@0.38.0-4?arch=all
+- pkg:deb/debian/python-m2crypto-doc@0.42.0-3?arch=all
+- pkg:deb/debian/python-m2crypto-doc@0.46.2-1?arch=all

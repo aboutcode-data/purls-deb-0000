@@ -22,3 +22,7 @@
 - pkg:deb/debian/libnginx-mod-http-ndk@0.3.4-4?arch=ppc64el
 - pkg:deb/debian/libnginx-mod-http-ndk@0.3.4-4?arch=riscv64
 - pkg:deb/debian/libnginx-mod-http-ndk@0.3.4-4?arch=s390x
+- pkg:deb/debian/libnginx-mod-http-ndk@1.18.0-6.1%2Bdeb11u3?arch=amd64
+- pkg:deb/debian/libnginx-mod-http-ndk@1.18.0-6.1%2Bdeb11u3?arch=arm64
+- pkg:deb/debian/libnginx-mod-http-ndk@1.18.0-6.1%2Bdeb11u3?arch=armhf
+- pkg:deb/debian/libnginx-mod-http-ndk@1.18.0-6.1%2Bdeb11u3?arch=i386

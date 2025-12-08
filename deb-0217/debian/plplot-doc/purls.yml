@@ -1,0 +1,4 @@
+- pkg:deb/debian/plplot-doc@5.15.0%2Bdfsg-19?arch=all
+- pkg:deb/debian/plplot-doc@5.15.0%2Bdfsg2-15?arch=all
+- pkg:deb/debian/plplot-doc@5.15.0%2Bdfsg2-19?arch=all
+- pkg:deb/debian/plplot-doc@5.15.0%2Bdfsg2-6?arch=all

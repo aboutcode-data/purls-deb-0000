@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-netmask@2.0.2%2B~cs2.0.1-1?arch=all
+- pkg:deb/debian/node-netmask@2.0.2-3?arch=all

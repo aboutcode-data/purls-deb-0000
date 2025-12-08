@@ -1,0 +1,3 @@
+- pkg:deb/debian/php-imagick-all-dev@3.7.0-4?arch=all
+- pkg:deb/debian/php-imagick-all-dev@3.8.0-2?arch=all
+- pkg:deb/debian/php-imagick-all-dev@3.8.0-3?arch=all

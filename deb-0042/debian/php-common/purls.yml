@@ -1,0 +1,3 @@
+- pkg:deb/debian/php-common@76?arch=all
+- pkg:deb/debian/php-common@93?arch=all
+- pkg:deb/debian/php-common@96?arch=all

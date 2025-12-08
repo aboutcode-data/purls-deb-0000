@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-get-stream@6.0.0-1?arch=all
+- pkg:deb/debian/node-get-stream@6.0.1-1?arch=all
+- pkg:deb/debian/node-get-stream@8.0.1-11?arch=all

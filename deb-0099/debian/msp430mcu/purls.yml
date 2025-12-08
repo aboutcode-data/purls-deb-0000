@@ -1,0 +1,2 @@
+- pkg:deb/debian/msp430mcu@20120406-2.1?arch=all
+- pkg:deb/debian/msp430mcu@20120406-2.3?arch=all

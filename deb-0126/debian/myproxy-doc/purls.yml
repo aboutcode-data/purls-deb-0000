@@ -1,0 +1,3 @@
+- pkg:deb/debian/myproxy-doc@6.2.14-2?arch=all
+- pkg:deb/debian/myproxy-doc@6.2.16-4?arch=all
+- pkg:deb/debian/myproxy-doc@6.2.6-2?arch=all

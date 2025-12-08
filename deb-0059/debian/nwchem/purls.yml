@@ -1,0 +1,7 @@
+- pkg:deb/debian/nwchem@7.0.2-1?arch=amd64
+- pkg:deb/debian/nwchem@7.0.2-1?arch=arm64
+- pkg:deb/debian/nwchem@7.0.2-1?arch=armhf
+- pkg:deb/debian/nwchem@7.0.2-1?arch=i386
+- pkg:deb/debian/nwchem@7.0.2-4?arch=all
+- pkg:deb/debian/nwchem@7.2.3-10?arch=all
+- pkg:deb/debian/nwchem@7.3.1-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/polygen-data@1.0.6.ds2-20?arch=all
+- pkg:deb/debian/polygen-data@1.0.6.ds2-23?arch=all
+- pkg:deb/debian/polygen-data@1.0.6.ds2-25?arch=all

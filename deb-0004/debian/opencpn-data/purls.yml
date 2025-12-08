@@ -1,0 +1,6 @@
+- pkg:deb/debian/opencpn-data@5.10.2%2Bdfsg-1?arch=all
+- pkg:deb/debian/opencpn-data@5.12.4%2Bdfsg-1?arch=all
+- pkg:deb/debian/opencpn-data@5.12.4%2Bdfsg-1~bpo12%2B1?arch=all
+- pkg:deb/debian/opencpn-data@5.12.4%2Bdfsg-1~bpo13%2B1?arch=all
+- pkg:deb/debian/opencpn-data@5.2.4%2Bdfsg-1?arch=all
+- pkg:deb/debian/opencpn-data@5.8.4%2Bdfsg-1~bpo12%2B1?arch=all

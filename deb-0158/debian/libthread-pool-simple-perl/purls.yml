@@ -1,0 +1,2 @@
+- pkg:deb/debian/libthread-pool-simple-perl@0.25-2.1?arch=all
+- pkg:deb/debian/libthread-pool-simple-perl@0.25-4?arch=all

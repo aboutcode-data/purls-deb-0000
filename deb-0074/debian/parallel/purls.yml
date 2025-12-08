@@ -1,0 +1,3 @@
+- pkg:deb/debian/parallel@20161222-1.1?arch=all
+- pkg:deb/debian/parallel@20221122%2Bds-2?arch=all
+- pkg:deb/debian/parallel@20240222%2Bds-2?arch=all

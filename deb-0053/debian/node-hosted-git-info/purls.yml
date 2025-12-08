@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-hosted-git-info@3.0.8-1?arch=all
+- pkg:deb/debian/node-hosted-git-info@6.1.1-2?arch=all

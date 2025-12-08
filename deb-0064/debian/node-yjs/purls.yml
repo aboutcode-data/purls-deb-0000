@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-yjs@13.5.43-1?arch=all
+- pkg:deb/debian/node-yjs@13.6.8-1?arch=all

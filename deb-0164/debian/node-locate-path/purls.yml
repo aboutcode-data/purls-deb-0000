@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-locate-path@6.0.0-1?arch=all
+- pkg:deb/debian/node-locate-path@7.1.1-2?arch=all

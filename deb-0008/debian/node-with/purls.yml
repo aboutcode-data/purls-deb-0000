@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-with@3.0.0-3?arch=all
+- pkg:deb/debian/node-with@7.0.2%2B~cs4.2.1-2?arch=all

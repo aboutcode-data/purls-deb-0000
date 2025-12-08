@@ -1,0 +1,4 @@
+- pkg:deb/debian/perlbrew@0.91-1?arch=all
+- pkg:deb/debian/perlbrew@0.96-1?arch=all
+- pkg:deb/debian/perlbrew@1.01-1?arch=all
+- pkg:deb/debian/perlbrew@1.02-1?arch=all

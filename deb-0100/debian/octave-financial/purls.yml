@@ -1,0 +1,4 @@
+- pkg:deb/debian/octave-financial@0.5.3-3?arch=all
+- pkg:deb/debian/octave-financial@0.5.3-4?arch=all
+- pkg:deb/debian/octave-financial@0.5.3-5?arch=all
+- pkg:deb/debian/octave-financial@0.5.4-2?arch=all

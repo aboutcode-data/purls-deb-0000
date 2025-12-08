@@ -1,0 +1,4 @@
+- pkg:deb/debian/mgetty-docs@1.2.1-1.1?arch=all
+- pkg:deb/debian/mgetty-docs@1.2.1-1.2?arch=all
+- pkg:deb/debian/mgetty-docs@1.2.1-2?arch=all
+- pkg:deb/debian/mgetty-docs@1.2.1-4?arch=all

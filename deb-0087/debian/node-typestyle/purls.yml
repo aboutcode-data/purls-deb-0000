@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-typestyle@2.4.0%2Bds%2B~3.0.10-1?arch=all
+- pkg:deb/debian/node-typestyle@2.4.0%2Bds-1?arch=all

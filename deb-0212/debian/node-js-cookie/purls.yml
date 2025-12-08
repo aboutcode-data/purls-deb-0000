@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-js-cookie@2.2.1-1?arch=all
+- pkg:deb/debian/node-js-cookie@3.0.1%2B~3.0.0-3?arch=all

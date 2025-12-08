@@ -1,0 +1,4 @@
+- pkg:deb/debian/pinentry-doc@1.1.0-4?arch=all
+- pkg:deb/debian/pinentry-doc@1.2.1-1?arch=all
+- pkg:deb/debian/pinentry-doc@1.3.1-2?arch=all
+- pkg:deb/debian/pinentry-doc@1.3.2-3?arch=all

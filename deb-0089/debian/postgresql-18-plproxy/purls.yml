@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-18-plproxy@2.11.0-13?arch=amd64
+- pkg:deb/debian/postgresql-18-plproxy@2.11.0-13?arch=arm64
+- pkg:deb/debian/postgresql-18-plproxy@2.11.0-13?arch=ppc64el
+- pkg:deb/debian/postgresql-18-plproxy@2.11.0-13?arch=riscv64
+- pkg:deb/debian/postgresql-18-plproxy@2.11.0-13?arch=s390x

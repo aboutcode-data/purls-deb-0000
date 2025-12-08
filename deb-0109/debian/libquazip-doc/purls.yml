@@ -1,0 +1,4 @@
+- pkg:deb/debian/libquazip-doc@0.9.1-1?arch=all
+- pkg:deb/debian/libquazip-doc@0.9.1-3?arch=all
+- pkg:deb/debian/libquazip-doc@0.9.1-5?arch=all
+- pkg:deb/debian/libquazip-doc@0.9.1-6?arch=all

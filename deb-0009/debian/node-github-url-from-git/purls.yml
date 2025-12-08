@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-github-url-from-git@1.5.0%2B~1.5.1-1?arch=all
+- pkg:deb/debian/node-github-url-from-git@1.5.0-1?arch=all

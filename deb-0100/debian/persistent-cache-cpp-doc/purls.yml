@@ -1,0 +1,3 @@
+- pkg:deb/debian/persistent-cache-cpp-doc@1.0.5-4?arch=all
+- pkg:deb/debian/persistent-cache-cpp-doc@1.0.7-2?arch=all
+- pkg:deb/debian/persistent-cache-cpp-doc@1.0.9-1?arch=all

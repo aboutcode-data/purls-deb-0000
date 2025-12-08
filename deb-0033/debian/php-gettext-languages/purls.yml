@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-gettext-languages@2.10.0-2?arch=all
+- pkg:deb/debian/php-gettext-languages@2.9.0-2?arch=all

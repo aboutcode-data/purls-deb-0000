@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-filesize@10.0.3%2Bdfsg-2?arch=all
+- pkg:deb/debian/node-filesize@6.1.0%2Bdfsg-4?arch=all

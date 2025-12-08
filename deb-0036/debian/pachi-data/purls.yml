@@ -1,0 +1,2 @@
+- pkg:deb/debian/pachi-data@1.0-10?arch=all
+- pkg:deb/debian/pachi-data@1.0-15?arch=all

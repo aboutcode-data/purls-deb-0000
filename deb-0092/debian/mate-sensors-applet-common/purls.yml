@@ -1,0 +1,4 @@
+- pkg:deb/debian/mate-sensors-applet-common@1.24.1-1?arch=all
+- pkg:deb/debian/mate-sensors-applet-common@1.26.0-1%2Bdeb13u1?arch=all
+- pkg:deb/debian/mate-sensors-applet-common@1.26.0-1.2?arch=all
+- pkg:deb/debian/mate-sensors-applet-common@1.26.0-1?arch=all

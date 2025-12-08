@@ -1,0 +1,4 @@
+- pkg:deb/debian/pp-popularity-contest@1.0.6-4%2Bb3?arch=amd64
+- pkg:deb/debian/pp-popularity-contest@1.0.6-4%2Bb3?arch=arm64
+- pkg:deb/debian/pp-popularity-contest@1.0.6-4%2Bb3?arch=armhf
+- pkg:deb/debian/pp-popularity-contest@1.0.6-4%2Bb3?arch=i386

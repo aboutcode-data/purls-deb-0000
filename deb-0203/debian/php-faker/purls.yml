@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-faker@1.20.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/php-faker@1.20.0%2Bdfsg-5?arch=all

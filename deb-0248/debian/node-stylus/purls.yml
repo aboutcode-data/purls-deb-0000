@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-stylus@0.54.8-1?arch=all
+- pkg:deb/debian/node-stylus@0.59.0%2B~0.48.38-2?arch=all
+- pkg:deb/debian/node-stylus@0.59.0%2B~0.48.38-3?arch=all
+- pkg:deb/debian/node-stylus@0.59.0%2B~0.48.38-4?arch=all

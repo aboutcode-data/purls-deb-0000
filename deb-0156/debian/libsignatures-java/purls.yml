@@ -1,0 +1,2 @@
+- pkg:deb/debian/libsignatures-java@0.0~git20141229.14f3045%2Bds-2?arch=all
+- pkg:deb/debian/libsignatures-java@1.1.10.g614270e%2Bds-1?arch=all

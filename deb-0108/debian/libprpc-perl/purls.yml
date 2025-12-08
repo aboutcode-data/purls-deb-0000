@@ -1,0 +1,2 @@
+- pkg:deb/debian/libprpc-perl@0.1005-22.1?arch=all
+- pkg:deb/debian/libprpc-perl@0.1005-23?arch=all

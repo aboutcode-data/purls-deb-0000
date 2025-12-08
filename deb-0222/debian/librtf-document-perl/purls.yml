@@ -1,0 +1,2 @@
+- pkg:deb/debian/librtf-document-perl@0.64-11.1?arch=all
+- pkg:deb/debian/librtf-document-perl@0.64-12?arch=all

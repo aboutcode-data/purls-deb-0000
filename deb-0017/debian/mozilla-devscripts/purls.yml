@@ -1,0 +1,2 @@
+- pkg:deb/debian/mozilla-devscripts@0.54.2%2Bnmu1?arch=all
+- pkg:deb/debian/mozilla-devscripts@0.54.2?arch=all

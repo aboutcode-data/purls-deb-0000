@@ -1,0 +1,2 @@
+- pkg:deb/debian/libyahc-perl@0.035-3?arch=all
+- pkg:deb/debian/libyahc-perl@0.035-4?arch=all

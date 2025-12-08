@@ -1,0 +1,4 @@
+- pkg:deb/debian/mailcap@3.69?arch=all
+- pkg:deb/debian/mailcap@3.70%2Bnmu1?arch=all
+- pkg:deb/debian/mailcap@3.74?arch=all
+- pkg:deb/debian/mailcap@3.75?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-dom-serializer@1.2.0-5?arch=all
+- pkg:deb/debian/node-dom-serializer@2.0.0-3?arch=all
+- pkg:deb/debian/node-dom-serializer@2.0.0-4?arch=all

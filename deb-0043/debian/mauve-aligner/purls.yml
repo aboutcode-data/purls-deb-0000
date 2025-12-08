@@ -1,0 +1,5 @@
+- pkg:deb/debian/mauve-aligner@2.4.0%2B4736-3?arch=amd64
+- pkg:deb/debian/mauve-aligner@2.4.0%2B4736-3?arch=arm64
+- pkg:deb/debian/mauve-aligner@2.4.0%2B4736-3?arch=armhf
+- pkg:deb/debian/mauve-aligner@2.4.0%2B4736-3?arch=i386
+- pkg:deb/debian/mauve-aligner@2.4.0%2B4736-6?arch=all

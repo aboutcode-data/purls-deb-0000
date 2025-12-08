@@ -1,0 +1,5 @@
+- pkg:deb/debian/python3-opensnitch-ui@1.5.8.1-1?arch=all
+- pkg:deb/debian/python3-opensnitch-ui@1.5.9-2?arch=all
+- pkg:deb/debian/python3-opensnitch-ui@1.5.9-4?arch=all
+- pkg:deb/debian/python3-opensnitch-ui@1.6.9-1?arch=all
+- pkg:deb/debian/python3-opensnitch-ui@1.6.9-3?arch=all

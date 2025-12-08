@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmecab-java@0.996-14?arch=all
+- pkg:deb/debian/libmecab-java@0.996-15.1?arch=all

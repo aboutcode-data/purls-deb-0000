@@ -1,0 +1,4 @@
+- pkg:deb/debian/popularity-contest@1.71?arch=all
+- pkg:deb/debian/popularity-contest@1.76?arch=all
+- pkg:deb/debian/popularity-contest@1.78?arch=all
+- pkg:deb/debian/popularity-contest@1.79?arch=all

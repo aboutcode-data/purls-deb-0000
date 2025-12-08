@@ -1,0 +1,5 @@
+- pkg:deb/debian/python3-networkx@2.5%2Bds-2?arch=all
+- pkg:deb/debian/python3-networkx@2.8.8-1?arch=all
+- pkg:deb/debian/python3-networkx@3.2.1-5?arch=all
+- pkg:deb/debian/python3-networkx@3.4.2-2?arch=all
+- pkg:deb/debian/python3-networkx@3.4.2-4?arch=all

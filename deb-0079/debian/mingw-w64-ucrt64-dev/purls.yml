@@ -1,0 +1,2 @@
+- pkg:deb/debian/mingw-w64-ucrt64-dev@12.0.0-5?arch=all
+- pkg:deb/debian/mingw-w64-ucrt64-dev@13.0.0-1?arch=all

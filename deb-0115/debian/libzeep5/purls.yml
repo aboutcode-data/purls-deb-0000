@@ -1,0 +1,4 @@
+- pkg:deb/debian/libzeep5@5.0.2-3?arch=amd64
+- pkg:deb/debian/libzeep5@5.0.2-3?arch=arm64
+- pkg:deb/debian/libzeep5@5.0.2-3?arch=armhf
+- pkg:deb/debian/libzeep5@5.0.2-3?arch=i386

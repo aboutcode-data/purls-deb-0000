@@ -1,0 +1,5 @@
+- pkg:deb/debian/libnetty-java@4.1.48-10?arch=all
+- pkg:deb/debian/libnetty-java@4.1.48-13?arch=all
+- pkg:deb/debian/libnetty-java@4.1.48-14?arch=all
+- pkg:deb/debian/libnetty-java@4.1.48-4%2Bdeb11u2?arch=all
+- pkg:deb/debian/libnetty-java@4.1.48-7%2Bdeb12u1?arch=all

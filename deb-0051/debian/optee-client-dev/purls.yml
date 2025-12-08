@@ -1,0 +1,8 @@
+- pkg:deb/debian/optee-client-dev@3.19.0-1?arch=arm64
+- pkg:deb/debian/optee-client-dev@3.19.0-1?arch=armhf
+- pkg:deb/debian/optee-client-dev@4.5.0-1?arch=arm64
+- pkg:deb/debian/optee-client-dev@4.5.0-1?arch=armhf
+- pkg:deb/debian/optee-client-dev@4.7.0-1?arch=arm64
+- pkg:deb/debian/optee-client-dev@4.7.0-1?arch=armhf
+- pkg:deb/debian/optee-client-dev@4.8.0-1?arch=arm64
+- pkg:deb/debian/optee-client-dev@4.8.0-1?arch=armhf

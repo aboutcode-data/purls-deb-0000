@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-read-package-json@3.0.0-1?arch=all
+- pkg:deb/debian/node-read-package-json@5.0.2%2B~2.0.0-1?arch=all
+- pkg:deb/debian/node-read-package-json@5.0.2%2B~2.0.0-2?arch=all
+- pkg:deb/debian/node-read-package-json@5.0.2%2B~2.0.0-5?arch=all

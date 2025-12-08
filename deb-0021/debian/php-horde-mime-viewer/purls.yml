@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-horde-mime-viewer@2.2.2%2Bdebian0-2?arch=all
+- pkg:deb/debian/php-horde-mime-viewer@2.2.4%2Bdebian0-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libscalar-does-perl@0.203-1.1?arch=all
+- pkg:deb/debian/libscalar-does-perl@0.203-2?arch=all
+- pkg:deb/debian/libscalar-does-perl@0.203-3?arch=all
+- pkg:deb/debian/libscalar-does-perl@0.203-4?arch=all

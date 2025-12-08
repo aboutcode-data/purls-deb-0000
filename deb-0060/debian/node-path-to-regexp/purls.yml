@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-path-to-regexp@6.2.0-1?arch=all
+- pkg:deb/debian/node-path-to-regexp@6.2.1-1?arch=all
+- pkg:deb/debian/node-path-to-regexp@6.3.0-1?arch=all
+- pkg:deb/debian/node-path-to-regexp@8.3.0-1?arch=all

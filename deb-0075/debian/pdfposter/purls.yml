@@ -1,0 +1,4 @@
+- pkg:deb/debian/pdfposter@0.7.post1-1?arch=all
+- pkg:deb/debian/pdfposter@0.8.1-1?arch=all
+- pkg:deb/debian/pdfposter@0.8.1-4?arch=all
+- pkg:deb/debian/pdfposter@0.9.1-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-eslint-plugin-node@11.1.0~ds-4?arch=all
+- pkg:deb/debian/node-eslint-plugin-node@11.1.0~ds-5?arch=all
+- pkg:deb/debian/node-eslint-plugin-node@11.1.0~ds-6?arch=all
+- pkg:deb/debian/node-eslint-plugin-node@11.1.0~ds-8?arch=all

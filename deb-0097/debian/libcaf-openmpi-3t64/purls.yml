@@ -1,0 +1,5 @@
+- pkg:deb/debian/libcaf-openmpi-3t64@2.10.2%2Bds-4?arch=amd64
+- pkg:deb/debian/libcaf-openmpi-3t64@2.10.2%2Bds-4?arch=arm64
+- pkg:deb/debian/libcaf-openmpi-3t64@2.10.2%2Bds-4?arch=ppc64el
+- pkg:deb/debian/libcaf-openmpi-3t64@2.10.2%2Bds-4?arch=riscv64
+- pkg:deb/debian/libcaf-openmpi-3t64@2.10.2%2Bds-4?arch=s390x

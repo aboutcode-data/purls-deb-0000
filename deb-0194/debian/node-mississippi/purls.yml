@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-mississippi@3.0.0-1?arch=all
+- pkg:deb/debian/node-mississippi@4.0.0-1?arch=all

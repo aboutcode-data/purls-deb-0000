@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-performance-now@2.1.0%2Bdebian-1.1?arch=all
+- pkg:deb/debian/node-performance-now@2.1.0%2Bdebian-4?arch=all
+- pkg:deb/debian/node-performance-now@2.1.0%2Bdebian-5?arch=all
+- pkg:deb/debian/node-performance-now@2.1.0%2Bdebian-6?arch=all

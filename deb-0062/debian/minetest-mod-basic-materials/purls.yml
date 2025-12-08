@@ -1,0 +1,3 @@
+- pkg:deb/debian/minetest-mod-basic-materials@20200603.1302-1?arch=all
+- pkg:deb/debian/minetest-mod-basic-materials@20210130-2?arch=all
+- pkg:deb/debian/minetest-mod-basic-materials@20210130-3?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/netgen-doc@6.2.2006%2Breally6.2.1905%2Bdfsg-2.1?arch=all
+- pkg:deb/debian/netgen-doc@6.2.2006%2Breally6.2.1905%2Bdfsg-5.1?arch=all
+- pkg:deb/debian/netgen-doc@6.2.2501%2Bdfsg1-12?arch=all

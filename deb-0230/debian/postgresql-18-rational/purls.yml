@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-18-rational@0.0.2-8?arch=amd64
+- pkg:deb/debian/postgresql-18-rational@0.0.2-8?arch=arm64
+- pkg:deb/debian/postgresql-18-rational@0.0.2-8?arch=ppc64el
+- pkg:deb/debian/postgresql-18-rational@0.0.2-8?arch=riscv64
+- pkg:deb/debian/postgresql-18-rational@0.0.2-8?arch=s390x

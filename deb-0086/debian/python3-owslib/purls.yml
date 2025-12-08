@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-owslib@0.23.0-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/python3-owslib@0.27.2-3?arch=all
+- pkg:deb/debian/python3-owslib@0.33.0-1?arch=all
+- pkg:deb/debian/python3-owslib@0.35.0-1?arch=all

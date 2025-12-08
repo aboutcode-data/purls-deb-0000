@@ -1,0 +1,2 @@
+- pkg:deb/debian/livescript@1.6.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/livescript@1.6.1%2Bdfsg-3?arch=all

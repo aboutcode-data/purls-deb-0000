@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-style-loader@2.0.0-2?arch=all
+- pkg:deb/debian/node-style-loader@3.3.1-2?arch=all

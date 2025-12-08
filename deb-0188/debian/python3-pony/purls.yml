@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pony@0.7.14-1?arch=all
+- pkg:deb/debian/python3-pony@0.7.16%2Bds-3?arch=all

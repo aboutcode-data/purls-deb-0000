@@ -1,0 +1,17 @@
+- pkg:deb/debian/libcoq-mathcomp-finmap@1.5.2-1%2Bb4?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-finmap@1.5.2-1%2Bb4?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-finmap@1.5.2-1%2Bb4?arch=armhf
+- pkg:deb/debian/libcoq-mathcomp-finmap@1.5.2-1%2Bb4?arch=i386
+- pkg:deb/debian/libcoq-mathcomp-finmap@1.5.2-1%2Bb4?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-finmap@1.5.2-1%2Bb4?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.1.0-3%2Bb13?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.1.0-3%2Bb13?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.1.0-3%2Bb13?arch=riscv64
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.1.0-3%2Bb13?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.1.0-3%2Bb14?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.1.0-3%2Bb7?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.1.0-3%2Bb7?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.1.0-3%2Bb7?arch=riscv64
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.1.0-3%2Bb7?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.1.0-3%2Bb8?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.2.2-2?arch=amd64

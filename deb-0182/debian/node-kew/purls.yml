@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-kew@0.7.0-1.1?arch=all
+- pkg:deb/debian/node-kew@0.7.0-2?arch=all
+- pkg:deb/debian/node-kew@0.7.0-3?arch=all

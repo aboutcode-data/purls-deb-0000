@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-17-pgsphere@1.5.1-2%2Bb1?arch=arm64
+- pkg:deb/debian/postgresql-17-pgsphere@1.5.1-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/postgresql-17-pgsphere@1.5.1-2%2Bb1?arch=riscv64
+- pkg:deb/debian/postgresql-17-pgsphere@1.5.1-2%2Bb1?arch=s390x
+- pkg:deb/debian/postgresql-17-pgsphere@1.5.1-2%2Bb2?arch=amd64

@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-ytdl-core@3.4.2%2Bdfsg%2B~cs3.10.3-2?arch=all
+- pkg:deb/debian/node-ytdl-core@4.11.2%2Bdfsg%2B~cs4.10.8-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/node-ytdl-core@4.11.5%2Bdfsg%2B~cs4.10.9-2?arch=all

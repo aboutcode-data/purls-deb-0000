@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-fpdf@1.8.2.dfsg-1?arch=all
+- pkg:deb/debian/php-fpdf@1.8.4.dfsg-1?arch=all
+- pkg:deb/debian/php-fpdf@1.8.4.dfsg-3?arch=all
+- pkg:deb/debian/php-fpdf@1.8.4.dfsg-5?arch=all

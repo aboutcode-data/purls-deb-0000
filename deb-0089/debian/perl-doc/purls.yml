@@ -1,0 +1,5 @@
+- pkg:deb/debian/perl-doc@5.32.1-4%2Bdeb11u3?arch=all
+- pkg:deb/debian/perl-doc@5.36.0-7%2Bdeb12u3?arch=all
+- pkg:deb/debian/perl-doc@5.40.1-6?arch=all
+- pkg:deb/debian/perl-doc@5.40.1-7?arch=all
+- pkg:deb/debian/perl-doc@5.42.0-3?arch=all

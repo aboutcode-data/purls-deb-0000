@@ -1,0 +1,12 @@
+- pkg:deb/debian/mtink@1.0.16-11?arch=amd64
+- pkg:deb/debian/mtink@1.0.16-11?arch=arm64
+- pkg:deb/debian/mtink@1.0.16-11?arch=armhf
+- pkg:deb/debian/mtink@1.0.16-11?arch=i386
+- pkg:deb/debian/mtink@1.0.16-17?arch=amd64
+- pkg:deb/debian/mtink@1.0.16-17?arch=arm64
+- pkg:deb/debian/mtink@1.0.16-17?arch=armel
+- pkg:deb/debian/mtink@1.0.16-17?arch=armhf
+- pkg:deb/debian/mtink@1.0.16-17?arch=i386
+- pkg:deb/debian/mtink@1.0.16-17?arch=ppc64el
+- pkg:deb/debian/mtink@1.0.16-17?arch=riscv64
+- pkg:deb/debian/mtink@1.0.16-17?arch=s390x

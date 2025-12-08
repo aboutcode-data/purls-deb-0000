@@ -1,0 +1,7 @@
+- pkg:deb/debian/pdb2pqr@2.1.1%2Bdfsg-7%2Bdeb11u1?arch=amd64
+- pkg:deb/debian/pdb2pqr@2.1.1%2Bdfsg-7%2Bdeb11u1?arch=arm64
+- pkg:deb/debian/pdb2pqr@2.1.1%2Bdfsg-7%2Bdeb11u1?arch=armhf
+- pkg:deb/debian/pdb2pqr@2.1.1%2Bdfsg-7%2Bdeb11u1?arch=i386
+- pkg:deb/debian/pdb2pqr@3.5.2%2Bdfsg-3?arch=all
+- pkg:deb/debian/pdb2pqr@3.6.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/pdb2pqr@3.6.1%2Bdfsg-2?arch=all

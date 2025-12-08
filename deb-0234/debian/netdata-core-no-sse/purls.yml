@@ -1,0 +1,2 @@
+- pkg:deb/debian/netdata-core-no-sse@1.29.3-4?arch=i386
+- pkg:deb/debian/netdata-core-no-sse@1.37.1-2?arch=i386

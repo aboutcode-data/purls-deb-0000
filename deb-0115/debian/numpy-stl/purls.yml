@@ -1,0 +1,2 @@
+- pkg:deb/debian/numpy-stl@2.9.0-1?arch=all
+- pkg:deb/debian/numpy-stl@2.9.0-2?arch=all

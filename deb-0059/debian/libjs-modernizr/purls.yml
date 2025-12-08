@@ -1,0 +1,3 @@
+- pkg:deb/debian/libjs-modernizr@2.6.2%2Bds1-4?arch=all
+- pkg:deb/debian/libjs-modernizr@2.6.2%2Bds1-5?arch=all
+- pkg:deb/debian/libjs-modernizr@3.13.0-0.1?arch=all

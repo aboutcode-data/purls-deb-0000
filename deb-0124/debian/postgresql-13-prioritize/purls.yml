@@ -1,0 +1,4 @@
+- pkg:deb/debian/postgresql-13-prioritize@1.0.4-8?arch=amd64
+- pkg:deb/debian/postgresql-13-prioritize@1.0.4-8?arch=arm64
+- pkg:deb/debian/postgresql-13-prioritize@1.0.4-8?arch=armhf
+- pkg:deb/debian/postgresql-13-prioritize@1.0.4-8?arch=i386

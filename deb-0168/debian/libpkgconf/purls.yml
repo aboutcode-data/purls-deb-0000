@@ -1,0 +1,4 @@
+- pkg:deb/debian/libpkgconf@1.7.4~git20210206%2Bdcf529b-3?arch=amd64
+- pkg:deb/debian/libpkgconf@1.7.4~git20210206%2Bdcf529b-3?arch=arm64
+- pkg:deb/debian/libpkgconf@1.7.4~git20210206%2Bdcf529b-3?arch=armhf
+- pkg:deb/debian/libpkgconf@1.7.4~git20210206%2Bdcf529b-3?arch=i386

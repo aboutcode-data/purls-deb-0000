@@ -1,0 +1,15 @@
+- pkg:deb/debian/libmmb-dev@4.0.0%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libmmb-dev@4.0.0%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/libmmb-dev@4.0.0%2Bdfsg-3.1~exp1?arch=amd64
+- pkg:deb/debian/libmmb-dev@4.0.0%2Bdfsg-3.1~exp1?arch=arm64
+- pkg:deb/debian/libmmb-dev@4.0.0%2Bdfsg-3.1~exp1?arch=armhf
+- pkg:deb/debian/libmmb-dev@4.0.0%2Bdfsg-5?arch=amd64
+- pkg:deb/debian/libmmb-dev@4.0.0%2Bdfsg-5?arch=arm64
+- pkg:deb/debian/libmmb-dev@4.0.0%2Bdfsg-5?arch=ppc64el
+- pkg:deb/debian/libmmb-dev@4.0.0%2Bdfsg-5?arch=riscv64
+- pkg:deb/debian/libmmb-dev@4.0.0%2Bdfsg-5?arch=s390x
+- pkg:deb/debian/libmmb-dev@4.2%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/libmmb-dev@4.2%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/libmmb-dev@4.2%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/libmmb-dev@4.2%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/libmmb-dev@4.2%2Bdfsg-1?arch=s390x

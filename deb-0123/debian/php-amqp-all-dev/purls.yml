@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-amqp-all-dev@1.11.0-5?arch=all
+- pkg:deb/debian/php-amqp-all-dev@2.1.2-5?arch=all

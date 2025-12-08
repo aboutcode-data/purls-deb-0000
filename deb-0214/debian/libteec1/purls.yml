@@ -1,0 +1,2 @@
+- pkg:deb/debian/libteec1@3.19.0-1?arch=arm64
+- pkg:deb/debian/libteec1@3.19.0-1?arch=armhf

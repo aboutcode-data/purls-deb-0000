@@ -1,0 +1,4 @@
+- pkg:deb/debian/openshot-qt-doc@2.5.1%2Bdfsg1-1?arch=all
+- pkg:deb/debian/openshot-qt-doc@2.6.1%2Bdfsg1-3?arch=all
+- pkg:deb/debian/openshot-qt-doc@3.1.1%2Bdfsg1-3?arch=all
+- pkg:deb/debian/openshot-qt-doc@3.1.1%2Bdfsg1-4?arch=all
