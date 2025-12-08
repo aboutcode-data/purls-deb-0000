@@ -1,0 +1,2 @@
+- pkg:deb/debian/bwa-mem2@2.2.1-1%2Bb1?arch=amd64
+- pkg:deb/debian/bwa-mem2@2.2.1-1?arch=i386

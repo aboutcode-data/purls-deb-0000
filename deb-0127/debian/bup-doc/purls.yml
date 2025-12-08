@@ -1,0 +1,5 @@
+- pkg:deb/debian/bup-doc@0.32-3?arch=all
+- pkg:deb/debian/bup-doc@0.33.7-1?arch=all
+- pkg:deb/debian/bup-doc@0.33.7-1~bpo12%2B1?arch=all
+- pkg:deb/debian/bup-doc@0.33.7-1~deb12u1?arch=all
+- pkg:deb/debian/bup-doc@0.33.9-1.2?arch=all

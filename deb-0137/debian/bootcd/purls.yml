@@ -1,0 +1,4 @@
+- pkg:deb/debian/bootcd@6.4?arch=all
+- pkg:deb/debian/bootcd@6.6.5?arch=all
+- pkg:deb/debian/bootcd@6.8.2?arch=all
+- pkg:deb/debian/bootcd@6.9.1?arch=all

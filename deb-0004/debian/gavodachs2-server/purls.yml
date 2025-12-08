@@ -1,0 +1,3 @@
+- pkg:deb/debian/gavodachs2-server@2.11%2Bdfsg-2?arch=all
+- pkg:deb/debian/gavodachs2-server@2.3%2Bdfsg-3?arch=all
+- pkg:deb/debian/gavodachs2-server@2.7%2Bdfsg-2?arch=all

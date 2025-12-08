@@ -1,0 +1,5 @@
+- pkg:deb/debian/epiphany-browser-data@3.38.2-1%2Bdeb11u3?arch=all
+- pkg:deb/debian/epiphany-browser-data@43.1-1?arch=all
+- pkg:deb/debian/epiphany-browser-data@48.5-0%2Bdeb13u1?arch=all
+- pkg:deb/debian/epiphany-browser-data@49.2-1?arch=all
+- pkg:deb/debian/epiphany-browser-data@49.2-2?arch=all

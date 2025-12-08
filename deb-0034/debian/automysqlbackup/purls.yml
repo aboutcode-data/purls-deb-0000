@@ -1,0 +1,2 @@
+- pkg:deb/debian/automysqlbackup@2.6%2Bdebian.4-3%2Bdeb11u1?arch=all
+- pkg:deb/debian/automysqlbackup@2.6%2Bdebian.4-4?arch=all

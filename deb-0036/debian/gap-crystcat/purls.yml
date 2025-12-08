@@ -1,0 +1,4 @@
+- pkg:deb/debian/gap-crystcat@1.1.10-1?arch=all
+- pkg:deb/debian/gap-crystcat@1.1.10-2?arch=all
+- pkg:deb/debian/gap-crystcat@1.1.11-2?arch=all
+- pkg:deb/debian/gap-crystcat@1.1.9-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/fonts-ebgaramond@0.016%2Bgit20210310.42d4f9f2-1?arch=all
+- pkg:deb/debian/fonts-ebgaramond@0.016%2Bgit20230418-2?arch=all
+- pkg:deb/debian/fonts-ebgaramond@0.016-4?arch=all

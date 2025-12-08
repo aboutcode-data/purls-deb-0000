@@ -1,0 +1,6 @@
+- pkg:deb/debian/box64@0.3.4%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/box64@0.3.4%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/box64@0.3.4%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/box64@0.3.8%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/box64@0.3.8%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/box64@0.3.8%2Bdfsg-1?arch=riscv64

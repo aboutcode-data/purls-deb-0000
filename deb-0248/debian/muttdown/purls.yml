@@ -1,0 +1,4 @@
+- pkg:deb/debian/muttdown@0.3.4-1?arch=all
+- pkg:deb/debian/muttdown@0.3.5-2?arch=all
+- pkg:deb/debian/muttdown@0.4.0-2?arch=all
+- pkg:deb/debian/muttdown@0.4.0-4?arch=all

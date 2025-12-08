@@ -1,0 +1,2 @@
+- pkg:deb/debian/fonts-go@0~20170330-1?arch=all
+- pkg:deb/debian/fonts-go@0~20170330-2?arch=all

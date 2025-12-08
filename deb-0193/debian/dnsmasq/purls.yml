@@ -1,0 +1,5 @@
+- pkg:deb/debian/dnsmasq@2.85-1?arch=all
+- pkg:deb/debian/dnsmasq@2.90-4~deb12u1?arch=all
+- pkg:deb/debian/dnsmasq@2.91-1?arch=all
+- pkg:deb/debian/dnsmasq@2.92~rc1-1?arch=all
+- pkg:deb/debian/dnsmasq@2.92~rc3-1?arch=all

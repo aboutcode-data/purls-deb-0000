@@ -1,0 +1,3 @@
+- pkg:deb/debian/ayatana-webmail@21.2.6%2Bdfsg1-1?arch=all
+- pkg:deb/debian/ayatana-webmail@22.12.15%2Bdfsg-1?arch=all
+- pkg:deb/debian/ayatana-webmail@24.5.17%2Bdfsg-1?arch=all

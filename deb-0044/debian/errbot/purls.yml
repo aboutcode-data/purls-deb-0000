@@ -1,0 +1,2 @@
+- pkg:deb/debian/errbot@6.1.7%2Bds-1?arch=all
+- pkg:deb/debian/errbot@6.2.0%2Bds-5?arch=all

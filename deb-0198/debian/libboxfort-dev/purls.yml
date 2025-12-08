@@ -1,0 +1,6 @@
+- pkg:deb/debian/libboxfort-dev@0.0.0-git20200808-ac0507b-3?arch=amd64
+- pkg:deb/debian/libboxfort-dev@0.0.0-git20200808-ac0507b-3?arch=arm64
+- pkg:deb/debian/libboxfort-dev@0.0.0-git20200808-ac0507b-3?arch=i386
+- pkg:deb/debian/libboxfort-dev@0.1.2-2?arch=amd64
+- pkg:deb/debian/libboxfort-dev@0.1.2-2?arch=arm64
+- pkg:deb/debian/libboxfort-dev@0.1.2-2?arch=i386

@@ -1,0 +1,3 @@
+- pkg:deb/debian/feed2imap@1.2.7-1?arch=all
+- pkg:deb/debian/feed2imap@1.3.3-1?arch=all
+- pkg:deb/debian/feed2imap@1.3.4-1?arch=all

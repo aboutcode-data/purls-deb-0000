@@ -1,0 +1,4 @@
+- pkg:deb/debian/eqonomize-doc@1.5.1-1?arch=all
+- pkg:deb/debian/eqonomize-doc@1.5.11-1?arch=all
+- pkg:deb/debian/eqonomize-doc@1.5.4-1?arch=all
+- pkg:deb/debian/eqonomize-doc@1.5.9-1?arch=all

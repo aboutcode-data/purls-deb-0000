@@ -1,0 +1,2 @@
+- pkg:deb/debian/bsdmainutils@12.1.7%2Bnmu3?arch=all
+- pkg:deb/debian/bsdmainutils@12.1.8?arch=all

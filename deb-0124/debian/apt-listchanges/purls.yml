@@ -1,0 +1,2 @@
+- pkg:deb/debian/apt-listchanges@3.24?arch=all
+- pkg:deb/debian/apt-listchanges@4.8?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/ceres-solver-doc@1.14.0-14?arch=all
+- pkg:deb/debian/ceres-solver-doc@2.1.0%2Breally2.1.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/ceres-solver-doc@2.2.0%2Bdfsg-4.1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/console-log@1.2-2.1?arch=all
+- pkg:deb/debian/console-log@2.0-2?arch=all

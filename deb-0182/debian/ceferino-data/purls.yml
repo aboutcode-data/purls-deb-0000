@@ -1,0 +1,3 @@
+- pkg:deb/debian/ceferino-data@0.97.8%2Bsvn37-2.2?arch=all
+- pkg:deb/debian/ceferino-data@0.97.8%2Bsvn37-2?arch=all
+- pkg:deb/debian/ceferino-data@0.97.8%2Bsvn37-4?arch=all

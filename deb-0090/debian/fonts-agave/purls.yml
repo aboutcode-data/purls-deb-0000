@@ -1,0 +1,3 @@
+- pkg:deb/debian/fonts-agave@37-1?arch=all
+- pkg:deb/debian/fonts-agave@37-2?arch=all
+- pkg:deb/debian/fonts-agave@37-4?arch=all

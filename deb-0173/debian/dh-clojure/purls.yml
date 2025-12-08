@@ -1,0 +1,2 @@
+- pkg:deb/debian/dh-clojure@0.2.0%2Bnmu1?arch=all
+- pkg:deb/debian/dh-clojure@0.2.0?arch=all

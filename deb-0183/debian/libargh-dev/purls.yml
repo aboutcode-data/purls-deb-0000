@@ -1,0 +1,3 @@
+- pkg:deb/debian/libargh-dev@1.3.1%2Bds-2?arch=all
+- pkg:deb/debian/libargh-dev@1.3.2%2Bds-2?arch=all
+- pkg:deb/debian/libargh-dev@1.3.2%2Bds-3?arch=all

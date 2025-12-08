@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-docker-buildx-dev@0.13.1%2Bds1-3?arch=all
+- pkg:deb/debian/golang-github-docker-buildx-dev@0.19.3%2Bds1-4?arch=all

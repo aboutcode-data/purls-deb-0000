@@ -1,0 +1,4 @@
+- pkg:deb/debian/crip@3.9-2?arch=all
+- pkg:deb/debian/crip@3.9-3?arch=all
+- pkg:deb/debian/crip@3.9-4?arch=all
+- pkg:deb/debian/crip@3.9-6?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgcab-doc@1.4-3?arch=all
+- pkg:deb/debian/libgcab-doc@1.5-1?arch=all
+- pkg:deb/debian/libgcab-doc@1.6-1?arch=all
+- pkg:deb/debian/libgcab-doc@1.6-2?arch=all

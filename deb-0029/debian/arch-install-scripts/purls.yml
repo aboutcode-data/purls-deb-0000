@@ -1,0 +1,2 @@
+- pkg:deb/debian/arch-install-scripts@23-3?arch=all
+- pkg:deb/debian/arch-install-scripts@28-1?arch=all

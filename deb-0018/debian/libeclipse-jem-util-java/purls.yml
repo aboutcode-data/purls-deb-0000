@@ -1,0 +1,3 @@
+- pkg:deb/debian/libeclipse-jem-util-java@2.1.201%2Beclipse3.18-5?arch=all
+- pkg:deb/debian/libeclipse-jem-util-java@2.1.201%2Beclipse3.18-6?arch=all
+- pkg:deb/debian/libeclipse-jem-util-java@2.2.100%2Beclipse3.35-1?arch=all

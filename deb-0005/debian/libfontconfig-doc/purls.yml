@@ -1,0 +1,5 @@
+- pkg:deb/debian/libfontconfig-doc@2.13.1-4.2?arch=all
+- pkg:deb/debian/libfontconfig-doc@2.14.1-4?arch=all
+- pkg:deb/debian/libfontconfig-doc@2.15.0-2.3?arch=all
+- pkg:deb/debian/libfontconfig-doc@2.15.0-2.4?arch=all
+- pkg:deb/debian/libfontconfig-doc@2.17.1-1?arch=all

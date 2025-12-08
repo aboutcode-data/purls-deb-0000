@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-django-phonenumber-field-doc@8.1.0-1?arch=all
+- pkg:deb/debian/python-django-phonenumber-field-doc@8.4.0-1?arch=all

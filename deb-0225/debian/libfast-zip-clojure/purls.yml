@@ -1,0 +1,2 @@
+- pkg:deb/debian/libfast-zip-clojure@0.5.0-1.1?arch=all
+- pkg:deb/debian/libfast-zip-clojure@0.7.0%2Breally0.5.0-1?arch=all

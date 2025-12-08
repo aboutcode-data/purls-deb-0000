@@ -1,0 +1,3 @@
+- pkg:deb/debian/birdfont-common@2.32.3-2?arch=all
+- pkg:deb/debian/birdfont-common@2.33.6-1.1?arch=all
+- pkg:deb/debian/birdfont-common@2.33.6-1?arch=all

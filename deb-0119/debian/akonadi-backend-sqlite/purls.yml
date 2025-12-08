@@ -1,0 +1,16 @@
+- pkg:deb/debian/akonadi-backend-sqlite@20.08.3-3?arch=amd64
+- pkg:deb/debian/akonadi-backend-sqlite@20.08.3-3?arch=arm64
+- pkg:deb/debian/akonadi-backend-sqlite@20.08.3-3?arch=armhf
+- pkg:deb/debian/akonadi-backend-sqlite@20.08.3-3?arch=i386
+- pkg:deb/debian/akonadi-backend-sqlite@22.12.3-1?arch=amd64
+- pkg:deb/debian/akonadi-backend-sqlite@22.12.3-1?arch=arm64
+- pkg:deb/debian/akonadi-backend-sqlite@22.12.3-1?arch=armel
+- pkg:deb/debian/akonadi-backend-sqlite@22.12.3-1?arch=armhf
+- pkg:deb/debian/akonadi-backend-sqlite@22.12.3-1?arch=i386
+- pkg:deb/debian/akonadi-backend-sqlite@22.12.3-1?arch=mips64el
+- pkg:deb/debian/akonadi-backend-sqlite@22.12.3-1?arch=mipsel
+- pkg:deb/debian/akonadi-backend-sqlite@22.12.3-1?arch=ppc64el
+- pkg:deb/debian/akonadi-backend-sqlite@22.12.3-1?arch=s390x
+- pkg:deb/debian/akonadi-backend-sqlite@24.12.3-1?arch=all
+- pkg:deb/debian/akonadi-backend-sqlite@24.12.3-2?arch=all
+- pkg:deb/debian/akonadi-backend-sqlite@25.08.3-2?arch=all

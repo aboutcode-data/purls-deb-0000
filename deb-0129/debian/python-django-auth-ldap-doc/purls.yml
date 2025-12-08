@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-django-auth-ldap-doc@2.2.0-1?arch=all
+- pkg:deb/debian/python-django-auth-ldap-doc@4.1.0-3?arch=all
+- pkg:deb/debian/python-django-auth-ldap-doc@5.1.0-1?arch=all
+- pkg:deb/debian/python-django-auth-ldap-doc@5.2.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/google-android-build-tools-21-installer@21.1.2%2Bnmu5?arch=amd64
+- pkg:deb/debian/google-android-build-tools-21-installer@21.1.2%2Bnmu5?arch=i386

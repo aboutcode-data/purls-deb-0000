@@ -1,0 +1,4 @@
+- pkg:deb/debian/colobot-common@0.1.12-7?arch=all
+- pkg:deb/debian/colobot-common@0.2.0-2?arch=all
+- pkg:deb/debian/colobot-common@0.2.2-1?arch=all
+- pkg:deb/debian/colobot-common@0.2.2-2?arch=all

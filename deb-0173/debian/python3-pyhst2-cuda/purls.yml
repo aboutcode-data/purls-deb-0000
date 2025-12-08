@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pyhst2-cuda@2020c-1?arch=amd64
+- pkg:deb/debian/python3-pyhst2-cuda@2020c-7?arch=amd64

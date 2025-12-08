@@ -1,0 +1,4 @@
+- pkg:deb/debian/freebirth@0.3.2-9.3?arch=amd64
+- pkg:deb/debian/freebirth@0.3.2-9.3?arch=arm64
+- pkg:deb/debian/freebirth@0.3.2-9.3?arch=armhf
+- pkg:deb/debian/freebirth@0.3.2-9.3?arch=i386

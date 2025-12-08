@@ -1,0 +1,3 @@
+- pkg:deb/debian/dnsvi@1.3?arch=all
+- pkg:deb/debian/dnsvi@1.4?arch=all
+- pkg:deb/debian/dnsvi@1.5?arch=all

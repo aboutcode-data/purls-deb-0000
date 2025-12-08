@@ -1,0 +1,3 @@
+- pkg:deb/debian/cpanminus@1.7044-2?arch=all
+- pkg:deb/debian/cpanminus@1.7046-1?arch=all
+- pkg:deb/debian/cpanminus@1.7048-1?arch=all

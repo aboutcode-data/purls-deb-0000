@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-django-taggit-doc@3.1.0-2?arch=all
+- pkg:deb/debian/python-django-taggit-doc@6.1.0-1?arch=all
+- pkg:deb/debian/python-django-taggit-doc@6.1.0-2?arch=all

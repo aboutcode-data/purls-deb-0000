@@ -1,0 +1,8 @@
+- pkg:deb/debian/bolt-lmm@2.3.4%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/bolt-lmm@2.3.4%2Bdfsg-3?arch=i386
+- pkg:deb/debian/bolt-lmm@2.4.0%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/bolt-lmm@2.4.0%2Bdfsg-1?arch=i386
+- pkg:deb/debian/bolt-lmm@2.4.0%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/bolt-lmm@2.4.1%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/bolt-lmm@2.4.1%2Bdfsg-2?arch=i386
+- pkg:deb/debian/bolt-lmm@2.4.1%2Bdfsg-2?arch=ppc64el

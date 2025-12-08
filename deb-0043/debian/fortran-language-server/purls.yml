@@ -1,0 +1,3 @@
+- pkg:deb/debian/fortran-language-server@1.12.0-1?arch=all
+- pkg:deb/debian/fortran-language-server@2.13.0-1?arch=all
+- pkg:deb/debian/fortran-language-server@3.2.2%2Bdfsg-1?arch=all

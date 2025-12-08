@@ -1,0 +1,3 @@
+- pkg:deb/debian/colortest@20110624-10?arch=all
+- pkg:deb/debian/colortest@20110624-8?arch=all
+- pkg:deb/debian/colortest@20110624-9?arch=all

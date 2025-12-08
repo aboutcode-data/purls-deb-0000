@@ -1,0 +1,6 @@
+- pkg:deb/debian/indi-pentax@1.0%2B20221221102411-1?arch=amd64
+- pkg:deb/debian/indi-pentax@1.0%2B20221221102411-1?arch=armhf
+- pkg:deb/debian/indi-pentax@1.0%2B20221221102411-2?arch=amd64
+- pkg:deb/debian/indi-pentax@1.0%2B20221221102411-2?arch=armhf
+- pkg:deb/debian/indi-pentax@1.0%2B20221221102411-3?arch=amd64
+- pkg:deb/debian/indi-pentax@1.0%2B20221221102411-3?arch=armhf

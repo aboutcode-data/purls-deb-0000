@@ -1,0 +1,2 @@
+- pkg:deb/debian/libdumbster-java@1.6%2Bdebian-4?arch=all
+- pkg:deb/debian/libdumbster-java@1.6%2Bdebian-5?arch=all

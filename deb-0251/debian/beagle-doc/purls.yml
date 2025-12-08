@@ -1,0 +1,4 @@
+- pkg:deb/debian/beagle-doc@220722-1?arch=all
+- pkg:deb/debian/beagle-doc@241217-3?arch=all
+- pkg:deb/debian/beagle-doc@250227-2?arch=all
+- pkg:deb/debian/beagle-doc@5.1-200518%2Bdfsg-1?arch=all

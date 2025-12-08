@@ -1,0 +1,2 @@
+- pkg:deb/debian/cvs-buildpackage@5.26%2Bnmu1?arch=all
+- pkg:deb/debian/cvs-buildpackage@5.26?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/dh-raku@0.15?arch=all
+- pkg:deb/debian/dh-raku@0.19?arch=all

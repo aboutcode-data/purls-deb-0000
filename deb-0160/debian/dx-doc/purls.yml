@@ -1,0 +1,4 @@
+- pkg:deb/debian/dx-doc@4.4.4-13?arch=all
+- pkg:deb/debian/dx-doc@4.4.4-15?arch=all
+- pkg:deb/debian/dx-doc@4.4.4-18?arch=all
+- pkg:deb/debian/dx-doc@4.4.4-19?arch=all

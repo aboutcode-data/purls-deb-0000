@@ -1,0 +1,3 @@
+- pkg:deb/debian/fonts-elstob@1.014%2Bds-1?arch=all
+- pkg:deb/debian/fonts-elstob@2.000~beta4%2Bgit20230209%2Bds-1?arch=all
+- pkg:deb/debian/fonts-elstob@3.001%2Bds-1?arch=all

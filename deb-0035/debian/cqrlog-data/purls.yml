@@ -1,0 +1,3 @@
+- pkg:deb/debian/cqrlog-data@2.5.1-2?arch=all
+- pkg:deb/debian/cqrlog-data@2.5.2-3?arch=all
+- pkg:deb/debian/cqrlog-data@2.5.2-5?arch=all

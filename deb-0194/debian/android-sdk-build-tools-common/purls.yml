@@ -1,0 +1,4 @@
+- pkg:deb/debian/android-sdk-build-tools-common@29.0.3%2B12?arch=all
+- pkg:deb/debian/android-sdk-build-tools-common@29.0.3%2B3?arch=all
+- pkg:deb/debian/android-sdk-build-tools-common@29.0.3%2B8?arch=all
+- pkg:deb/debian/android-sdk-build-tools-common@29.0.3%2B9?arch=all

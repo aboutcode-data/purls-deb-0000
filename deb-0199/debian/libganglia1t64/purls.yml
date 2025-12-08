@@ -1,0 +1,7 @@
+- pkg:deb/debian/libganglia1t64@3.7.2-7?arch=amd64
+- pkg:deb/debian/libganglia1t64@3.7.2-7?arch=arm64
+- pkg:deb/debian/libganglia1t64@3.7.2-7?arch=armhf
+- pkg:deb/debian/libganglia1t64@3.7.2-7?arch=i386
+- pkg:deb/debian/libganglia1t64@3.7.2-7?arch=ppc64el
+- pkg:deb/debian/libganglia1t64@3.7.2-7?arch=riscv64
+- pkg:deb/debian/libganglia1t64@3.7.2-7?arch=s390x

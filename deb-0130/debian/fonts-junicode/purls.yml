@@ -1,0 +1,4 @@
+- pkg:deb/debian/fonts-junicode@1.002-2?arch=all
+- pkg:deb/debian/fonts-junicode@2%2Bgit20230104%2Bds-1?arch=all
+- pkg:deb/debian/fonts-junicode@2.211%2Bds-1?arch=all
+- pkg:deb/debian/fonts-junicode@2.220%2Bds-1?arch=all

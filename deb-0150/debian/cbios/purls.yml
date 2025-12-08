@@ -1,0 +1,2 @@
+- pkg:deb/debian/cbios@0.28-1.1?arch=all
+- pkg:deb/debian/cbios@0.29a-1.1?arch=all

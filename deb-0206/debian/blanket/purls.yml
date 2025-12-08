@@ -1,0 +1,2 @@
+- pkg:deb/debian/blanket@0.7.0-4?arch=all
+- pkg:deb/debian/blanket@0.8.0-1?arch=all

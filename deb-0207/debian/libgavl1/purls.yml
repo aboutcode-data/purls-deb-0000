@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgavl1@1.4.0-5?arch=amd64
+- pkg:deb/debian/libgavl1@1.4.0-5?arch=arm64
+- pkg:deb/debian/libgavl1@1.4.0-5?arch=armhf
+- pkg:deb/debian/libgavl1@1.4.0-5?arch=i386

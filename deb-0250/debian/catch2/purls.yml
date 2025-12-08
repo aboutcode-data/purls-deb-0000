@@ -1,0 +1,16 @@
+- pkg:deb/debian/catch2@2.13.10-1?arch=amd64
+- pkg:deb/debian/catch2@2.13.10-1?arch=arm64
+- pkg:deb/debian/catch2@2.13.10-1?arch=armel
+- pkg:deb/debian/catch2@2.13.10-1?arch=armhf
+- pkg:deb/debian/catch2@2.13.10-1?arch=i386
+- pkg:deb/debian/catch2@2.13.10-1?arch=mips64el
+- pkg:deb/debian/catch2@2.13.10-1?arch=mipsel
+- pkg:deb/debian/catch2@2.13.10-1?arch=ppc64el
+- pkg:deb/debian/catch2@2.13.10-1?arch=s390x
+- pkg:deb/debian/catch2@2.13.4-2%2Bb1?arch=amd64
+- pkg:deb/debian/catch2@2.13.4-2?arch=arm64
+- pkg:deb/debian/catch2@2.13.4-2?arch=armhf
+- pkg:deb/debian/catch2@2.13.4-2?arch=i386
+- pkg:deb/debian/catch2@3.7.1-0.4~bpo12%2B1?arch=all
+- pkg:deb/debian/catch2@3.7.1-0.5?arch=all
+- pkg:deb/debian/catch2@3.7.1-0.6?arch=all

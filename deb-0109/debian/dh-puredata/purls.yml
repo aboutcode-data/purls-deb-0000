@@ -1,0 +1,2 @@
+- pkg:deb/debian/dh-puredata@3.0.1?arch=all
+- pkg:deb/debian/dh-puredata@3.2.0?arch=all

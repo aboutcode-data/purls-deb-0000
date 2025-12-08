@@ -1,0 +1,4 @@
+- pkg:deb/debian/copyright-update@2016.1018-4?arch=all
+- pkg:deb/debian/copyright-update@2016.1018-5?arch=all
+- pkg:deb/debian/copyright-update@2016.1018-6?arch=all
+- pkg:deb/debian/copyright-update@2025.0404-1?arch=all

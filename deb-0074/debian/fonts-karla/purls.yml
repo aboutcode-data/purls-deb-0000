@@ -1,0 +1,4 @@
+- pkg:deb/debian/fonts-karla@20160111-1?arch=all
+- pkg:deb/debian/fonts-karla@20201218-1?arch=all
+- pkg:deb/debian/fonts-karla@20230419-1?arch=all
+- pkg:deb/debian/fonts-karla@20230419-2?arch=all

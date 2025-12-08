@@ -1,0 +1,4 @@
+- pkg:deb/debian/cme@1.032-1?arch=all
+- pkg:deb/debian/cme@1.038-1?arch=all
+- pkg:deb/debian/cme@1.041-1?arch=all
+- pkg:deb/debian/cme@1.043-1?arch=all

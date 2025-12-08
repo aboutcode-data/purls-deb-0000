@@ -1,0 +1,4 @@
+- pkg:deb/debian/editorconfig-doc@0.12.1-1.1?arch=all
+- pkg:deb/debian/editorconfig-doc@0.12.10%2B~0.17.1-3?arch=all
+- pkg:deb/debian/editorconfig-doc@0.12.6-0.1?arch=all
+- pkg:deb/debian/editorconfig-doc@0.12.9%2B~0.17.1-1?arch=all

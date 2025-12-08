@@ -1,0 +1,2 @@
+- pkg:deb/debian/equivs@2.3.1?arch=all
+- pkg:deb/debian/equivs@2.3.2?arch=all

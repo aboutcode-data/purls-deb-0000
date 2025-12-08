@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcombblas-docs@1.6.2-6?arch=all
+- pkg:deb/debian/libcombblas-docs@1.6.2-8?arch=all
+- pkg:deb/debian/libcombblas-docs@2.0.0-6?arch=all
+- pkg:deb/debian/libcombblas-docs@2.0.0-7?arch=all

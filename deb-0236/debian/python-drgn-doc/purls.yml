@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-drgn-doc@0.0.22-1?arch=all
+- pkg:deb/debian/python-drgn-doc@0.0.31-1?arch=all
+- pkg:deb/debian/python-drgn-doc@0.0.32-2?arch=all
+- pkg:deb/debian/python-drgn-doc@0.0.33-1?arch=all

@@ -1,0 +1,15 @@
+- pkg:deb/debian/dpdk-kmods-dkms@0~20201113%2Bgit-2?arch=amd64
+- pkg:deb/debian/dpdk-kmods-dkms@0~20201113%2Bgit-2?arch=arm64
+- pkg:deb/debian/dpdk-kmods-dkms@0~20201113%2Bgit-2?arch=i386
+- pkg:deb/debian/dpdk-kmods-dkms@0~20220829%2Bgit-3?arch=amd64
+- pkg:deb/debian/dpdk-kmods-dkms@0~20220829%2Bgit-3?arch=arm64
+- pkg:deb/debian/dpdk-kmods-dkms@0~20220829%2Bgit-3?arch=i386
+- pkg:deb/debian/dpdk-kmods-dkms@0~20220829%2Bgit-3?arch=ppc64el
+- pkg:deb/debian/dpdk-kmods-dkms@0~20230205%2Bgit-2?arch=amd64
+- pkg:deb/debian/dpdk-kmods-dkms@0~20230205%2Bgit-2?arch=arm64
+- pkg:deb/debian/dpdk-kmods-dkms@0~20230205%2Bgit-2?arch=ppc64el
+- pkg:deb/debian/dpdk-kmods-dkms@0~20230205%2Bgit-2?arch=riscv64
+- pkg:deb/debian/dpdk-kmods-dkms@0~20241120%2Bgit-1?arch=amd64
+- pkg:deb/debian/dpdk-kmods-dkms@0~20241120%2Bgit-1?arch=arm64
+- pkg:deb/debian/dpdk-kmods-dkms@0~20241120%2Bgit-1?arch=ppc64el
+- pkg:deb/debian/dpdk-kmods-dkms@0~20241120%2Bgit-1?arch=riscv64

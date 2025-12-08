@@ -1,0 +1,4 @@
+- pkg:deb/debian/adabrowse@4.0.3-14?arch=amd64
+- pkg:deb/debian/adabrowse@4.0.3-14?arch=arm64
+- pkg:deb/debian/adabrowse@4.0.3-14?arch=armhf
+- pkg:deb/debian/adabrowse@4.0.3-14?arch=i386

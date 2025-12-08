@@ -1,0 +1,4 @@
+- pkg:deb/debian/devhelp-common@3.38.1-1?arch=all
+- pkg:deb/debian/devhelp-common@43.0-3?arch=all
+- pkg:deb/debian/devhelp-common@43.0-5?arch=all
+- pkg:deb/debian/devhelp-common@43.0-6?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/coq-hierarchy-builder@1.4.0-2%2Bb6?arch=amd64
+- pkg:deb/debian/coq-hierarchy-builder@1.4.0-2%2Bb6?arch=arm64
+- pkg:deb/debian/coq-hierarchy-builder@1.4.0-2%2Bb6?arch=i386
+- pkg:deb/debian/coq-hierarchy-builder@1.4.0-2%2Bb6?arch=ppc64el

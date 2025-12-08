@@ -1,0 +1,5 @@
+- pkg:deb/debian/mpc-ace@6.5.12%2Bdfsg-3?arch=all
+- pkg:deb/debian/mpc-ace@7.0.8%2Bdfsg-2?arch=all
+- pkg:deb/debian/mpc-ace@8.0.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/mpc-ace@8.0.4%2Bdfsg-2?arch=all
+- pkg:deb/debian/mpc-ace@8.0.5%2Bdfsg-2?arch=all

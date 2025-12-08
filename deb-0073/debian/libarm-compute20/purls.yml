@@ -1,0 +1,4 @@
+- pkg:deb/debian/libarm-compute20@20.08%2Bdfsg-5?arch=arm64
+- pkg:deb/debian/libarm-compute20@20.08%2Bdfsg-5?arch=armhf
+- pkg:deb/debian/libarm-compute20@20.08%2Bdfsg-7?arch=arm64
+- pkg:deb/debian/libarm-compute20@20.08%2Bdfsg-7?arch=armhf

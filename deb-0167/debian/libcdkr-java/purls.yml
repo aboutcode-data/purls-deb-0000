@@ -1,0 +1,3 @@
+- pkg:deb/debian/libcdkr-java@3.5.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/libcdkr-java@3.6.0%2Bdfsg-3?arch=all
+- pkg:deb/debian/libcdkr-java@3.6.0%2Bdfsg-4?arch=all

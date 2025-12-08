@@ -1,0 +1,4 @@
+- pkg:deb/debian/bedops-doc@2.4.39%2Bdfsg1-2?arch=all
+- pkg:deb/debian/bedops-doc@2.4.41%2Bdfsg-1?arch=all
+- pkg:deb/debian/bedops-doc@2.4.41%2Bdfsg-3?arch=all
+- pkg:deb/debian/bedops-doc@2.4.42%2Bdfsg-1?arch=all

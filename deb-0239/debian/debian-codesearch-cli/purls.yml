@@ -1,0 +1,2 @@
+- pkg:deb/debian/debian-codesearch-cli@1.0.0%2Bnmu1?arch=all
+- pkg:deb/debian/debian-codesearch-cli@1.0.0%2Bnmu3?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/libfftw3-quad3@3.3.10-1?arch=amd64
+- pkg:deb/debian/libfftw3-quad3@3.3.10-1?arch=i386
+- pkg:deb/debian/libfftw3-quad3@3.3.10-2%2Bb1?arch=amd64
+- pkg:deb/debian/libfftw3-quad3@3.3.10-2%2Bb1?arch=i386
+- pkg:deb/debian/libfftw3-quad3@3.3.8-2?arch=amd64
+- pkg:deb/debian/libfftw3-quad3@3.3.8-2?arch=i386

@@ -1,0 +1,3 @@
+- pkg:deb/debian/airgraph-ng@1.6%2Bgit20210130.91820bc-1?arch=all
+- pkg:deb/debian/airgraph-ng@1.7%2Bgit20230807.4bf83f1a-2?arch=all
+- pkg:deb/debian/airgraph-ng@1.7-5?arch=all

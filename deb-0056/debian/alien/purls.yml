@@ -1,0 +1,4 @@
+- pkg:deb/debian/alien@8.95.4?arch=all
+- pkg:deb/debian/alien@8.95.6?arch=all
+- pkg:deb/debian/alien@8.95.8?arch=all
+- pkg:deb/debian/alien@8.95.9-1?arch=all

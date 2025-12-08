@@ -1,0 +1,4 @@
+- pkg:deb/debian/debian-security-support@11%2B2023.05.04?arch=all
+- pkg:deb/debian/debian-security-support@11%2B2024.01.30?arch=all
+- pkg:deb/debian/debian-security-support@12%2B2025.06.20?arch=all
+- pkg:deb/debian/debian-security-support@13%2B2025.07.16?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/doodle-dbg@0.7.0-10?arch=amd64
+- pkg:deb/debian/doodle-dbg@0.7.0-10?arch=arm64
+- pkg:deb/debian/doodle-dbg@0.7.0-10?arch=armhf
+- pkg:deb/debian/doodle-dbg@0.7.0-10?arch=i386

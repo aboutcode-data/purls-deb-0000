@@ -1,0 +1,7 @@
+- pkg:deb/debian/python3-pycuda@2020.1~dfsg1-1?arch=amd64
+- pkg:deb/debian/python3-pycuda@2022.2.2~dfsg-2%2Bb1?arch=amd64
+- pkg:deb/debian/python3-pycuda@2022.2.2~dfsg-2%2Bb1?arch=arm64
+- pkg:deb/debian/python3-pycuda@2022.2.2~dfsg-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/python3-pycuda@2025.1.1~dfsg-1?arch=amd64
+- pkg:deb/debian/python3-pycuda@2025.1.1~dfsg-1?arch=arm64
+- pkg:deb/debian/python3-pycuda@2025.1.1~dfsg-1?arch=ppc64el

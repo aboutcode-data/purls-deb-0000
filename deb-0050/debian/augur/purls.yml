@@ -1,0 +1,4 @@
+- pkg:deb/debian/augur@11.0.0-1?arch=all
+- pkg:deb/debian/augur@20.0.0-1?arch=all
+- pkg:deb/debian/augur@24.4.0-1?arch=all
+- pkg:deb/debian/augur@24.4.0-3?arch=all

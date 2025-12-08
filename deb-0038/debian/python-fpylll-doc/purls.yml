@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-fpylll-doc@0.5.2%2Bds1-3?arch=all
+- pkg:deb/debian/python-fpylll-doc@0.5.9-1?arch=all
+- pkg:deb/debian/python-fpylll-doc@0.6.3-2?arch=all
+- pkg:deb/debian/python-fpylll-doc@0.6.4-1.1?arch=all

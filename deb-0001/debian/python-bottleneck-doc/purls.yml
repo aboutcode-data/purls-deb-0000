@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-bottleneck-doc@1.2.1%2Bds1-2?arch=all
+- pkg:deb/debian/python-bottleneck-doc@1.3.5%2Bds1-2?arch=all
+- pkg:deb/debian/python-bottleneck-doc@1.4.2%2Bds1-2?arch=all

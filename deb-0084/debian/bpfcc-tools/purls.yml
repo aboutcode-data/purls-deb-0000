@@ -1,0 +1,5 @@
+- pkg:deb/debian/bpfcc-tools@0.18.0%2Bds-2?arch=all
+- pkg:deb/debian/bpfcc-tools@0.26.0%2Bds-1?arch=all
+- pkg:deb/debian/bpfcc-tools@0.31.0%2Bds-7?arch=all
+- pkg:deb/debian/bpfcc-tools@0.35.0%2Bds-1?arch=all
+- pkg:deb/debian/bpfcc-tools@0.35.0%2Bds-2~exp1?arch=all

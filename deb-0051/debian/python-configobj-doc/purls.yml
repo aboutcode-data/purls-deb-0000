@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-configobj-doc@5.0.6-4?arch=all
+- pkg:deb/debian/python-configobj-doc@5.0.8-1?arch=all
+- pkg:deb/debian/python-configobj-doc@5.0.9-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libbarclay-java@2.1.0-3.1?arch=all
+- pkg:deb/debian/libbarclay-java@4.1.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/libbarclay-java@5.0.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/libbarclay-java@6.0.0%2Bdfsg-1?arch=all

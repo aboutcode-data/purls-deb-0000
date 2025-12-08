@@ -1,0 +1,3 @@
+- pkg:deb/debian/fierce@1.4.0-2?arch=all
+- pkg:deb/debian/fierce@1.5.0-1?arch=all
+- pkg:deb/debian/fierce@1.6.0-1?arch=all

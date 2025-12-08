@@ -1,0 +1,15 @@
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-26?arch=amd64
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-26?arch=arm64
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-26?arch=armel
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-26?arch=armhf
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-26?arch=i386
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-26?arch=ppc64el
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-26?arch=riscv64
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-26?arch=s390x
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-27?arch=amd64
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-27?arch=arm64
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-27?arch=armhf
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-27?arch=i386
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-27?arch=ppc64el
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-27?arch=riscv64
+- pkg:deb/debian/libcollectdclient1t64@5.12.0-27?arch=s390x

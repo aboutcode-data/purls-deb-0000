@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-django-tables2-doc@2.1.1-1?arch=all
+- pkg:deb/debian/python-django-tables2-doc@2.4.1-3?arch=all
+- pkg:deb/debian/python-django-tables2-doc@2.7.5-1?arch=all
+- pkg:deb/debian/python-django-tables2-doc@2.8.0-1?arch=all

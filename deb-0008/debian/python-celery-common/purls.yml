@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-celery-common@5.0.0-3?arch=all
+- pkg:deb/debian/python-celery-common@5.2.6-5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/elida@0.4%2Bnmu2?arch=all
+- pkg:deb/debian/elida@0.4.0?arch=all

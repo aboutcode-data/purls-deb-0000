@@ -1,0 +1,2 @@
+- pkg:deb/debian/cargo-doc@0.47.0-3?arch=all
+- pkg:deb/debian/cargo-doc@0.66.0%2Bds1-1?arch=all

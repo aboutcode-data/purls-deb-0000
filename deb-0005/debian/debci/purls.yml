@@ -1,0 +1,4 @@
+- pkg:deb/debian/debci@2.15.2?arch=all
+- pkg:deb/debian/debci@3.12?arch=all
+- pkg:deb/debian/debci@3.13?arch=all
+- pkg:deb/debian/debci@3.6?arch=all

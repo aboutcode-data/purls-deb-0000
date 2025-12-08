@@ -1,0 +1,2 @@
+- pkg:deb/debian/aiohttp-wsgi-serve@0.10.0-1?arch=all
+- pkg:deb/debian/aiohttp-wsgi-serve@0.8.2-2?arch=all

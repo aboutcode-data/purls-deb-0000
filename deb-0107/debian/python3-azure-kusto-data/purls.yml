@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-azure-kusto-data@1.0.3-1?arch=all
+- pkg:deb/debian/python3-azure-kusto-data@4.1.1-1?arch=all
+- pkg:deb/debian/python3-azure-kusto-data@5.0.3-1?arch=all
+- pkg:deb/debian/python3-azure-kusto-data@5.0.5-1?arch=all

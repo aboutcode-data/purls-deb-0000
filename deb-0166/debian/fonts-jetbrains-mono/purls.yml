@@ -1,0 +1,4 @@
+- pkg:deb/debian/fonts-jetbrains-mono@2.225%2Bds-1?arch=all
+- pkg:deb/debian/fonts-jetbrains-mono@2.242%2Bds-3?arch=all
+- pkg:deb/debian/fonts-jetbrains-mono@2.304%2Bds-5?arch=all
+- pkg:deb/debian/fonts-jetbrains-mono@2.304%2Bds-6?arch=all

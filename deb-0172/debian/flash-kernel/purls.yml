@@ -1,0 +1,9 @@
+- pkg:deb/debian/flash-kernel@3.104?arch=arm64
+- pkg:deb/debian/flash-kernel@3.104?arch=armhf
+- pkg:deb/debian/flash-kernel@3.107?arch=arm64
+- pkg:deb/debian/flash-kernel@3.107?arch=armel
+- pkg:deb/debian/flash-kernel@3.107?arch=armhf
+- pkg:deb/debian/flash-kernel@3.109?arch=arm64
+- pkg:deb/debian/flash-kernel@3.109?arch=armel
+- pkg:deb/debian/flash-kernel@3.109?arch=armhf
+- pkg:deb/debian/flash-kernel@3.109?arch=riscv64

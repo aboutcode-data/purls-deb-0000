@@ -1,0 +1,12 @@
+- pkg:deb/debian/cantor-backend-scilab@20.12.1-5?arch=amd64
+- pkg:deb/debian/cantor-backend-scilab@20.12.1-5?arch=arm64
+- pkg:deb/debian/cantor-backend-scilab@22.12.3-1?arch=amd64
+- pkg:deb/debian/cantor-backend-scilab@22.12.3-1?arch=arm64
+- pkg:deb/debian/cantor-backend-scilab@25.04.2-3%2Bb1?arch=amd64
+- pkg:deb/debian/cantor-backend-scilab@25.04.2-3%2Bb1?arch=arm64
+- pkg:deb/debian/cantor-backend-scilab@25.04.2-3%2Bb1?arch=ppc64el
+- pkg:deb/debian/cantor-backend-scilab@25.04.2-3%2Bb1?arch=s390x
+- pkg:deb/debian/cantor-backend-scilab@25.04.2-3?arch=amd64
+- pkg:deb/debian/cantor-backend-scilab@25.04.2-3?arch=arm64
+- pkg:deb/debian/cantor-backend-scilab@25.04.2-3?arch=ppc64el
+- pkg:deb/debian/cantor-backend-scilab@25.04.2-3?arch=s390x

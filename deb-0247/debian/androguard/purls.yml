@@ -1,0 +1,5 @@
+- pkg:deb/debian/androguard@3.4.0~a1-17?arch=all
+- pkg:deb/debian/androguard@3.4.0~a1-17~bpo12%2B1?arch=all
+- pkg:deb/debian/androguard@3.4.0~a1-18?arch=all
+- pkg:deb/debian/androguard@3.4.0~a1-1?arch=all
+- pkg:deb/debian/androguard@3.4.0~a1-6?arch=all

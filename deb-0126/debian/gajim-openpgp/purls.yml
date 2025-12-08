@@ -1,0 +1,4 @@
+- pkg:deb/debian/gajim-openpgp@1.3.9-2?arch=all
+- pkg:deb/debian/gajim-openpgp@1.5.0-1?arch=all
+- pkg:deb/debian/gajim-openpgp@1.7.1-1?arch=all
+- pkg:deb/debian/gajim-openpgp@1.8.0-1?arch=all

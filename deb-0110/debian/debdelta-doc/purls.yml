@@ -1,0 +1,3 @@
+- pkg:deb/debian/debdelta-doc@0.67?arch=all
+- pkg:deb/debian/debdelta-doc@0.70%2Bnmu1?arch=all
+- pkg:deb/debian/debdelta-doc@0.70%2Bnmu2?arch=all

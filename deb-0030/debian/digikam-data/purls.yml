@@ -1,0 +1,4 @@
+- pkg:deb/debian/digikam-data@7.1.0-2?arch=all
+- pkg:deb/debian/digikam-data@7.9.0-1?arch=all
+- pkg:deb/debian/digikam-data@8.6.0-1?arch=all
+- pkg:deb/debian/digikam-data@8.8.0-1?arch=all

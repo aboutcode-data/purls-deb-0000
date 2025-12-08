@@ -1,0 +1,17 @@
+- pkg:deb/debian/cricket@1.0.5-22?arch=amd64
+- pkg:deb/debian/cricket@1.0.5-22?arch=arm64
+- pkg:deb/debian/cricket@1.0.5-22?arch=armel
+- pkg:deb/debian/cricket@1.0.5-22?arch=armhf
+- pkg:deb/debian/cricket@1.0.5-22?arch=i386
+- pkg:deb/debian/cricket@1.0.5-22?arch=mips64el
+- pkg:deb/debian/cricket@1.0.5-22?arch=mipsel
+- pkg:deb/debian/cricket@1.0.5-22?arch=ppc64el
+- pkg:deb/debian/cricket@1.0.5-22?arch=s390x
+- pkg:deb/debian/cricket@1.0.5-23?arch=amd64
+- pkg:deb/debian/cricket@1.0.5-23?arch=arm64
+- pkg:deb/debian/cricket@1.0.5-23?arch=armel
+- pkg:deb/debian/cricket@1.0.5-23?arch=armhf
+- pkg:deb/debian/cricket@1.0.5-23?arch=i386
+- pkg:deb/debian/cricket@1.0.5-23?arch=ppc64el
+- pkg:deb/debian/cricket@1.0.5-23?arch=riscv64
+- pkg:deb/debian/cricket@1.0.5-23?arch=s390x

@@ -1,0 +1,5 @@
+- pkg:deb/debian/doris@5.0.3~beta%2Bdfsg-14?arch=amd64
+- pkg:deb/debian/doris@5.0.3~beta%2Bdfsg-14?arch=i386
+- pkg:deb/debian/doris@5.0.3~beta%2Bdfsg-16?arch=amd64
+- pkg:deb/debian/doris@5.0.3~beta%2Bdfsg-16?arch=i386
+- pkg:deb/debian/doris@5.0.3~beta%2Bdfsg-18?arch=amd64

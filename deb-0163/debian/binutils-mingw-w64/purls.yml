@@ -1,0 +1,6 @@
+- pkg:deb/debian/binutils-mingw-w64@2.35-2%2B8.11?arch=all
+- pkg:deb/debian/binutils-mingw-w64@2.40-2%2B10.4?arch=all
+- pkg:deb/debian/binutils-mingw-w64@2.43.1-5%2B12?arch=all
+- pkg:deb/debian/binutils-mingw-w64@2.45-7%2B12.1?arch=all
+- pkg:deb/debian/binutils-mingw-w64@2.45.50.20251201-1%2B13?arch=all
+- pkg:deb/debian/binutils-mingw-w64@2.45.50.20251201-1%2B13~exp1?arch=all

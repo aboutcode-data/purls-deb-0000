@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-flask-jwt-simple@0.0.3-12?arch=all
+- pkg:deb/debian/python3-flask-jwt-simple@0.0.3-14?arch=all

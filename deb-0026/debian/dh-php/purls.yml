@@ -1,0 +1,4 @@
+- pkg:deb/debian/dh-php@0.35?arch=all
+- pkg:deb/debian/dh-php@5.10?arch=all
+- pkg:deb/debian/dh-php@5.15?arch=all
+- pkg:deb/debian/dh-php@5.2?arch=all

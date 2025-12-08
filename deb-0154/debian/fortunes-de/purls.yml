@@ -1,0 +1,3 @@
+- pkg:deb/debian/fortunes-de@0.34-1?arch=all
+- pkg:deb/debian/fortunes-de@0.35-1?arch=all
+- pkg:deb/debian/fortunes-de@0.37-1?arch=all

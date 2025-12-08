@@ -1,0 +1,4 @@
+- pkg:deb/debian/faust-common@2.30.5~ds0-2?arch=all
+- pkg:deb/debian/faust-common@2.54.9%2Bds0-1?arch=all
+- pkg:deb/debian/faust-common@2.79.3%2Bds-2?arch=all
+- pkg:deb/debian/faust-common@2.81.10%2Bds-1?arch=all

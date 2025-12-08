@@ -1,0 +1,3 @@
+- pkg:deb/debian/dnsdiag@1.7.0-1?arch=all
+- pkg:deb/debian/dnsdiag@2.0.2-2?arch=all
+- pkg:deb/debian/dnsdiag@2.6.0-1?arch=all

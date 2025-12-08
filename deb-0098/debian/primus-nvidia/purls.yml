@@ -1,0 +1,12 @@
+- pkg:deb/debian/primus-nvidia@0~20150328-13?arch=amd64
+- pkg:deb/debian/primus-nvidia@0~20150328-13?arch=arm64
+- pkg:deb/debian/primus-nvidia@0~20150328-13?arch=armhf
+- pkg:deb/debian/primus-nvidia@0~20150328-13?arch=i386
+- pkg:deb/debian/primus-nvidia@0~20150328-14?arch=armhf
+- pkg:deb/debian/primus-nvidia@0~20150328-14?arch=i386
+- pkg:deb/debian/primus-nvidia@0~20150328-15?arch=amd64
+- pkg:deb/debian/primus-nvidia@0~20150328-15?arch=arm64
+- pkg:deb/debian/primus-nvidia@0~20150328-15?arch=ppc64el
+- pkg:deb/debian/primus-nvidia@0~20150328-18?arch=ppc64el
+- pkg:deb/debian/primus-nvidia@0~20150328-19?arch=amd64
+- pkg:deb/debian/primus-nvidia@0~20150328-19?arch=arm64

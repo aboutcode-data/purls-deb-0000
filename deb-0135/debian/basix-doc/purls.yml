@@ -1,0 +1,5 @@
+- pkg:deb/debian/basix-doc@0.0.1~git20210122.4f10ef2-2?arch=all
+- pkg:deb/debian/basix-doc@0.10.0.post0-1exp2?arch=all
+- pkg:deb/debian/basix-doc@0.5.1-1?arch=all
+- pkg:deb/debian/basix-doc@0.9.0-2?arch=all
+- pkg:deb/debian/basix-doc@0.9.0-4?arch=all

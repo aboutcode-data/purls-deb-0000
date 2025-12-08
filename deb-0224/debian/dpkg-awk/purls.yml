@@ -1,0 +1,2 @@
+- pkg:deb/debian/dpkg-awk@1.2%2Bnmu2?arch=all
+- pkg:deb/debian/dpkg-awk@1.2%2Bnmu3?arch=all

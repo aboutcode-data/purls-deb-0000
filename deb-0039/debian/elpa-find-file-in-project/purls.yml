@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-find-file-in-project@6.0.1-1?arch=all
+- pkg:deb/debian/elpa-find-file-in-project@6.2.0-1?arch=all
+- pkg:deb/debian/elpa-find-file-in-project@6.2.3-1?arch=all
+- pkg:deb/debian/elpa-find-file-in-project@6.2.5-1?arch=all

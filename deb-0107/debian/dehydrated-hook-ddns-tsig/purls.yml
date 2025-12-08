@@ -1,0 +1,2 @@
+- pkg:deb/debian/dehydrated-hook-ddns-tsig@0.1.4-5?arch=all
+- pkg:deb/debian/dehydrated-hook-ddns-tsig@0.1.4-8?arch=all

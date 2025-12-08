@@ -1,0 +1,3 @@
+- pkg:deb/debian/elpa-fountain-mode@2.8.5-1?arch=all
+- pkg:deb/debian/elpa-fountain-mode@3.6.0-1?arch=all
+- pkg:deb/debian/elpa-fountain-mode@3.7.1-3?arch=all

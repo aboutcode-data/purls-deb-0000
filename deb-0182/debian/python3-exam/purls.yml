@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-exam@0.10.5-3?arch=all
+- pkg:deb/debian/python3-exam@0.10.6-1?arch=all
