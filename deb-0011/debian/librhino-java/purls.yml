@@ -1,0 +1,3 @@
+- pkg:deb/debian/librhino-java@1.7.14-2.1?arch=all
+- pkg:deb/debian/librhino-java@1.7.15-1?arch=all
+- pkg:deb/debian/librhino-java@1.7.7.2-3?arch=all

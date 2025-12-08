@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-saml@1.11.0-1?arch=all
+- pkg:deb/debian/ruby-saml@1.13.0-1%2Bdeb12u1?arch=all

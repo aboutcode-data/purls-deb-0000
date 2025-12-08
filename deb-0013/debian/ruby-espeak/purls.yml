@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-espeak@1.0.4-2?arch=all
+- pkg:deb/debian/ruby-espeak@1.1.0-1?arch=all

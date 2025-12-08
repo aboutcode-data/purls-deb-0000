@@ -1,0 +1,4 @@
+- pkg:deb/debian/libqhull-doc@2020.2-3?arch=all
+- pkg:deb/debian/libqhull-doc@2020.2-5?arch=all
+- pkg:deb/debian/libqhull-doc@2020.2-6?arch=all
+- pkg:deb/debian/libqhull-doc@2020.2-7?arch=all

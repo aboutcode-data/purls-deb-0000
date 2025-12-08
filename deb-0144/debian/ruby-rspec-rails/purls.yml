@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-rspec-rails@4.0.1-2?arch=all
+- pkg:deb/debian/ruby-rspec-rails@5.0.2-1?arch=all
+- pkg:deb/debian/ruby-rspec-rails@7.1.1-2?arch=all
+- pkg:deb/debian/ruby-rspec-rails@8.0.2-1?arch=all

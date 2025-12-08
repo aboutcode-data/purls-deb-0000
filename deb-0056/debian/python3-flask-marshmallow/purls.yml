@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-flask-marshmallow@0.10.1-4?arch=all
+- pkg:deb/debian/python3-flask-marshmallow@0.14.0-3?arch=all
+- pkg:deb/debian/python3-flask-marshmallow@1.3.0-1?arch=all

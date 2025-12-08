@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-mini-mime@1.0.2-1?arch=all
+- pkg:deb/debian/ruby-mini-mime@1.1.1-2?arch=all
+- pkg:deb/debian/ruby-mini-mime@1.1.5-1?arch=all
+- pkg:deb/debian/ruby-mini-mime@1.1.5-2~exp1?arch=all

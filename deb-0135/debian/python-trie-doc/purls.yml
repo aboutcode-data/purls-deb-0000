@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-trie-doc@0.2%2Bds-2?arch=all
+- pkg:deb/debian/python-trie-doc@0.4.0%2Bds-1?arch=all

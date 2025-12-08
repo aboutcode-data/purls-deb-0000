@@ -1,0 +1,5 @@
+- pkg:deb/debian/qcontrol@0.5.6-4?arch=armhf
+- pkg:deb/debian/qcontrol@0.5.7-2.1?arch=armel
+- pkg:deb/debian/qcontrol@0.5.7-2.1?arch=armhf
+- pkg:deb/debian/qcontrol@0.5.7-2?arch=armel
+- pkg:deb/debian/qcontrol@0.5.7-2?arch=armhf

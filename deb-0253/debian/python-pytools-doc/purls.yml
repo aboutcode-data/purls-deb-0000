@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-pytools-doc@2021.1-2?arch=all
+- pkg:deb/debian/python-pytools-doc@2022.1.14-2?arch=all
+- pkg:deb/debian/python-pytools-doc@2025.1.2-1?arch=all

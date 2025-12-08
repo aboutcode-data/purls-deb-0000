@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-moneyed@0.8.0-2?arch=all
+- pkg:deb/debian/python3-moneyed@2.0-1?arch=all

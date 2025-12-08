@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-xlib-doc@0.33-2?arch=all
+- pkg:deb/debian/python-xlib-doc@0.33-3?arch=all
+- pkg:deb/debian/python-xlib-doc@0.33-5?arch=all

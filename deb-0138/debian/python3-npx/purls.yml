@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-npx@0.1.1-1?arch=all
+- pkg:deb/debian/python3-npx@0.1.6-1?arch=all

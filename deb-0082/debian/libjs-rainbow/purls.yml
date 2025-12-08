@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjs-rainbow@2.1.4%2Bds-4?arch=all
+- pkg:deb/debian/libjs-rainbow@2.1.7%2Bds-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-cyborgclient-doc@1.2.1-3?arch=all
+- pkg:deb/debian/python-cyborgclient-doc@2.0.0-2?arch=all
+- pkg:deb/debian/python-cyborgclient-doc@2.5.0-2?arch=all
+- pkg:deb/debian/python-cyborgclient-doc@2.6.0-2?arch=all

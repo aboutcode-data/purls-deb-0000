@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-websocket-extensions@0.1.5-1?arch=all
+- pkg:deb/debian/ruby-websocket-extensions@0.1.5-2?arch=all

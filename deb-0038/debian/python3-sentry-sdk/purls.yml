@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-sentry-sdk@0.13.2-1?arch=all
+- pkg:deb/debian/python3-sentry-sdk@1.9.10-2?arch=all
+- pkg:deb/debian/python3-sentry-sdk@2.18.0-1?arch=all
+- pkg:deb/debian/python3-sentry-sdk@2.22.0-1?arch=all

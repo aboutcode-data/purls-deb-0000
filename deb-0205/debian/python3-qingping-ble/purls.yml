@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-qingping-ble@0.10.0-3?arch=all
+- pkg:deb/debian/python3-qingping-ble@1.0.1-1?arch=all

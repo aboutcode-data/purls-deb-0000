@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-crdts-dev@7.2.0%2Bdfsg-4?arch=all
+- pkg:deb/debian/librust-crdts-dev@7.3.2%2Bdfsg-7?arch=all

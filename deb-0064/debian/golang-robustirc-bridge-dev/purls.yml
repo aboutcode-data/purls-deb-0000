@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-robustirc-bridge-dev@1.8-1?arch=all
+- pkg:deb/debian/golang-robustirc-bridge-dev@1.8-2?arch=all

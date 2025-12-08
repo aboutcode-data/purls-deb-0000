@@ -1,0 +1,4 @@
+- pkg:deb/debian/rally@3.1.0-2?arch=all
+- pkg:deb/debian/rally@3.3.0-2?arch=all
+- pkg:deb/debian/rally@4.1.0-4?arch=all
+- pkg:deb/debian/rally@5.0.0-5?arch=all

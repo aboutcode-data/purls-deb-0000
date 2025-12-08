@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-django-tree-queries@0.19-1?arch=all
+- pkg:deb/debian/python3-django-tree-queries@0.20-1?arch=all

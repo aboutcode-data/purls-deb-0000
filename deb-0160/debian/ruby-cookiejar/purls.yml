@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-cookiejar@0.3.3-1.1?arch=all
+- pkg:deb/debian/ruby-cookiejar@0.3.3-1?arch=all
+- pkg:deb/debian/ruby-cookiejar@0.3.4-1?arch=all

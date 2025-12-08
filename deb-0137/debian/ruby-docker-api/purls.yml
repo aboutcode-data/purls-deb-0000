@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-docker-api@1.22.2-1.1?arch=all
+- pkg:deb/debian/ruby-docker-api@2.2.0-1?arch=all
+- pkg:deb/debian/ruby-docker-api@2.2.0-2?arch=all
+- pkg:deb/debian/ruby-docker-api@2.4.0-1?arch=all

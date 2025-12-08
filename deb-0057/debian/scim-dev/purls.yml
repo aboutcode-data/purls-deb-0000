@@ -1,0 +1,3 @@
+- pkg:deb/debian/scim-dev@1.4.18%2Bgit20211204-0.1?arch=all
+- pkg:deb/debian/scim-dev@1.4.18%2Bgit20211204-0.2?arch=all
+- pkg:deb/debian/scim-dev@1.4.18-2.2?arch=all

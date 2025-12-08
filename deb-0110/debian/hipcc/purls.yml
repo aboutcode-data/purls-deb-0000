@@ -1,0 +1,10 @@
+- pkg:deb/debian/hipcc@5.2.3-8?arch=amd64
+- pkg:deb/debian/hipcc@5.2.3-8?arch=arm64
+- pkg:deb/debian/hipcc@5.2.3-8?arch=ppc64el
+- pkg:deb/debian/hipcc@5.2.3-8?arch=s390x
+- pkg:deb/debian/hipcc@5.7.1-6%2Bdeb13u1?arch=amd64
+- pkg:deb/debian/hipcc@5.7.1-6%2Bdeb13u1?arch=arm64
+- pkg:deb/debian/hipcc@5.7.1-6%2Bdeb13u1?arch=ppc64el
+- pkg:deb/debian/hipcc@7.0.2%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/hipcc@7.0.2%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/hipcc@7.0.2%2Bdfsg-2?arch=ppc64el

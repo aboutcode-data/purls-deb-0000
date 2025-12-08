@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-delayed-job@4.1.13-1?arch=all
+- pkg:deb/debian/ruby-delayed-job@4.1.8-1?arch=all
+- pkg:deb/debian/ruby-delayed-job@4.1.9-1.1?arch=all

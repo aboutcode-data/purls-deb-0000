@@ -1,0 +1,4 @@
+- pkg:deb/debian/reprotest@0.7.16?arch=all
+- pkg:deb/debian/reprotest@0.7.23?arch=all
+- pkg:deb/debian/reprotest@0.7.30?arch=all
+- pkg:deb/debian/reprotest@0.7.32?arch=all

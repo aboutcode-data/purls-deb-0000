@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-parted-doc@3.11.7-0.1?arch=all
+- pkg:deb/debian/python-parted-doc@3.12.0-4?arch=all
+- pkg:deb/debian/python-parted-doc@3.13.0-1?arch=all

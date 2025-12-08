@@ -1,0 +1,4 @@
+- pkg:deb/debian/rheolef-doc@7.1-6?arch=all
+- pkg:deb/debian/rheolef-doc@7.2-2?arch=all
+- pkg:deb/debian/rheolef-doc@7.2-4?arch=all
+- pkg:deb/debian/rheolef-doc@7.2-5?arch=all

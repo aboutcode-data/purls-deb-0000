@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-png@0.0.20%2Bds-3?arch=all
+- pkg:deb/debian/python3-png@0.20220715.0-1?arch=all
+- pkg:deb/debian/python3-png@0.20231004.0-4?arch=all
+- pkg:deb/debian/python3-png@0.20250521.0-1?arch=all

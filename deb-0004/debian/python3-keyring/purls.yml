@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-keyring@22.0.1-1?arch=all
+- pkg:deb/debian/python3-keyring@23.9.3-2?arch=all
+- pkg:deb/debian/python3-keyring@25.6.0-2?arch=all
+- pkg:deb/debian/python3-keyring@25.7.0-1?arch=all

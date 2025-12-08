@@ -1,0 +1,3 @@
+- pkg:deb/debian/librbac-client-clojure@0.9.4-2?arch=all
+- pkg:deb/debian/librbac-client-clojure@1.1.4-3?arch=all
+- pkg:deb/debian/librbac-client-clojure@1.1.5-3?arch=all

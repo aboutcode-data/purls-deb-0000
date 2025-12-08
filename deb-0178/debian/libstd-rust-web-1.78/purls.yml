@@ -1,0 +1,4 @@
+- pkg:deb/debian/libstd-rust-web-1.78@1.78.0%2Bdfsg1-2~deb11u3?arch=amd64
+- pkg:deb/debian/libstd-rust-web-1.78@1.78.0%2Bdfsg1-2~deb11u3?arch=arm64
+- pkg:deb/debian/libstd-rust-web-1.78@1.78.0%2Bdfsg1-2~deb11u3?arch=armhf
+- pkg:deb/debian/libstd-rust-web-1.78@1.78.0%2Bdfsg1-2~deb11u3?arch=i386

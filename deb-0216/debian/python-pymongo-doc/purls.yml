@@ -1,0 +1,5 @@
+- pkg:deb/debian/python-pymongo-doc@3.11.0-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/python-pymongo-doc@3.11.0-1?arch=all
+- pkg:deb/debian/python-pymongo-doc@4.10.1-6?arch=all
+- pkg:deb/debian/python-pymongo-doc@4.15.4-2?arch=all
+- pkg:deb/debian/python-pymongo-doc@4.15.5-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-brandur-json-schema@0.19.1-1.1?arch=all
+- pkg:deb/debian/ruby-brandur-json-schema@0.21.0-1?arch=all

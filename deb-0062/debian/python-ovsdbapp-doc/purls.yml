@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-ovsdbapp-doc@1.6.0-1?arch=all
+- pkg:deb/debian/python-ovsdbapp-doc@2.1.0-2?arch=all
+- pkg:deb/debian/python-ovsdbapp-doc@2.11.0-2?arch=all
+- pkg:deb/debian/python-ovsdbapp-doc@2.13.0-2?arch=all

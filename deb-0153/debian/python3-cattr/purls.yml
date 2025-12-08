@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-cattr@22.2.0-1?arch=all
+- pkg:deb/debian/python3-cattr@24.1.2-1?arch=all
+- pkg:deb/debian/python3-cattr@25.3.0-1?arch=all

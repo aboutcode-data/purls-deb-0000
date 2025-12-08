@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-configargparse@1.2.3-1?arch=all
+- pkg:deb/debian/python3-configargparse@1.5.3-1?arch=all
+- pkg:deb/debian/python3-configargparse@1.7-2?arch=all

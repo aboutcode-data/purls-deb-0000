@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-bioc-metagenomeseq@1.32.0-1?arch=all
+- pkg:deb/debian/r-bioc-metagenomeseq@1.40.0-1?arch=all
+- pkg:deb/debian/r-bioc-metagenomeseq@1.48.1-1?arch=all

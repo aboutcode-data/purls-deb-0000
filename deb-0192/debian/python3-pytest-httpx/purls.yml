@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pytest-httpx@0.35.0-1?arch=all
+- pkg:deb/debian/python3-pytest-httpx@0.36.0-1?arch=all

@@ -1,2 +1,10 @@
 - pkg:deb/debian/cargo-doc@0.47.0-3?arch=all
 - pkg:deb/debian/cargo-doc@0.66.0%2Bds1-1?arch=all
+- pkg:deb/debian/cargo-doc@1.85.0%2Bdfsg3-1?arch=all
+- pkg:deb/debian/cargo-doc@1.86.0%2Bdfsg1-1~bpo13%2B2?arch=all
+- pkg:deb/debian/cargo-doc@1.87.0%2Bdfsg1-1~bpo13%2B2?arch=all
+- pkg:deb/debian/cargo-doc@1.88.0%2Bdfsg1-2~bpo13%2B1?arch=all
+- pkg:deb/debian/cargo-doc@1.89.0%2Bdfsg1-1~bpo13%2B2?arch=all
+- pkg:deb/debian/cargo-doc@1.90.0%2Bdfsg1-1?arch=all
+- pkg:deb/debian/cargo-doc@1.90.0%2Bdfsg1-1~bpo13%2B1?arch=all
+- pkg:deb/debian/cargo-doc@1.90.0%2Bdfsg1-1~bpo13%2B2?arch=all

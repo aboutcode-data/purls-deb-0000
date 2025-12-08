@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-gabbi-doc@2.0.1-1?arch=all
+- pkg:deb/debian/python-gabbi-doc@2.4.0-2?arch=all
+- pkg:deb/debian/python-gabbi-doc@3.0.0-3?arch=all

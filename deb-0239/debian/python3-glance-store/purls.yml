@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-glance-store@2.3.0-4?arch=all
+- pkg:deb/debian/python3-glance-store@4.1.0-4?arch=all
+- pkg:deb/debian/python3-glance-store@4.9.1-2?arch=all
+- pkg:deb/debian/python3-glance-store@5.2.0-2?arch=all

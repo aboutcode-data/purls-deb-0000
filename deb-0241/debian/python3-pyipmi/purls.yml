@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-pyipmi@0.4.2-2?arch=all
+- pkg:deb/debian/python3-pyipmi@0.4.2-3?arch=all
+- pkg:deb/debian/python3-pyipmi@0.5.7-1?arch=all

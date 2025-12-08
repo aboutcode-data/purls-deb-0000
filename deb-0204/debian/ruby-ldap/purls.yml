@@ -1,0 +1,13 @@
+- pkg:deb/debian/ruby-ldap@0.9.20-2%2Bb5?arch=amd64
+- pkg:deb/debian/ruby-ldap@0.9.20-2%2Bb5?arch=arm64
+- pkg:deb/debian/ruby-ldap@0.9.20-2%2Bb5?arch=armel
+- pkg:deb/debian/ruby-ldap@0.9.20-2%2Bb5?arch=armhf
+- pkg:deb/debian/ruby-ldap@0.9.20-2%2Bb5?arch=i386
+- pkg:deb/debian/ruby-ldap@0.9.20-2%2Bb5?arch=mips64el
+- pkg:deb/debian/ruby-ldap@0.9.20-2%2Bb5?arch=mipsel
+- pkg:deb/debian/ruby-ldap@0.9.20-2%2Bb5?arch=ppc64el
+- pkg:deb/debian/ruby-ldap@0.9.20-2%2Bb5?arch=s390x
+- pkg:deb/debian/ruby-ldap@0.9.20-2?arch=amd64
+- pkg:deb/debian/ruby-ldap@0.9.20-2?arch=arm64
+- pkg:deb/debian/ruby-ldap@0.9.20-2?arch=armhf
+- pkg:deb/debian/ruby-ldap@0.9.20-2?arch=i386

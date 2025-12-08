@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-aioice@0.10.1-1?arch=all
+- pkg:deb/debian/python3-aioice@0.10.2-1?arch=all
+- pkg:deb/debian/python3-aioice@0.6.18-2?arch=all
+- pkg:deb/debian/python3-aioice@0.8.0-1?arch=all

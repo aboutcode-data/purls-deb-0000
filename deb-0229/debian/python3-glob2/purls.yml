@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-glob2@0.5-3?arch=all
+- pkg:deb/debian/python3-glob2@0.5-6?arch=all

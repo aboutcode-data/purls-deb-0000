@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-s3transfer@0.11.4-1?arch=all
+- pkg:deb/debian/python3-s3transfer@0.14.0-1?arch=all
+- pkg:deb/debian/python3-s3transfer@0.3.4-1?arch=all
+- pkg:deb/debian/python3-s3transfer@0.6.0-1?arch=all

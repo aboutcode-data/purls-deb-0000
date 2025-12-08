@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-jaeger-client@0.10.0-2?arch=all
+- pkg:deb/debian/ruby-jaeger-client@1.3.0-1?arch=all

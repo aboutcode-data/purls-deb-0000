@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-jekyll-github-metadata@2.13.0-1?arch=all
+- pkg:deb/debian/ruby-jekyll-github-metadata@2.15.0-1?arch=all
+- pkg:deb/debian/ruby-jekyll-github-metadata@2.15.0-2?arch=all
+- pkg:deb/debian/ruby-jekyll-github-metadata@2.16.1-1?arch=all

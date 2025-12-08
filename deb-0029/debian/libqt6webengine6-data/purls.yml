@@ -1,0 +1,4 @@
+- pkg:deb/debian/libqt6webengine6-data@6.4.2-final%2Bdfsg-1?arch=all
+- pkg:deb/debian/libqt6webengine6-data@6.8.2%2Bdfsg-4?arch=all
+- pkg:deb/debian/libqt6webengine6-data@6.9.2%2Bdfsg-3~bpo13%2B1?arch=all
+- pkg:deb/debian/libqt6webengine6-data@6.9.2%2Bdfsg-4?arch=all

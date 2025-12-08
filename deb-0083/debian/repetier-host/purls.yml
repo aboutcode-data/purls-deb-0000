@@ -1,0 +1,3 @@
+- pkg:deb/debian/repetier-host@0.85%2Bdfsg-2.1?arch=all
+- pkg:deb/debian/repetier-host@0.85%2Bdfsg-5?arch=all
+- pkg:deb/debian/repetier-host@0.85%2Bdfsg-6?arch=all

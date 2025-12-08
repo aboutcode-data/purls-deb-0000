@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-bsearch@1.5-10.1?arch=all
+- pkg:deb/debian/ruby-bsearch@1.5-11?arch=all

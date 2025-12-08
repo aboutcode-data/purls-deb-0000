@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-jsonschema-doc@3.2.0-3?arch=all
+- pkg:deb/debian/python-jsonschema-doc@4.10.3-1?arch=all
+- pkg:deb/debian/python-jsonschema-doc@4.19.2-6?arch=all
+- pkg:deb/debian/python-jsonschema-doc@4.25.1-2?arch=all

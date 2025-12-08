@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-rmagick-doc@2.16.0-7?arch=all
+- pkg:deb/debian/ruby-rmagick-doc@4.2.3-2?arch=all
+- pkg:deb/debian/ruby-rmagick-doc@6.0.1-3?arch=all

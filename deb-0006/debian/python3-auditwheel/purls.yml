@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-auditwheel@5.3.0%2Bds1-2?arch=all
+- pkg:deb/debian/python3-auditwheel@6.5.0%2Bds1-2?arch=all

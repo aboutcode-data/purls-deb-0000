@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-os-vif-doc@2.2.0-2?arch=all
+- pkg:deb/debian/python-os-vif-doc@3.0.0-2?arch=all
+- pkg:deb/debian/python-os-vif-doc@4.1.0-2?arch=all
+- pkg:deb/debian/python-os-vif-doc@4.2.1-2?arch=all

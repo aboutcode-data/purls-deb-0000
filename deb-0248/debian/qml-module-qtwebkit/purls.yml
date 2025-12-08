@@ -1,0 +1,13 @@
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-11?arch=amd64
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-11?arch=arm64
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-11?arch=armhf
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-11?arch=i386
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-30?arch=amd64
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-30?arch=arm64
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-30?arch=armel
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-30?arch=armhf
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-30?arch=i386
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-30?arch=mips64el
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-30?arch=mipsel
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-30?arch=ppc64el
+- pkg:deb/debian/qml-module-qtwebkit@5.212.0~alpha4-30?arch=s390x

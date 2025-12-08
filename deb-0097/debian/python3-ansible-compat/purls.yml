@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-ansible-compat@25.1.5-1?arch=all
+- pkg:deb/debian/python3-ansible-compat@3.0.1-1?arch=all

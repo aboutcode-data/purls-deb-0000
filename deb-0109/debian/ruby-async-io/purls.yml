@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-async-io@1.30.1-1?arch=all
+- pkg:deb/debian/ruby-async-io@1.34.1-1?arch=all

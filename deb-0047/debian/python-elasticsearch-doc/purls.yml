@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-elasticsearch-doc@7.1.0-3?arch=all
+- pkg:deb/debian/python-elasticsearch-doc@7.17.6-1?arch=all
+- pkg:deb/debian/python-elasticsearch-doc@8.17.2-2?arch=all
+- pkg:deb/debian/python-elasticsearch-doc@9.2.0-1?arch=all

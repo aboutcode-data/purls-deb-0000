@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-multibitnums-dbg@0.1.4-2%2Bb11?arch=amd64
+- pkg:deb/debian/ruby-multibitnums-dbg@0.1.4-2%2Bb11?arch=armhf
+- pkg:deb/debian/ruby-multibitnums-dbg@0.1.4-2%2Bb11?arch=i386
+- pkg:deb/debian/ruby-multibitnums-dbg@0.1.4-2%2Bb9?arch=arm64

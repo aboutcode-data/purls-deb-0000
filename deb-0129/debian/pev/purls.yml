@@ -11,3 +11,4 @@
 - pkg:deb/debian/pev@0.81-9?arch=mipsel
 - pkg:deb/debian/pev@0.81-9?arch=ppc64el
 - pkg:deb/debian/pev@0.81-9?arch=s390x
+- pkg:deb/debian/pev@0.84-2?arch=all

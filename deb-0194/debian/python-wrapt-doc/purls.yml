@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-wrapt-doc@1.12.1-4?arch=all
+- pkg:deb/debian/python-wrapt-doc@1.14.1-2?arch=all
+- pkg:deb/debian/python-wrapt-doc@1.15.0-4?arch=all
+- pkg:deb/debian/python-wrapt-doc@1.17.3-2?arch=all

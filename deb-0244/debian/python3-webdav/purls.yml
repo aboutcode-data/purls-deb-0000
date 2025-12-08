@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-webdav@0.11.0-2?arch=all
+- pkg:deb/debian/python3-webdav@0.9.14-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-mono-logger@1.1.0-3.1?arch=all
+- pkg:deb/debian/ruby-mono-logger@1.1.1-2?arch=all
+- pkg:deb/debian/ruby-mono-logger@1.1.2-1?arch=all

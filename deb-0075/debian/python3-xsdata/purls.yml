@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-xsdata@22.12-1?arch=all
+- pkg:deb/debian/python3-xsdata@24.1-2?arch=all

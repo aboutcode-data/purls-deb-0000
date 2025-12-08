@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-activerecord-nulldb-adapter@0.4.0-1?arch=all
+- pkg:deb/debian/ruby-activerecord-nulldb-adapter@0.8.0-1?arch=all
+- pkg:deb/debian/ruby-activerecord-nulldb-adapter@1.1.1-1?arch=all

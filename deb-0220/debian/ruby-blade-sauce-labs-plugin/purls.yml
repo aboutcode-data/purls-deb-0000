@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-blade-sauce-labs-plugin@0.7.3%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/ruby-blade-sauce-labs-plugin@0.7.3%2Bdfsg-2?arch=all

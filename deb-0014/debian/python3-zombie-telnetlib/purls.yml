@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-zombie-telnetlib@1.001?arch=all
+- pkg:deb/debian/python3-zombie-telnetlib@1.003?arch=all

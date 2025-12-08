@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-sequel@5.41.0-1?arch=all
+- pkg:deb/debian/ruby-sequel@5.63.0-1?arch=all
+- pkg:deb/debian/ruby-sequel@5.63.0-2?arch=all
+- pkg:deb/debian/ruby-sequel@5.97.0-1?arch=all

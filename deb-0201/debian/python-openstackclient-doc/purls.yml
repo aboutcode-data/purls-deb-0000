@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-openstackclient-doc@5.4.0-4?arch=all
+- pkg:deb/debian/python-openstackclient-doc@6.0.0-4?arch=all
+- pkg:deb/debian/python-openstackclient-doc@7.4.0-3?arch=all
+- pkg:deb/debian/python-openstackclient-doc@8.2.0-7?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-databases@0.4.1-1?arch=all
+- pkg:deb/debian/python3-databases@0.7.0-1?arch=all
+- pkg:deb/debian/python3-databases@0.9.0-1?arch=all

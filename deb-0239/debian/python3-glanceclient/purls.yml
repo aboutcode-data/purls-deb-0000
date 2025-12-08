@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-glanceclient@3.2.2-2?arch=all
+- pkg:deb/debian/python3-glanceclient@4.1.0-2?arch=all
+- pkg:deb/debian/python3-glanceclient@4.10.0-2?arch=all
+- pkg:deb/debian/python3-glanceclient@4.8.0-2?arch=all

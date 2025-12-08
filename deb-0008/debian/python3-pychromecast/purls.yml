@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-pychromecast@10.2.3-2?arch=all
+- pkg:deb/debian/python3-pychromecast@7.7.1-2?arch=all
+- pkg:deb/debian/python3-pychromecast@9.4.0-2?arch=all

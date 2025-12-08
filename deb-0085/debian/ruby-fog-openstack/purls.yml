@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-fog-openstack@1.0.8-2.1?arch=all
+- pkg:deb/debian/ruby-fog-openstack@1.1.5-1?arch=all

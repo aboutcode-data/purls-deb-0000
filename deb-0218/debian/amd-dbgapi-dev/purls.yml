@@ -1,0 +1,6 @@
+- pkg:deb/debian/amd-dbgapi-dev@5.7.1-2?arch=amd64
+- pkg:deb/debian/amd-dbgapi-dev@5.7.1-2?arch=arm64
+- pkg:deb/debian/amd-dbgapi-dev@5.7.1-2?arch=ppc64el
+- pkg:deb/debian/amd-dbgapi-dev@6.4.3-1?arch=amd64
+- pkg:deb/debian/amd-dbgapi-dev@6.4.3-1?arch=arm64
+- pkg:deb/debian/amd-dbgapi-dev@6.4.3-1?arch=ppc64el

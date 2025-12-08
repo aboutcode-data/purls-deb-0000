@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-whitequark-parser@2.7.1.4-2?arch=all
+- pkg:deb/debian/ruby-whitequark-parser@3.1.3.0-1?arch=all
+- pkg:deb/debian/ruby-whitequark-parser@3.3.4.2-2?arch=all

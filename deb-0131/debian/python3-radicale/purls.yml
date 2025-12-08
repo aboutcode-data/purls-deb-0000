@@ -1,0 +1,5 @@
+- pkg:deb/debian/python3-radicale@3.0.6-3?arch=all
+- pkg:deb/debian/python3-radicale@3.1.8-2?arch=all
+- pkg:deb/debian/python3-radicale@3.5.3-1?arch=all
+- pkg:deb/debian/python3-radicale@3.5.7-2?arch=all
+- pkg:deb/debian/python3-radicale@3.5.9-1?arch=all

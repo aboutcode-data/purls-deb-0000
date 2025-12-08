@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-requests-file@1.5.1-1?arch=all
+- pkg:deb/debian/python3-requests-file@2.1.0-1?arch=all

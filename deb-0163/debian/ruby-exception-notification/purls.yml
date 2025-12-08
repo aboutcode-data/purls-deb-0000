@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-exception-notification@4.0.1-1.1?arch=all
+- pkg:deb/debian/ruby-exception-notification@5.0.1-1?arch=all

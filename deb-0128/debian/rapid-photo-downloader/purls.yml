@@ -1,0 +1,4 @@
+- pkg:deb/debian/rapid-photo-downloader@0.9.26-2?arch=all
+- pkg:deb/debian/rapid-photo-downloader@0.9.33-1.1?arch=all
+- pkg:deb/debian/rapid-photo-downloader@0.9.36-1.1?arch=all
+- pkg:deb/debian/rapid-photo-downloader@0.9.36-2?arch=all

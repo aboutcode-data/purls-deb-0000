@@ -1,0 +1,5 @@
+- pkg:deb/debian/racket-doc@7.9%2Bdfsg1-2?arch=all
+- pkg:deb/debian/racket-doc@8.14%2Bdfsg1-1~bpo12%2B1?arch=all
+- pkg:deb/debian/racket-doc@8.16%2Bdfsg1-3?arch=all
+- pkg:deb/debian/racket-doc@8.18%2Bdfsg1-1?arch=all
+- pkg:deb/debian/racket-doc@8.7%2Bdfsg1-1?arch=all

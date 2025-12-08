@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-image-geometry@1.15.0%2Bds-4?arch=all
+- pkg:deb/debian/python3-image-geometry@1.16.2%2Bds-1?arch=all
+- pkg:deb/debian/python3-image-geometry@1.16.2%2Bds-3?arch=all
+- pkg:deb/debian/python3-image-geometry@1.16.2%2Bds-4?arch=all

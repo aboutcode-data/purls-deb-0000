@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-cran-maxlik@1.4-6-1?arch=all
+- pkg:deb/debian/r-cran-maxlik@1.5-2-1?arch=all
+- pkg:deb/debian/r-cran-maxlik@1.5-2.1-1?arch=all

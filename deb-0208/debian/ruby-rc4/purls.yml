@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-rc4@0.1.5-3.1?arch=all
+- pkg:deb/debian/ruby-rc4@0.1.5-4?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ament-package@0.15.1-1?arch=all
+- pkg:deb/debian/python3-ament-package@0.17.1-2?arch=all
+- pkg:deb/debian/python3-ament-package@0.18.1-1?arch=all
+- pkg:deb/debian/python3-ament-package@0.18.2-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-algebrick@0.7.4-1?arch=all
+- pkg:deb/debian/ruby-algebrick@0.7.4-2?arch=all
+- pkg:deb/debian/ruby-algebrick@0.7.5-1?arch=all

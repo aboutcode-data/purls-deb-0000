@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-click-threading@0.4.4-2?arch=all
+- pkg:deb/debian/python3-click-threading@0.5.0-2?arch=all

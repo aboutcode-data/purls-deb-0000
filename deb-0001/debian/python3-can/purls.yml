@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-can@3.3.2.final~github-2?arch=all
+- pkg:deb/debian/python3-can@4.1.0-1?arch=all
+- pkg:deb/debian/python3-can@4.5.0-1?arch=all
+- pkg:deb/debian/python3-can@4.6.1-4?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-tooz-doc@2.7.1-2?arch=all
+- pkg:deb/debian/python-tooz-doc@3.1.0-3?arch=all
+- pkg:deb/debian/python-tooz-doc@6.3.0-4?arch=all
+- pkg:deb/debian/python-tooz-doc@7.0.0-2?arch=all

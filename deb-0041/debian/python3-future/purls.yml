@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-future@0.18.2-5?arch=all
+- pkg:deb/debian/python3-future@0.18.2-6?arch=all

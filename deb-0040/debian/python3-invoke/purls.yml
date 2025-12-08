@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-invoke@1.4.1%2Bds-0.1?arch=all
+- pkg:deb/debian/python3-invoke@2.0.0-1?arch=all
+- pkg:deb/debian/python3-invoke@2.2.0-2?arch=all

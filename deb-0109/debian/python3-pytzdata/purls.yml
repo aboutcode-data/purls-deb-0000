@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pytzdata@2020.1%2Bdfsg-10?arch=all
+- pkg:deb/debian/python3-pytzdata@2020.1%2Bdfsg-5?arch=all

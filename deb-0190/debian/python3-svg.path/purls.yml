@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-svg.path@3.0-2?arch=all
+- pkg:deb/debian/python3-svg.path@6.1-1?arch=all
+- pkg:deb/debian/python3-svg.path@6.3-3?arch=all
+- pkg:deb/debian/python3-svg.path@7.0-1?arch=all

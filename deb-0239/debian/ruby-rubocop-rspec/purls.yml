@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-rubocop-rspec@1.42.0-1?arch=all
+- pkg:deb/debian/ruby-rubocop-rspec@2.16.0-1?arch=all

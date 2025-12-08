@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-plugwise@1.10.0-1?arch=all
+- pkg:deb/debian/python3-plugwise@1.7.4-1?arch=all

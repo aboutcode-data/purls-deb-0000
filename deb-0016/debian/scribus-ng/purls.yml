@@ -1,0 +1,7 @@
+- pkg:deb/debian/scribus-ng@1.5.5%2Bdfsg-3%2Btransition%2Bb1?arch=riscv64
+- pkg:deb/debian/scribus-ng@1.5.5%2Bdfsg-3%2Btransition?arch=amd64
+- pkg:deb/debian/scribus-ng@1.5.5%2Bdfsg-3%2Btransition?arch=arm64
+- pkg:deb/debian/scribus-ng@1.5.5%2Bdfsg-3%2Btransition?arch=armhf
+- pkg:deb/debian/scribus-ng@1.5.5%2Bdfsg-3%2Btransition?arch=i386
+- pkg:deb/debian/scribus-ng@1.5.5%2Bdfsg-3%2Btransition?arch=ppc64el
+- pkg:deb/debian/scribus-ng@1.5.5%2Bdfsg-3%2Btransition?arch=s390x

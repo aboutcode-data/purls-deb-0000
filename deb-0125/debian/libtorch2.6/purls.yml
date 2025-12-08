@@ -1,0 +1,10 @@
+- pkg:deb/debian/libtorch2.6@2.6.0%2Bdfsg-7?arch=amd64
+- pkg:deb/debian/libtorch2.6@2.6.0%2Bdfsg-7?arch=arm64
+- pkg:deb/debian/libtorch2.6@2.6.0%2Bdfsg-7?arch=ppc64el
+- pkg:deb/debian/libtorch2.6@2.6.0%2Bdfsg-7?arch=riscv64
+- pkg:deb/debian/libtorch2.6@2.6.0%2Bdfsg-7?arch=s390x
+- pkg:deb/debian/libtorch2.6@2.6.0%2Bdfsg-9?arch=amd64
+- pkg:deb/debian/libtorch2.6@2.6.0%2Bdfsg-9?arch=arm64
+- pkg:deb/debian/libtorch2.6@2.6.0%2Bdfsg-9?arch=ppc64el
+- pkg:deb/debian/libtorch2.6@2.6.0%2Bdfsg-9?arch=riscv64
+- pkg:deb/debian/libtorch2.6@2.6.0%2Bdfsg-9?arch=s390x

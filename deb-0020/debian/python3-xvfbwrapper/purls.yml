@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-xvfbwrapper@0.2.13-2?arch=all
+- pkg:deb/debian/python3-xvfbwrapper@0.2.9-2?arch=all
+- pkg:deb/debian/python3-xvfbwrapper@0.2.9-4?arch=all
+- pkg:deb/debian/python3-xvfbwrapper@0.2.9-8?arch=all

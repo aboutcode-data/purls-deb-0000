@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-rspec-profiling@0.0.5-2?arch=all
+- pkg:deb/debian/ruby-rspec-profiling@0.0.9-1?arch=all

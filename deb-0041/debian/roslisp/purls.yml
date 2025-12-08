@@ -1,0 +1,2 @@
+- pkg:deb/debian/roslisp@1.9.24-3?arch=all
+- pkg:deb/debian/roslisp@1.9.25-2?arch=all

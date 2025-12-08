@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pyramid-multiauth@0.8.0-1.1?arch=all
+- pkg:deb/debian/python3-pyramid-multiauth@1.0.2-1?arch=all

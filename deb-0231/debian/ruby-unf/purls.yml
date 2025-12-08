@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-unf@0.1.4-2.1?arch=all
+- pkg:deb/debian/ruby-unf@0.1.4-2?arch=all
+- pkg:deb/debian/ruby-unf@0.1.4-3?arch=all
+- pkg:deb/debian/ruby-unf@0.2.0-1?arch=all

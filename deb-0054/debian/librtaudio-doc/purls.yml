@@ -1,0 +1,3 @@
+- pkg:deb/debian/librtaudio-doc@5.1.0~ds1-1?arch=all
+- pkg:deb/debian/librtaudio-doc@5.2.0~ds1-2?arch=all
+- pkg:deb/debian/librtaudio-doc@6.0.1~ds-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-django-crispy-forms-foundation@0.9.0%2Bds-1?arch=all
+- pkg:deb/debian/python3-django-crispy-forms-foundation@1.0.2%2Bds-1?arch=all
+- pkg:deb/debian/python3-django-crispy-forms-foundation@1.1.0%2Bds-3?arch=all

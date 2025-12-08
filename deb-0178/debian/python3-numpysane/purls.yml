@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-numpysane@0.31-1?arch=all
+- pkg:deb/debian/python3-numpysane@0.36-1?arch=all
+- pkg:deb/debian/python3-numpysane@0.42-1?arch=all

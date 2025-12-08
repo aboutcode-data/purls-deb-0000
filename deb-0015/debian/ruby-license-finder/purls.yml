@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-license-finder@7.0.1-2?arch=all
+- pkg:deb/debian/ruby-license-finder@7.2.1-1?arch=all

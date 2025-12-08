@@ -1,0 +1,4 @@
+- pkg:deb/debian/puppet-module-aodh@17.5.0-1?arch=all
+- pkg:deb/debian/puppet-module-aodh@21.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-aodh@25.0.0-2?arch=all
+- pkg:deb/debian/puppet-module-aodh@27.0.0-1?arch=all

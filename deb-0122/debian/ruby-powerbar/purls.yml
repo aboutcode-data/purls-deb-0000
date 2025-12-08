@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-powerbar@1.0.18-1?arch=all
+- pkg:deb/debian/ruby-powerbar@2.0.1-1?arch=all

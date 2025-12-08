@@ -1,0 +1,2 @@
+- pkg:deb/debian/rsnapshot@1.4.5-1?arch=all
+- pkg:deb/debian/rsnapshot@1.5.1-1?arch=all

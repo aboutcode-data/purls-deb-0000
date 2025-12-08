@@ -1,0 +1,8 @@
+- pkg:deb/debian/qtorganizer5-mkcal@0.1.0~git20250424.45906b1-2?arch=amd64
+- pkg:deb/debian/qtorganizer5-mkcal@0.1.0~git20250424.45906b1-2?arch=arm64
+- pkg:deb/debian/qtorganizer5-mkcal@0.1.0~git20250424.45906b1-2?arch=armel
+- pkg:deb/debian/qtorganizer5-mkcal@0.1.0~git20250424.45906b1-2?arch=armhf
+- pkg:deb/debian/qtorganizer5-mkcal@0.1.0~git20250424.45906b1-2?arch=i386
+- pkg:deb/debian/qtorganizer5-mkcal@0.1.0~git20250424.45906b1-2?arch=ppc64el
+- pkg:deb/debian/qtorganizer5-mkcal@0.1.0~git20250424.45906b1-2?arch=riscv64
+- pkg:deb/debian/qtorganizer5-mkcal@0.1.0~git20250424.45906b1-2?arch=s390x

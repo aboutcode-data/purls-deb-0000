@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-cran-sjplot@2.8.12%2Bdfsg-1?arch=all
+- pkg:deb/debian/r-cran-sjplot@2.8.17%2Bdfsg-1?arch=all
+- pkg:deb/debian/r-cran-sjplot@2.8.7-1?arch=all

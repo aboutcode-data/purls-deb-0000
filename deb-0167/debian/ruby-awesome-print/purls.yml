@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-awesome-print@1.8.0-2?arch=all
+- pkg:deb/debian/ruby-awesome-print@1.9.2-1?arch=all

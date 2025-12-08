@@ -1,0 +1,4 @@
+- pkg:deb/debian/r-cran-rcdk@3.5.0%2Bdfsg-3?arch=all
+- pkg:deb/debian/r-cran-rcdk@3.7.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/r-cran-rcdk@3.8.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/r-cran-rcdk@3.8.1%2Bdfsg-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-pattern@2.6%2Bgit20180818-2?arch=all
+- pkg:deb/debian/python3-pattern@2.6%2Bgit20180818-4.1?arch=all
+- pkg:deb/debian/python3-pattern@2.6%2Bgit20180818-4?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-cerberus@1.3.2-1?arch=all
+- pkg:deb/debian/python3-cerberus@1.3.2-2?arch=all
+- pkg:deb/debian/python3-cerberus@1.3.7-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-imaplib2@2.57-5.2?arch=all
+- pkg:deb/debian/python3-imaplib2@3.6-2?arch=all

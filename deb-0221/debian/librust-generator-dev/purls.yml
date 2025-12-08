@@ -1,0 +1,5 @@
+- pkg:deb/debian/librust-generator-dev@0.6.20-2?arch=amd64
+- pkg:deb/debian/librust-generator-dev@0.7.1-1.1?arch=amd64
+- pkg:deb/debian/librust-generator-dev@0.7.1-1.1?arch=arm64
+- pkg:deb/debian/librust-generator-dev@0.7.1-1?arch=amd64
+- pkg:deb/debian/librust-generator-dev@0.7.1-1?arch=arm64

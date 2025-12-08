@@ -1,0 +1,5 @@
+- pkg:deb/debian/rednotebook@2.21%2Bds-1?arch=all
+- pkg:deb/debian/rednotebook@2.29.3%2Bds-1?arch=all
+- pkg:deb/debian/rednotebook@2.39%2Bds-2?arch=all
+- pkg:deb/debian/rednotebook@2.39%2Bds-2~bpo12%2B1?arch=all
+- pkg:deb/debian/rednotebook@2.41%2Bds-6?arch=all

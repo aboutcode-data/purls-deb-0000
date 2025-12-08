@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-vobject@0.9.6.1-0.2?arch=all
+- pkg:deb/debian/python3-vobject@0.9.6.1-2?arch=all
+- pkg:deb/debian/python3-vobject@0.9.8%2Bdfsg-2?arch=all
+- pkg:deb/debian/python3-vobject@0.9.9%2Bdfsg-1?arch=all
