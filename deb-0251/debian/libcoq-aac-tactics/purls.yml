@@ -9,4 +9,12 @@
 - pkg:deb/debian/libcoq-aac-tactics@8.20.0-1%2Bb4?arch=ppc64el
 - pkg:deb/debian/libcoq-aac-tactics@8.20.0-1%2Bb4?arch=riscv64
 - pkg:deb/debian/libcoq-aac-tactics@8.20.0-1%2Bb4?arch=s390x
+- pkg:deb/debian/libcoq-aac-tactics@8.20.0-1%2Bb6?arch=amd64
+- pkg:deb/debian/libcoq-aac-tactics@8.20.0-1%2Bb6?arch=arm64
+- pkg:deb/debian/libcoq-aac-tactics@9.0.0-2%2Bb1?arch=amd64
 - pkg:deb/debian/libcoq-aac-tactics@9.0.0-2?arch=amd64
+- pkg:deb/debian/libcoq-aac-tactics@9.0.0-2?arch=arm64
+- pkg:deb/debian/libcoq-aac-tactics@9.0.0-2?arch=armhf
+- pkg:deb/debian/libcoq-aac-tactics@9.0.0-2?arch=i386
+- pkg:deb/debian/libcoq-aac-tactics@9.0.0-2?arch=ppc64el
+- pkg:deb/debian/libcoq-aac-tactics@9.0.0-2?arch=s390x

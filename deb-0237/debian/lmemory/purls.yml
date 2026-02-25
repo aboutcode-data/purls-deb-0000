@@ -26,3 +26,11 @@
 - pkg:deb/debian/lmemory@0.6c-13?arch=ppc64el
 - pkg:deb/debian/lmemory@0.6c-13?arch=riscv64
 - pkg:deb/debian/lmemory@0.6c-13?arch=s390x
+- pkg:deb/debian/lmemory@0.6c-14?arch=amd64
+- pkg:deb/debian/lmemory@0.6c-14?arch=arm64
+- pkg:deb/debian/lmemory@0.6c-14?arch=armhf
+- pkg:deb/debian/lmemory@0.6c-14?arch=i386
+- pkg:deb/debian/lmemory@0.6c-14?arch=loong64
+- pkg:deb/debian/lmemory@0.6c-14?arch=ppc64el
+- pkg:deb/debian/lmemory@0.6c-14?arch=riscv64
+- pkg:deb/debian/lmemory@0.6c-14?arch=s390x

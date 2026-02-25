@@ -1,2 +1,4 @@
 - pkg:deb/debian/gccrs-15-arm-linux-gnueabihf@15.2.0-10?arch=armhf
+- pkg:deb/debian/gccrs-15-arm-linux-gnueabihf@15.2.0-13?arch=armhf
+- pkg:deb/debian/gccrs-15-arm-linux-gnueabihf@15.2.0-14?arch=armhf
 - pkg:deb/debian/gccrs-15-arm-linux-gnueabihf@15.2.0-9?arch=armhf

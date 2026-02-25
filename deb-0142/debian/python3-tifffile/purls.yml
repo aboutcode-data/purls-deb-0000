@@ -2,3 +2,5 @@
 - pkg:deb/debian/python3-tifffile@20230203-1?arch=all
 - pkg:deb/debian/python3-tifffile@20250330-1?arch=all
 - pkg:deb/debian/python3-tifffile@20251016-1?arch=all
+- pkg:deb/debian/python3-tifffile@20260216-1?arch=all
+- pkg:deb/debian/python3-tifffile@20260220-1?arch=all

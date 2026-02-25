@@ -12,6 +12,10 @@
 - pkg:deb/debian/falkon@25.11.90-1?arch=arm64
 - pkg:deb/debian/falkon@25.11.90-1?arch=armhf
 - pkg:deb/debian/falkon@25.11.90-1?arch=i386
+- pkg:deb/debian/falkon@25.12.2-1?arch=amd64
+- pkg:deb/debian/falkon@25.12.2-1?arch=arm64
+- pkg:deb/debian/falkon@25.12.2-1?arch=armhf
+- pkg:deb/debian/falkon@25.12.2-1?arch=i386
 - pkg:deb/debian/falkon@3.1.0%2Bdfsg1-11?arch=amd64
 - pkg:deb/debian/falkon@3.1.0%2Bdfsg1-11?arch=arm64
 - pkg:deb/debian/falkon@3.1.0%2Bdfsg1-11?arch=armhf

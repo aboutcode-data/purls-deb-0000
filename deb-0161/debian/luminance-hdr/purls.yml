@@ -19,3 +19,7 @@
 - pkg:deb/debian/luminance-hdr@2.6.1.1%2Bdfsg-6?arch=arm64
 - pkg:deb/debian/luminance-hdr@2.6.1.1%2Bdfsg-6?arch=armhf
 - pkg:deb/debian/luminance-hdr@2.6.1.1%2Bdfsg-6?arch=i386
+- pkg:deb/debian/luminance-hdr@2.6.1.1%2Bdfsg-7?arch=amd64
+- pkg:deb/debian/luminance-hdr@2.6.1.1%2Bdfsg-7?arch=arm64
+- pkg:deb/debian/luminance-hdr@2.6.1.1%2Bdfsg-7?arch=armhf
+- pkg:deb/debian/luminance-hdr@2.6.1.1%2Bdfsg-7?arch=i386

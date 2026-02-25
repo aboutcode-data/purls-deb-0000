@@ -1,3 +1,4 @@
 - pkg:deb/debian/grml-hwinfo@0.18.10?arch=all
 - pkg:deb/debian/grml-hwinfo@0.18.8?arch=all
 - pkg:deb/debian/grml-hwinfo@0.18.9?arch=all
+- pkg:deb/debian/grml-hwinfo@1.8.12?arch=all

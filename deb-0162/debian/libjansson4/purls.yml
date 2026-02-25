@@ -2,6 +2,7 @@
 - pkg:deb/debian/libjansson4@2.13.1-1.1?arch=arm64
 - pkg:deb/debian/libjansson4@2.13.1-1.1?arch=armhf
 - pkg:deb/debian/libjansson4@2.13.1-1.1?arch=i386
+- pkg:deb/debian/libjansson4@2.14-2%2Bb1?arch=loong64
 - pkg:deb/debian/libjansson4@2.14-2%2Bb3?arch=amd64
 - pkg:deb/debian/libjansson4@2.14-2%2Bb3?arch=arm64
 - pkg:deb/debian/libjansson4@2.14-2%2Bb3?arch=armel

@@ -23,6 +23,7 @@
 - pkg:deb/debian/cenon.app@4.0.6%2Bds1-6?arch=arm64
 - pkg:deb/debian/cenon.app@4.0.6%2Bds1-6?arch=armhf
 - pkg:deb/debian/cenon.app@4.0.6%2Bds1-6?arch=i386
+- pkg:deb/debian/cenon.app@4.0.6%2Bds1-6?arch=loong64
 - pkg:deb/debian/cenon.app@4.0.6%2Bds1-6?arch=ppc64el
 - pkg:deb/debian/cenon.app@4.0.6%2Bds1-6?arch=riscv64
 - pkg:deb/debian/cenon.app@4.0.6%2Bds1-6?arch=s390x

@@ -1,1 +1,2 @@
 - pkg:deb/debian/libxml-struct-perl@0.27-1?arch=all
+- pkg:deb/debian/libxml-struct-perl@0.27-3?arch=all

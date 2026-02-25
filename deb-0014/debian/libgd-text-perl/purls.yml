@@ -1,2 +1,3 @@
 - pkg:deb/debian/libgd-text-perl@0.86-10?arch=all
 - pkg:deb/debian/libgd-text-perl@0.86-11?arch=all
+- pkg:deb/debian/libgd-text-perl@0.86-12?arch=all

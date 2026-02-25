@@ -3,3 +3,5 @@
 - pkg:deb/debian/dracut@106-5~bpo12%2B1?arch=all
 - pkg:deb/debian/dracut@106-6?arch=all
 - pkg:deb/debian/dracut@109-5?arch=all
+- pkg:deb/debian/dracut@110-1?arch=all
+- pkg:deb/debian/dracut@110-2?arch=all

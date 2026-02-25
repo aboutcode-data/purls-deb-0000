@@ -2,3 +2,4 @@
 - pkg:deb/debian/python3-networking-bgpvpn@17.0.0-1?arch=all
 - pkg:deb/debian/python3-networking-bgpvpn@22.0.0-1?arch=all
 - pkg:deb/debian/python3-networking-bgpvpn@23.0.0-1?arch=all
+- pkg:deb/debian/python3-networking-bgpvpn@23.0.0-2?arch=all

@@ -1,2 +1,3 @@
 - pkg:deb/debian/ruby-spring@2.1.0-2?arch=all
 - pkg:deb/debian/ruby-spring@2.1.1-2?arch=all
+- pkg:deb/debian/ruby-spring@4.4.2-1?arch=all

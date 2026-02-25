@@ -1,4 +1,6 @@
 - pkg:deb/debian/python3-cliff@3.4.0-2?arch=all
 - pkg:deb/debian/python3-cliff@4.0.0-2?arch=all
 - pkg:deb/debian/python3-cliff@4.11.0-3?arch=all
+- pkg:deb/debian/python3-cliff@4.11.0-5?arch=all
+- pkg:deb/debian/python3-cliff@4.13.2-1?arch=all
 - pkg:deb/debian/python3-cliff@4.9.1-2?arch=all

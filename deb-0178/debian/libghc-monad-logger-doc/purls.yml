@@ -1,3 +1,4 @@
 - pkg:deb/debian/libghc-monad-logger-doc@0.3.34-1?arch=all
 - pkg:deb/debian/libghc-monad-logger-doc@0.3.37-1?arch=all
 - pkg:deb/debian/libghc-monad-logger-doc@0.3.40-2?arch=all
+- pkg:deb/debian/libghc-monad-logger-doc@0.3.42-1?arch=all

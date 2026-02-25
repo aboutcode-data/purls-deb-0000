@@ -2,3 +2,4 @@
 - pkg:deb/debian/asahi-scripts@20250713-2?arch=all
 - pkg:deb/debian/asahi-scripts@20250713-2~bpo13%2B1?arch=all
 - pkg:deb/debian/asahi-scripts@20250713-2~bpo13%2B2?arch=all
+- pkg:deb/debian/asahi-scripts@20250713-3~bpo13%2B1?arch=all

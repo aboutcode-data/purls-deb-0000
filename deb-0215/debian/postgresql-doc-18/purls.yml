@@ -1,1 +1,2 @@
 - pkg:deb/debian/postgresql-doc-18@18.1-1?arch=all
+- pkg:deb/debian/postgresql-doc-18@18.2-1?arch=all

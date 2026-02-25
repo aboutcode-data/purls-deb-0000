@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-hmatrix-prof@0.20.2-4?arch=ppc64el
 - pkg:deb/debian/libghc-hmatrix-prof@0.20.2-4?arch=riscv64
 - pkg:deb/debian/libghc-hmatrix-prof@0.20.2-4?arch=s390x
+- pkg:deb/debian/libghc-hmatrix-prof@0.20.2-5?arch=loong64

@@ -22,4 +22,5 @@
 - pkg:deb/debian/opendrop@3.3.2-3%2Bb1?arch=i386
 - pkg:deb/debian/opendrop@3.3.2-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/opendrop@3.3.2-3%2Bb1?arch=s390x
+- pkg:deb/debian/opendrop@3.3.2-3?arch=loong64
 - pkg:deb/debian/opendrop@3.3.2-3?arch=riscv64

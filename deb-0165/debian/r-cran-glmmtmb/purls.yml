@@ -7,6 +7,11 @@
 - pkg:deb/debian/r-cran-glmmtmb@1.1.10%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/r-cran-glmmtmb@1.1.10%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/r-cran-glmmtmb@1.1.10%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/r-cran-glmmtmb@1.1.14%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/r-cran-glmmtmb@1.1.14%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/r-cran-glmmtmb@1.1.14%2Bdfsg-2?arch=loong64
+- pkg:deb/debian/r-cran-glmmtmb@1.1.14%2Bdfsg-2?arch=ppc64el
+- pkg:deb/debian/r-cran-glmmtmb@1.1.14%2Bdfsg-2?arch=riscv64
 - pkg:deb/debian/r-cran-glmmtmb@1.1.5%2Bdfsg-4?arch=amd64
 - pkg:deb/debian/r-cran-glmmtmb@1.1.5%2Bdfsg-4?arch=arm64
 - pkg:deb/debian/r-cran-glmmtmb@1.1.5%2Bdfsg-4?arch=armel

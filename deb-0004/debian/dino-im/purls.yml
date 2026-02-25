@@ -35,6 +35,14 @@
 - pkg:deb/debian/dino-im@0.5.1%2Bgit20251115.1deacee-1?arch=ppc64el
 - pkg:deb/debian/dino-im@0.5.1%2Bgit20251115.1deacee-1?arch=riscv64
 - pkg:deb/debian/dino-im@0.5.1%2Bgit20251115.1deacee-1?arch=s390x
+- pkg:deb/debian/dino-im@0.5.1%2Bgit20260214.3b274a6-1?arch=amd64
+- pkg:deb/debian/dino-im@0.5.1%2Bgit20260214.3b274a6-1?arch=arm64
+- pkg:deb/debian/dino-im@0.5.1%2Bgit20260214.3b274a6-1?arch=armhf
+- pkg:deb/debian/dino-im@0.5.1%2Bgit20260214.3b274a6-1?arch=i386
+- pkg:deb/debian/dino-im@0.5.1%2Bgit20260214.3b274a6-1?arch=loong64
+- pkg:deb/debian/dino-im@0.5.1%2Bgit20260214.3b274a6-1?arch=ppc64el
+- pkg:deb/debian/dino-im@0.5.1%2Bgit20260214.3b274a6-1?arch=riscv64
+- pkg:deb/debian/dino-im@0.5.1%2Bgit20260214.3b274a6-1?arch=s390x
 - pkg:deb/debian/dino-im@0.5.1-1?arch=amd64
 - pkg:deb/debian/dino-im@0.5.1-1?arch=arm64
 - pkg:deb/debian/dino-im@0.5.1-1?arch=armhf

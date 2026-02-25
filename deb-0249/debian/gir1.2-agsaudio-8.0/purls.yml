@@ -1,0 +1,2 @@
+- pkg:deb/debian/gir1.2-agsaudio-8.0@8.2.9-1?arch=riscv64
+- pkg:deb/debian/gir1.2-agsaudio-8.0@8.2.9-1?arch=s390x

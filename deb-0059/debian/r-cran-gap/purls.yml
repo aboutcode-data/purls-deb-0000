@@ -1,3 +1,7 @@
+- pkg:deb/debian/r-cran-gap@1.14%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/r-cran-gap@1.14%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/r-cran-gap@1.14%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/r-cran-gap@1.14%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/r-cran-gap@1.6%2Bdfsg-1%2Bb1?arch=amd64
 - pkg:deb/debian/r-cran-gap@1.6%2Bdfsg-1?arch=arm64
 - pkg:deb/debian/r-cran-gap@1.6%2Bdfsg-1?arch=armel
@@ -6,3 +10,7 @@
 - pkg:deb/debian/r-cran-gap@1.6%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/r-cran-gap@1.6%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/r-cran-gap@1.6%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/r-cran-gap@1.9%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/r-cran-gap@1.9%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/r-cran-gap@1.9%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/r-cran-gap@1.9%2Bdfsg-1?arch=riscv64

@@ -2,3 +2,4 @@
 - pkg:deb/debian/libapp-cmd-perl@0.335-1?arch=all
 - pkg:deb/debian/libapp-cmd-perl@0.337-2?arch=all
 - pkg:deb/debian/libapp-cmd-perl@0.338-1?arch=all
+- pkg:deb/debian/libapp-cmd-perl@0.339-1?arch=all

@@ -10,3 +10,5 @@
 - pkg:deb/debian/libmulticore-bench-ocaml-dev@0.1.7-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libmulticore-bench-ocaml-dev@0.1.7-1%2Bb3?arch=s390x
 - pkg:deb/debian/libmulticore-bench-ocaml-dev@0.1.7-1%2Bb4?arch=amd64
+- pkg:deb/debian/libmulticore-bench-ocaml-dev@0.1.7-1%2Bb6?arch=arm64
+- pkg:deb/debian/libmulticore-bench-ocaml-dev@0.1.7-1%2Bb7?arch=amd64

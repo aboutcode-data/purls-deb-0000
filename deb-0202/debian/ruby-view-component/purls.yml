@@ -1,1 +1,2 @@
 - pkg:deb/debian/ruby-view-component@2.74.1-1?arch=all
+- pkg:deb/debian/ruby-view-component@4.4.0-2?arch=all

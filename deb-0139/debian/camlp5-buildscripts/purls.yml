@@ -1,3 +1,5 @@
+- pkg:deb/debian/camlp5-buildscripts@0.06-1%2Bb10?arch=amd64
+- pkg:deb/debian/camlp5-buildscripts@0.06-1%2Bb10?arch=arm64
 - pkg:deb/debian/camlp5-buildscripts@0.06-1%2Bb2?arch=amd64
 - pkg:deb/debian/camlp5-buildscripts@0.06-1%2Bb2?arch=arm64
 - pkg:deb/debian/camlp5-buildscripts@0.06-1%2Bb2?arch=armel

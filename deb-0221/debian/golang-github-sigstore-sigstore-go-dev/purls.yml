@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-sigstore-sigstore-go-dev@0.7.1-2?arch=all
+- pkg:deb/debian/golang-github-sigstore-sigstore-go-dev@1.1.4-1?arch=all

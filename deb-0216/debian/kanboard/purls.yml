@@ -1,1 +1,2 @@
 - pkg:deb/debian/kanboard@1.2.47%2Bds-2?arch=all
+- pkg:deb/debian/kanboard@1.2.50%2Bds-1?arch=all

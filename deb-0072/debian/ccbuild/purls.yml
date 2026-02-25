@@ -5,6 +5,14 @@
 - pkg:deb/debian/ccbuild@2.0.11-1?arch=ppc64el
 - pkg:deb/debian/ccbuild@2.0.11-1?arch=riscv64
 - pkg:deb/debian/ccbuild@2.0.11-1?arch=s390x
+- pkg:deb/debian/ccbuild@2.0.11-2?arch=amd64
+- pkg:deb/debian/ccbuild@2.0.11-2?arch=arm64
+- pkg:deb/debian/ccbuild@2.0.11-2?arch=armhf
+- pkg:deb/debian/ccbuild@2.0.11-2?arch=i386
+- pkg:deb/debian/ccbuild@2.0.11-2?arch=loong64
+- pkg:deb/debian/ccbuild@2.0.11-2?arch=ppc64el
+- pkg:deb/debian/ccbuild@2.0.11-2?arch=riscv64
+- pkg:deb/debian/ccbuild@2.0.11-2?arch=s390x
 - pkg:deb/debian/ccbuild@2.0.7%2Bgit20160227.c1179286-3?arch=amd64
 - pkg:deb/debian/ccbuild@2.0.7%2Bgit20160227.c1179286-3?arch=arm64
 - pkg:deb/debian/ccbuild@2.0.7%2Bgit20160227.c1179286-3?arch=armhf

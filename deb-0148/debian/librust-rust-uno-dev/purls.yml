@@ -1,5 +1,14 @@
+- pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.0-1~bpo13%2B1?arch=amd64
+- pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.0-1~bpo13%2B1?arch=arm64
+- pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.0-1~bpo13%2B1?arch=i386
+- pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.0-1~bpo13%2B1?arch=s390x
 - pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.0~alpha1-3?arch=ppc64el
 - pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.0~beta1-1?arch=amd64
 - pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.0~beta1-1?arch=arm64
 - pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.0~beta1-1?arch=i386
 - pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.0~beta1-1?arch=s390x
+- pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.1~rc2-1?arch=amd64
+- pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.1~rc2-1?arch=arm64
+- pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.1~rc2-1?arch=i386
+- pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.1~rc2-1?arch=loong64
+- pkg:deb/debian/librust-rust-uno-dev@0.1.0%2BLibO26.2.1~rc2-1?arch=s390x

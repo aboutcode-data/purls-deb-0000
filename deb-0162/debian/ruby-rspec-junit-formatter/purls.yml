@@ -1,1 +1,2 @@
 - pkg:deb/debian/ruby-rspec-junit-formatter@0.4.1-2?arch=all
+- pkg:deb/debian/ruby-rspec-junit-formatter@0.6.0-1?arch=all

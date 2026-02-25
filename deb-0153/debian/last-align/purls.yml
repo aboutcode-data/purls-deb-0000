@@ -21,3 +21,5 @@
 - pkg:deb/debian/last-align@1645-1?arch=ppc64el
 - pkg:deb/debian/last-align@1645-1?arch=riscv64
 - pkg:deb/debian/last-align@1645-1?arch=s390x
+- pkg:deb/debian/last-align@1651-1?arch=loong64
+- pkg:deb/debian/last-align@1651-1?arch=riscv64

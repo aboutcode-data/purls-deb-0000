@@ -1,1 +1,2 @@
+- pkg:deb/debian/ruby-google-apis-pubsub-v1@0.65.0-1?arch=all
 - pkg:deb/debian/ruby-google-apis-pubsub-v1@0.7.0-2?arch=all

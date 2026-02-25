@@ -18,6 +18,8 @@
 - pkg:deb/debian/libnproc-ocaml-dev@0.5.1-5%2Bb10?arch=ppc64el
 - pkg:deb/debian/libnproc-ocaml-dev@0.5.1-5%2Bb10?arch=riscv64
 - pkg:deb/debian/libnproc-ocaml-dev@0.5.1-5%2Bb10?arch=s390x
+- pkg:deb/debian/libnproc-ocaml-dev@0.5.1-5%2Bb13?arch=amd64
+- pkg:deb/debian/libnproc-ocaml-dev@0.5.1-5%2Bb13?arch=arm64
 - pkg:deb/debian/libnproc-ocaml-dev@0.5.1-5%2Bb8?arch=amd64
 - pkg:deb/debian/libnproc-ocaml-dev@0.5.1-5%2Bb8?arch=arm64
 - pkg:deb/debian/libnproc-ocaml-dev@0.5.1-5%2Bb8?arch=armel

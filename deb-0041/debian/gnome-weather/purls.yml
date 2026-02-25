@@ -2,3 +2,4 @@
 - pkg:deb/debian/gnome-weather@43.0-1?arch=all
 - pkg:deb/debian/gnome-weather@48.0-2?arch=all
 - pkg:deb/debian/gnome-weather@48.0-4?arch=all
+- pkg:deb/debian/gnome-weather@50~beta-1?arch=all

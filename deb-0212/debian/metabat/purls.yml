@@ -5,3 +5,4 @@
 - pkg:deb/debian/metabat@2.15-4?arch=amd64
 - pkg:deb/debian/metabat@2.15-4?arch=i386
 - pkg:deb/debian/metabat@2.18-1?arch=amd64
+- pkg:deb/debian/metabat@2.18-3?arch=amd64

@@ -22,3 +22,4 @@
 - pkg:deb/debian/prusa-slicer@2.9.4%2Bdfsg-1?arch=i386
 - pkg:deb/debian/prusa-slicer@2.9.4%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/prusa-slicer@2.9.4%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/prusa-slicer@2.9.4%2Bdfsg-3?arch=ppc64el

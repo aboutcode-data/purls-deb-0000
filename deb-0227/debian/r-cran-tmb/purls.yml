@@ -7,6 +7,11 @@
 - pkg:deb/debian/r-cran-tmb@1.9.17-1?arch=ppc64el
 - pkg:deb/debian/r-cran-tmb@1.9.17-1?arch=riscv64
 - pkg:deb/debian/r-cran-tmb@1.9.17-1?arch=s390x
+- pkg:deb/debian/r-cran-tmb@1.9.19-2?arch=amd64
+- pkg:deb/debian/r-cran-tmb@1.9.19-2?arch=arm64
+- pkg:deb/debian/r-cran-tmb@1.9.19-2?arch=loong64
+- pkg:deb/debian/r-cran-tmb@1.9.19-2?arch=ppc64el
+- pkg:deb/debian/r-cran-tmb@1.9.19-2?arch=riscv64
 - pkg:deb/debian/r-cran-tmb@1.9.2-1?arch=amd64
 - pkg:deb/debian/r-cran-tmb@1.9.2-1?arch=arm64
 - pkg:deb/debian/r-cran-tmb@1.9.2-1?arch=armel

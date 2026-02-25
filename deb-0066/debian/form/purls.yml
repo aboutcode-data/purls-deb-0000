@@ -16,3 +16,9 @@
 - pkg:deb/debian/form@4.3.1%2Bgit20250227%2Bds-2?arch=ppc64el
 - pkg:deb/debian/form@4.3.1%2Bgit20250227%2Bds-2?arch=riscv64
 - pkg:deb/debian/form@4.3.1%2Bgit20250227%2Bds-2?arch=s390x
+- pkg:deb/debian/form@5.0.0-2?arch=amd64
+- pkg:deb/debian/form@5.0.0-2?arch=arm64
+- pkg:deb/debian/form@5.0.0-2?arch=loong64
+- pkg:deb/debian/form@5.0.0-2?arch=ppc64el
+- pkg:deb/debian/form@5.0.0-2?arch=riscv64
+- pkg:deb/debian/form@5.0.0-2?arch=s390x

@@ -1,1 +1,2 @@
+- pkg:deb/debian/linux-base-riscv64@6.18.12-1?arch=riscv64
 - pkg:deb/debian/linux-base-riscv64@6.18~rc7-1~exp1?arch=riscv64

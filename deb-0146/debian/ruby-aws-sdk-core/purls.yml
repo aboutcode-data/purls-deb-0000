@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-aws-sdk-core@3.168.1-2?arch=all
 - pkg:deb/debian/ruby-aws-sdk-core@3.212.0-1?arch=all
 - pkg:deb/debian/ruby-aws-sdk-core@3.235.0-1?arch=all
+- pkg:deb/debian/ruby-aws-sdk-core@3.242.0-1?arch=all

@@ -19,6 +19,7 @@
 - pkg:deb/debian/dwz@0.15-1?arch=mipsel
 - pkg:deb/debian/dwz@0.15-1?arch=ppc64el
 - pkg:deb/debian/dwz@0.15-1?arch=s390x
+- pkg:deb/debian/dwz@0.16-2%2Bb1?arch=loong64
 - pkg:deb/debian/dwz@0.16-2?arch=amd64
 - pkg:deb/debian/dwz@0.16-2?arch=arm64
 - pkg:deb/debian/dwz@0.16-2?arch=armhf

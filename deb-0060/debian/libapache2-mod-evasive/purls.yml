@@ -19,3 +19,11 @@
 - pkg:deb/debian/libapache2-mod-evasive@2.4.0-2?arch=ppc64el
 - pkg:deb/debian/libapache2-mod-evasive@2.4.0-2?arch=riscv64
 - pkg:deb/debian/libapache2-mod-evasive@2.4.0-2?arch=s390x
+- pkg:deb/debian/libapache2-mod-evasive@2.4.0-3?arch=amd64
+- pkg:deb/debian/libapache2-mod-evasive@2.4.0-3?arch=arm64
+- pkg:deb/debian/libapache2-mod-evasive@2.4.0-3?arch=armhf
+- pkg:deb/debian/libapache2-mod-evasive@2.4.0-3?arch=i386
+- pkg:deb/debian/libapache2-mod-evasive@2.4.0-3?arch=loong64
+- pkg:deb/debian/libapache2-mod-evasive@2.4.0-3?arch=ppc64el
+- pkg:deb/debian/libapache2-mod-evasive@2.4.0-3?arch=riscv64
+- pkg:deb/debian/libapache2-mod-evasive@2.4.0-3?arch=s390x

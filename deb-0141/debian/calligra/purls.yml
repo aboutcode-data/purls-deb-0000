@@ -13,5 +13,6 @@
 - pkg:deb/debian/calligra@25.11.90-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/calligra@25.11.90-1%2Bb1?arch=riscv64
 - pkg:deb/debian/calligra@25.11.90-1%2Bb1?arch=s390x
+- pkg:deb/debian/calligra@25.11.90-1?arch=loong64
 - pkg:deb/debian/calligra@3.2.1%2Bdfsg-2?arch=all
 - pkg:deb/debian/calligra@3.2.1%2Bdfsg-6?arch=all

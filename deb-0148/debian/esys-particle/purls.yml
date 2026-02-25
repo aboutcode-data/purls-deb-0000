@@ -9,6 +9,7 @@
 - pkg:deb/debian/esys-particle@2.3.5%2Bdfsg2-11?arch=s390x
 - pkg:deb/debian/esys-particle@2.3.5%2Bdfsg2-12?arch=amd64
 - pkg:deb/debian/esys-particle@2.3.5%2Bdfsg2-12?arch=arm64
+- pkg:deb/debian/esys-particle@2.3.5%2Bdfsg2-12?arch=loong64
 - pkg:deb/debian/esys-particle@2.3.5%2Bdfsg2-12?arch=ppc64el
 - pkg:deb/debian/esys-particle@2.3.5%2Bdfsg2-12?arch=riscv64
 - pkg:deb/debian/esys-particle@2.3.5%2Bdfsg2-12?arch=s390x

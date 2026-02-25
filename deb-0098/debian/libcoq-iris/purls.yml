@@ -9,7 +9,14 @@
 - pkg:deb/debian/libcoq-iris@4.3.0-1%2Bb5?arch=s390x
 - pkg:deb/debian/libcoq-iris@4.3.0-1%2Bb6?arch=arm64
 - pkg:deb/debian/libcoq-iris@4.3.0-1%2Bb6?arch=ppc64el
+- pkg:deb/debian/libcoq-iris@4.3.0-1%2Bb7?arch=amd64
+- pkg:deb/debian/libcoq-iris@4.3.0-1%2Bb8?arch=arm64
 - pkg:deb/debian/libcoq-iris@4.4.0-1?arch=arm64
 - pkg:deb/debian/libcoq-iris@4.4.0-1?arch=ppc64el
 - pkg:deb/debian/libcoq-iris@4.4.0-1?arch=s390x
 - pkg:deb/debian/libcoq-iris@4.4.0-2?arch=amd64
+- pkg:deb/debian/libcoq-iris@4.4.0-2?arch=arm64
+- pkg:deb/debian/libcoq-iris@4.4.0-2?arch=armhf
+- pkg:deb/debian/libcoq-iris@4.4.0-2?arch=i386
+- pkg:deb/debian/libcoq-iris@4.4.0-2?arch=ppc64el
+- pkg:deb/debian/libcoq-iris@4.4.0-2?arch=s390x

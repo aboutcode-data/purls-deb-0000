@@ -1,3 +1,4 @@
 - pkg:deb/debian/libtorrent-rasterbar-doc@1.2.9-0.3?arch=all
 - pkg:deb/debian/libtorrent-rasterbar-doc@2.0.11-1?arch=all
+- pkg:deb/debian/libtorrent-rasterbar-doc@2.0.11-3?arch=all
 - pkg:deb/debian/libtorrent-rasterbar-doc@2.0.8-1?arch=all

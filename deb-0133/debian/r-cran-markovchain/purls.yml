@@ -6,6 +6,11 @@
 - pkg:deb/debian/r-cran-markovchain@0.10.0-1?arch=ppc64el
 - pkg:deb/debian/r-cran-markovchain@0.10.0-1?arch=riscv64
 - pkg:deb/debian/r-cran-markovchain@0.10.0-1?arch=s390x
+- pkg:deb/debian/r-cran-markovchain@0.10.3-1?arch=amd64
+- pkg:deb/debian/r-cran-markovchain@0.10.3-1?arch=arm64
+- pkg:deb/debian/r-cran-markovchain@0.10.3-1?arch=loong64
+- pkg:deb/debian/r-cran-markovchain@0.10.3-1?arch=ppc64el
+- pkg:deb/debian/r-cran-markovchain@0.10.3-1?arch=riscv64
 - pkg:deb/debian/r-cran-markovchain@0.8.5-4-1?arch=amd64
 - pkg:deb/debian/r-cran-markovchain@0.8.5-4-1?arch=arm64
 - pkg:deb/debian/r-cran-markovchain@0.8.5-4-1?arch=armhf

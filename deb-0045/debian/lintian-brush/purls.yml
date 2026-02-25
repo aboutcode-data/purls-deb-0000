@@ -6,3 +6,11 @@
 - pkg:deb/debian/lintian-brush@0.162?arch=ppc64el
 - pkg:deb/debian/lintian-brush@0.162?arch=riscv64
 - pkg:deb/debian/lintian-brush@0.162?arch=s390x
+- pkg:deb/debian/lintian-brush@0.167?arch=amd64
+- pkg:deb/debian/lintian-brush@0.167?arch=arm64
+- pkg:deb/debian/lintian-brush@0.167?arch=armhf
+- pkg:deb/debian/lintian-brush@0.167?arch=i386
+- pkg:deb/debian/lintian-brush@0.167?arch=loong64
+- pkg:deb/debian/lintian-brush@0.167?arch=ppc64el
+- pkg:deb/debian/lintian-brush@0.167?arch=riscv64
+- pkg:deb/debian/lintian-brush@0.167?arch=s390x

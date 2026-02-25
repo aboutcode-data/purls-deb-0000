@@ -1,3 +1,4 @@
 - pkg:deb/debian/golang-google-genproto-dev@0.0~git20200413.b5235f6-1?arch=all
 - pkg:deb/debian/golang-google-genproto-dev@0.0~git20200413.b5235f6-3?arch=all
 - pkg:deb/debian/golang-google-genproto-dev@0.0~git20210726.e7812ac-4?arch=all
+- pkg:deb/debian/golang-google-genproto-dev@0.0~git20240318.94a12d6-2?arch=all

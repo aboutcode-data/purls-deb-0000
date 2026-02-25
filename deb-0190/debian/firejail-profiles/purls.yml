@@ -2,3 +2,4 @@
 - pkg:deb/debian/firejail-profiles@0.9.72-2?arch=all
 - pkg:deb/debian/firejail-profiles@0.9.74-1?arch=all
 - pkg:deb/debian/firejail-profiles@0.9.76-1?arch=all
+- pkg:deb/debian/firejail-profiles@0.9.78-1?arch=all

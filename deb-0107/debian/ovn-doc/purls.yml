@@ -1,3 +1,5 @@
 - pkg:deb/debian/ovn-doc@23.03.1-1~deb12u2?arch=all
 - pkg:deb/debian/ovn-doc@25.03.0-1?arch=all
 - pkg:deb/debian/ovn-doc@25.09.0-3?arch=all
+- pkg:deb/debian/ovn-doc@26.03.0~git20260216.b543a88-2?arch=all
+- pkg:deb/debian/ovn-doc@26.03.0~git20260216.b543a88-3?arch=all

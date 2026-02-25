@@ -2,3 +2,4 @@
 - pkg:deb/debian/python3-gitlab@3.12.0-1?arch=all
 - pkg:deb/debian/python3-gitlab@4.9.0-1.1?arch=all
 - pkg:deb/debian/python3-gitlab@4.9.0-1?arch=all
+- pkg:deb/debian/python3-gitlab@8.0.0-1?arch=all

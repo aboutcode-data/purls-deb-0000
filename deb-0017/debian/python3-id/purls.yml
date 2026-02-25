@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-id@1.5.0-1?arch=all
+- pkg:deb/debian/python3-id@1.6.1-1?arch=all

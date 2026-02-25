@@ -1,2 +1,3 @@
 - pkg:deb/debian/python3-tomoscan@2.2.0~dev0-2?arch=all
 - pkg:deb/debian/python3-tomoscan@2.2.0~dev0-2~bpo12%2B1?arch=all
+- pkg:deb/debian/python3-tomoscan@2.3.5-3?arch=all

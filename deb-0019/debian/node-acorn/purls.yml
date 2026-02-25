@@ -1,2 +1,4 @@
 - pkg:deb/debian/node-acorn@8.0.5%2Bds%2B~cs19.19.27-3?arch=all
+- pkg:deb/debian/node-acorn@8.15.0%2Bds%2B~cs25.18.7-2?arch=all
+- pkg:deb/debian/node-acorn@8.16.0%2Bds%2B~cs25.18.7-1?arch=all
 - pkg:deb/debian/node-acorn@8.8.1%2Bds%2B~cs25.17.7-2?arch=all

@@ -4,3 +4,4 @@
 - pkg:deb/debian/mayo@0.9.0%2Bds-2%2Bb2?arch=i386
 - pkg:deb/debian/mayo@0.9.0%2Bds-2%2Bb2?arch=ppc64el
 - pkg:deb/debian/mayo@0.9.0%2Bds-2%2Bb2?arch=s390x
+- pkg:deb/debian/mayo@0.9.0%2Bgit20251225%2Bds-2?arch=loong64

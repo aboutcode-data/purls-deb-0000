@@ -11,6 +11,7 @@
 - pkg:deb/debian/librust-spin-dev@0.9.5-2?arch=mipsel
 - pkg:deb/debian/librust-spin-dev@0.9.5-2?arch=ppc64el
 - pkg:deb/debian/librust-spin-dev@0.9.5-2?arch=s390x
+- pkg:deb/debian/librust-spin-dev@0.9.8-4%2Bb1?arch=loong64
 - pkg:deb/debian/librust-spin-dev@0.9.8-4?arch=amd64
 - pkg:deb/debian/librust-spin-dev@0.9.8-4?arch=arm64
 - pkg:deb/debian/librust-spin-dev@0.9.8-4?arch=armel

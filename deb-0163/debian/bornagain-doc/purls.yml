@@ -2,3 +2,5 @@
 - pkg:deb/debian/bornagain-doc@1.19.0-3?arch=all
 - pkg:deb/debian/bornagain-doc@22~git20250325170646.93042f5%2Bds3-3?arch=all
 - pkg:deb/debian/bornagain-doc@23.0-4?arch=all
+- pkg:deb/debian/bornagain-doc@23.0-6?arch=all
+- pkg:deb/debian/bornagain-doc@23.0-6~bpo13%2B1?arch=all

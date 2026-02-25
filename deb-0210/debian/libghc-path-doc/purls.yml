@@ -1,3 +1,4 @@
 - pkg:deb/debian/libghc-path-doc@0.7.0-3?arch=all
 - pkg:deb/debian/libghc-path-doc@0.9.2-1?arch=all
 - pkg:deb/debian/libghc-path-doc@0.9.5-1?arch=all
+- pkg:deb/debian/libghc-path-doc@0.9.6-4?arch=all

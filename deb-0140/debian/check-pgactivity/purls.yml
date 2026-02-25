@@ -2,3 +2,4 @@
 - pkg:deb/debian/check-pgactivity@2.6-2?arch=all
 - pkg:deb/debian/check-pgactivity@2.7-1?arch=all
 - pkg:deb/debian/check-pgactivity@2.8-1?arch=all
+- pkg:deb/debian/check-pgactivity@2.9-1?arch=all

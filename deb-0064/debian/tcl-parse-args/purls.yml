@@ -1,0 +1,7 @@
+- pkg:deb/debian/tcl-parse-args@0.5.2~git20251214%2Bg94842f5-1?arch=amd64
+- pkg:deb/debian/tcl-parse-args@0.5.2~git20251214%2Bg94842f5-1?arch=arm64
+- pkg:deb/debian/tcl-parse-args@0.5.2~git20251214%2Bg94842f5-1?arch=armhf
+- pkg:deb/debian/tcl-parse-args@0.5.2~git20251214%2Bg94842f5-1?arch=i386
+- pkg:deb/debian/tcl-parse-args@0.5.2~git20251214%2Bg94842f5-1?arch=ppc64el
+- pkg:deb/debian/tcl-parse-args@0.5.2~git20251214%2Bg94842f5-1?arch=riscv64
+- pkg:deb/debian/tcl-parse-args@0.5.2~git20251214%2Bg94842f5-1?arch=s390x

@@ -1,2 +1,3 @@
 - pkg:deb/debian/python3-xstatic-moment@2.8.4.2-2?arch=all
 - pkg:deb/debian/python3-xstatic-moment@2.8.4.2-4?arch=all
+- pkg:deb/debian/python3-xstatic-moment@2.8.4.2-6?arch=all

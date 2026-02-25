@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-meilisearch-meilisearch-go-dev@0.34.2-1?arch=all
+- pkg:deb/debian/golang-github-meilisearch-meilisearch-go-dev@0.36.1-1?arch=all

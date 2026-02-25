@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-lestrrat-go-option-dev@1.0.1-2?arch=all
+- pkg:deb/debian/golang-github-lestrrat-go-option-dev@2.0.0-3?arch=all

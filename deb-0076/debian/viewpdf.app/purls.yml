@@ -16,6 +16,7 @@
 - pkg:deb/debian/viewpdf.app@0.2dfsg1-9?arch=armel
 - pkg:deb/debian/viewpdf.app@0.2dfsg1-9?arch=armhf
 - pkg:deb/debian/viewpdf.app@0.2dfsg1-9?arch=i386
+- pkg:deb/debian/viewpdf.app@0.2dfsg1-9?arch=loong64
 - pkg:deb/debian/viewpdf.app@0.2dfsg1-9?arch=ppc64el
 - pkg:deb/debian/viewpdf.app@0.2dfsg1-9?arch=riscv64
 - pkg:deb/debian/viewpdf.app@0.2dfsg1-9?arch=s390x

@@ -1,2 +1,3 @@
 - pkg:deb/debian/libdbicx-sugar-perl@0.0200-1?arch=all
 - pkg:deb/debian/libdbicx-sugar-perl@0.0200-3?arch=all
+- pkg:deb/debian/libdbicx-sugar-perl@0.0200-4?arch=all

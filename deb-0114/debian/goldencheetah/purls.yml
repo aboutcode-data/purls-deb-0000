@@ -8,3 +8,6 @@
 - pkg:deb/debian/goldencheetah@3.5-7?arch=amd64
 - pkg:deb/debian/goldencheetah@3.5-7?arch=arm64
 - pkg:deb/debian/goldencheetah@3.5-7?arch=i386
+- pkg:deb/debian/goldencheetah@3.5-8?arch=amd64
+- pkg:deb/debian/goldencheetah@3.5-8?arch=arm64
+- pkg:deb/debian/goldencheetah@3.5-8?arch=i386

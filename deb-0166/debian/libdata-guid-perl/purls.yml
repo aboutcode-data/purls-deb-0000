@@ -1,2 +1,3 @@
 - pkg:deb/debian/libdata-guid-perl@0.049-1?arch=all
 - pkg:deb/debian/libdata-guid-perl@0.051-1?arch=all
+- pkg:deb/debian/libdata-guid-perl@0.051-2?arch=all

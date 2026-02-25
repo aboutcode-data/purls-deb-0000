@@ -2,3 +2,4 @@
 - pkg:deb/debian/python3-vitrage-dashboard@3.6.0-2?arch=all
 - pkg:deb/debian/python3-vitrage-dashboard@8.0.0-1?arch=all
 - pkg:deb/debian/python3-vitrage-dashboard@9.0.0-1?arch=all
+- pkg:deb/debian/python3-vitrage-dashboard@9.0.0-2?arch=all

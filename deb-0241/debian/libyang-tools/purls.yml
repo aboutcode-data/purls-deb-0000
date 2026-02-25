@@ -3,3 +3,10 @@
 - pkg:deb/debian/libyang-tools@1.0.225-1.1?arch=armhf
 - pkg:deb/debian/libyang-tools@1.0.225-1.1?arch=i386
 - pkg:deb/debian/libyang-tools@2.1.30-2?arch=all
+- pkg:deb/debian/libyang-tools@5.0.2-1?arch=arm64
+- pkg:deb/debian/libyang-tools@5.0.2-1?arch=armhf
+- pkg:deb/debian/libyang-tools@5.0.2-1?arch=i386
+- pkg:deb/debian/libyang-tools@5.0.2-1?arch=loong64
+- pkg:deb/debian/libyang-tools@5.0.2-1?arch=ppc64el
+- pkg:deb/debian/libyang-tools@5.0.2-1?arch=riscv64
+- pkg:deb/debian/libyang-tools@5.0.2-1?arch=s390x

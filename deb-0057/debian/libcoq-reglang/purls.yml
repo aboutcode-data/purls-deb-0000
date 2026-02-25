@@ -14,7 +14,13 @@
 - pkg:deb/debian/libcoq-reglang@1.2.1-4%2Bb19?arch=riscv64
 - pkg:deb/debian/libcoq-reglang@1.2.1-4%2Bb20?arch=amd64
 - pkg:deb/debian/libcoq-reglang@1.2.1-4%2Bb20?arch=s390x
+- pkg:deb/debian/libcoq-reglang@1.2.1-4%2Bb23?arch=arm64
+- pkg:deb/debian/libcoq-reglang@1.2.1-4%2Bb24?arch=amd64
 - pkg:deb/debian/libcoq-reglang@1.2.2-1?arch=arm64
 - pkg:deb/debian/libcoq-reglang@1.2.2-1?arch=ppc64el
 - pkg:deb/debian/libcoq-reglang@1.2.2-1?arch=s390x
+- pkg:deb/debian/libcoq-reglang@1.2.2-2%2Bb1?arch=amd64
 - pkg:deb/debian/libcoq-reglang@1.2.2-2?arch=amd64
+- pkg:deb/debian/libcoq-reglang@1.2.2-2?arch=arm64
+- pkg:deb/debian/libcoq-reglang@1.2.2-2?arch=ppc64el
+- pkg:deb/debian/libcoq-reglang@1.2.2-2?arch=s390x

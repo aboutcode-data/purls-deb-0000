@@ -1,1 +1,2 @@
 - pkg:deb/debian/llama.cpp@6641%2Bdfsg-1?arch=all
+- pkg:deb/debian/llama.cpp@8064%2Bdfsg-1?arch=all

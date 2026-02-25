@@ -2,3 +2,4 @@
 - pkg:deb/debian/python3-social-auth-core@4.3.0-1?arch=all
 - pkg:deb/debian/python3-social-auth-core@4.6.1-1?arch=all
 - pkg:deb/debian/python3-social-auth-core@4.8.1-1?arch=all
+- pkg:deb/debian/python3-social-auth-core@4.8.5-1?arch=all

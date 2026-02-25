@@ -4,4 +4,7 @@
 - pkg:deb/debian/bind9-doc@9.20.15-1~deb13u1?arch=all
 - pkg:deb/debian/bind9-doc@9.20.15-1~deb13u1~bpo12%2B1?arch=all
 - pkg:deb/debian/bind9-doc@9.20.15-2?arch=all
+- pkg:deb/debian/bind9-doc@9.20.19-1?arch=all
+- pkg:deb/debian/bind9-doc@9.20.19-1~bpo12%2B1?arch=all
 - pkg:deb/debian/bind9-doc@9.21.14-1?arch=all
+- pkg:deb/debian/bind9-doc@9.21.18-1?arch=all

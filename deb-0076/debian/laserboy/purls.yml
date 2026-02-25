@@ -26,3 +26,5 @@
 - pkg:deb/debian/laserboy@2024.03.08%2Bdfsg-3?arch=ppc64el
 - pkg:deb/debian/laserboy@2024.03.08%2Bdfsg-3?arch=riscv64
 - pkg:deb/debian/laserboy@2024.03.08%2Bdfsg-3?arch=s390x
+- pkg:deb/debian/laserboy@2024.03.08%2Bdfsg-4?arch=loong64
+- pkg:deb/debian/laserboy@2024.03.08%2Bdfsg-4?arch=riscv64

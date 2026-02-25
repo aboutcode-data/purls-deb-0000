@@ -1,4 +1,5 @@
 - pkg:deb/debian/grml-debootstrap@0.103?arch=all
 - pkg:deb/debian/grml-debootstrap@0.121?arch=all
 - pkg:deb/debian/grml-debootstrap@0.123?arch=all
+- pkg:deb/debian/grml-debootstrap@0.125?arch=all
 - pkg:deb/debian/grml-debootstrap@0.96?arch=all

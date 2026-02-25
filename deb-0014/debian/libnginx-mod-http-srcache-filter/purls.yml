@@ -15,6 +15,14 @@
 - pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-4?arch=ppc64el
 - pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-4?arch=riscv64
 - pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-4?arch=s390x
+- pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-5%2Bb1?arch=loong64
+- pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-5%2Bb2?arch=amd64
+- pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-5%2Bb2?arch=arm64
+- pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-5%2Bb2?arch=armhf
+- pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-5%2Bb2?arch=i386
+- pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-5%2Bb2?arch=ppc64el
+- pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-5%2Bb2?arch=riscv64
+- pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-5%2Bb2?arch=s390x
 - pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-5?arch=amd64
 - pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-5?arch=arm64
 - pkg:deb/debian/libnginx-mod-http-srcache-filter@0.33-5?arch=armhf
