@@ -21,3 +21,4 @@
 - pkg:deb/debian/qml6-module-org-kde-i18n-localedata@6.23.0-2?arch=i386
 - pkg:deb/debian/qml6-module-org-kde-i18n-localedata@6.23.0-2?arch=loong64
 - pkg:deb/debian/qml6-module-org-kde-i18n-localedata@6.23.0-2?arch=ppc64el
+- pkg:deb/debian/qml6-module-org-kde-i18n-localedata@6.26.0-1?arch=riscv64
