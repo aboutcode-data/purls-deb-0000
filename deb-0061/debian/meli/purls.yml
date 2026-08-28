@@ -13,3 +13,4 @@
 - pkg:deb/debian/meli@0.8.12%2Bdfsg-9?arch=i386
 - pkg:deb/debian/meli@0.8.12%2Bdfsg-9?arch=ppc64el
 - pkg:deb/debian/meli@0.8.12%2Bdfsg-9?arch=s390x
+- pkg:deb/debian/meli@0.8.13%2Bdfsg-5?arch=riscv64
