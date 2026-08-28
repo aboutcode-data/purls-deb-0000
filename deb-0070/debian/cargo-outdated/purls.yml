@@ -29,3 +29,4 @@
 - pkg:deb/debian/cargo-outdated@0.17.0-2?arch=ppc64el
 - pkg:deb/debian/cargo-outdated@0.17.0-2?arch=riscv64
 - pkg:deb/debian/cargo-outdated@0.17.0-2?arch=s390x
+- pkg:deb/debian/cargo-outdated@0.19.0-3?arch=riscv64
