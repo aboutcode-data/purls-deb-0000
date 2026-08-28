@@ -28,6 +28,13 @@
 - pkg:deb/debian/hugo@0.155.3-1?arch=armhf
 - pkg:deb/debian/hugo@0.155.3-1?arch=ppc64el
 - pkg:deb/debian/hugo@0.155.3-1?arch=s390x
+- pkg:deb/debian/hugo@0.165.0-2?arch=amd64
+- pkg:deb/debian/hugo@0.165.0-2?arch=arm64
+- pkg:deb/debian/hugo@0.165.0-2?arch=armhf
+- pkg:deb/debian/hugo@0.165.0-2?arch=i386
+- pkg:deb/debian/hugo@0.165.0-2?arch=loong64
+- pkg:deb/debian/hugo@0.165.0-2?arch=ppc64el
+- pkg:deb/debian/hugo@0.165.0-2?arch=s390x
 - pkg:deb/debian/hugo@0.80.0-6%2Bb5?arch=amd64
 - pkg:deb/debian/hugo@0.80.0-6%2Bb5?arch=arm64
 - pkg:deb/debian/hugo@0.80.0-6%2Bb5?arch=armhf
