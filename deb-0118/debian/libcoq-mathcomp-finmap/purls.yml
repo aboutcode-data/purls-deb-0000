@@ -21,3 +21,4 @@
 - pkg:deb/debian/libcoq-mathcomp-finmap@2.2.2-2?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-finmap@2.2.2-2?arch=ppc64el
 - pkg:deb/debian/libcoq-mathcomp-finmap@2.2.2-2?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-finmap@2.2.4-3%2Bb1?arch=riscv64
