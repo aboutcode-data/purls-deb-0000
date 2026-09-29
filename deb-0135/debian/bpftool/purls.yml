@@ -112,3 +112,4 @@
 - pkg:deb/debian/bpftool@7.7.0%2B6.19.2-1~exp1?arch=loong64
 - pkg:deb/debian/bpftool@7.7.0%2B6.19.2-1~exp1?arch=ppc64el
 - pkg:deb/debian/bpftool@7.7.0%2B6.19.2-1~exp1?arch=s390x
+- pkg:deb/debian/bpftool@7.8.0%2B7.1.13-1~bpo13%2B1?arch=riscv64
