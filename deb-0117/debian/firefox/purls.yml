@@ -10,3 +10,6 @@
 - pkg:deb/debian/firefox@147.0.4-1?arch=arm64
 - pkg:deb/debian/firefox@147.0.4-1?arch=ppc64el
 - pkg:deb/debian/firefox@147.0.4-1?arch=riscv64
+- pkg:deb/debian/firefox@157.0-1?arch=i386
+- pkg:deb/debian/firefox@157.0-1?arch=loong64
+- pkg:deb/debian/firefox@157.0-1?arch=ppc64el
