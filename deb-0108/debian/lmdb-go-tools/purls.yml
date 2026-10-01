@@ -10,6 +10,7 @@
 - pkg:deb/debian/lmdb-go-tools@1.8.0%2Bgit20170215.a14b5a3-4%2Bb16?arch=armhf
 - pkg:deb/debian/lmdb-go-tools@1.8.0%2Bgit20170215.a14b5a3-4%2Bb16?arch=i386
 - pkg:deb/debian/lmdb-go-tools@1.8.0%2Bgit20170215.a14b5a3-4%2Bb16?arch=ppc64el
+- pkg:deb/debian/lmdb-go-tools@1.8.0%2Bgit20170215.a14b5a3-4%2Bb16?arch=riscv64
 - pkg:deb/debian/lmdb-go-tools@1.8.0%2Bgit20170215.a14b5a3-4%2Bb16?arch=s390x
 - pkg:deb/debian/lmdb-go-tools@1.8.0%2Bgit20170215.a14b5a3-4%2Bb17?arch=amd64
 - pkg:deb/debian/lmdb-go-tools@1.8.0%2Bgit20170215.a14b5a3-4%2Bb17?arch=arm64
