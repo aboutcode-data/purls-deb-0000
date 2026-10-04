@@ -19,3 +19,4 @@
 - pkg:deb/debian/bmake@20200710-17?arch=ppc64el
 - pkg:deb/debian/bmake@20200710-17?arch=riscv64
 - pkg:deb/debian/bmake@20200710-17?arch=s390x
+- pkg:deb/debian/bmake@20200710-18?arch=riscv64

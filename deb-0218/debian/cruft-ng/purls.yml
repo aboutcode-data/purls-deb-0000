@@ -26,3 +26,4 @@
 - pkg:deb/debian/cruft-ng@0.9.77?arch=ppc64el
 - pkg:deb/debian/cruft-ng@0.9.77?arch=riscv64
 - pkg:deb/debian/cruft-ng@0.9.77?arch=s390x
+- pkg:deb/debian/cruft-ng@0.9.89?arch=riscv64
