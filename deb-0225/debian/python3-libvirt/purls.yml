@@ -13,6 +13,7 @@
 - pkg:deb/debian/python3-libvirt@11.3.0-1?arch=ppc64el
 - pkg:deb/debian/python3-libvirt@11.3.0-1?arch=riscv64
 - pkg:deb/debian/python3-libvirt@11.3.0-1?arch=s390x
+- pkg:deb/debian/python3-libvirt@12.8.0-1?arch=riscv64
 - pkg:deb/debian/python3-libvirt@7.0.0-2?arch=amd64
 - pkg:deb/debian/python3-libvirt@7.0.0-2?arch=arm64
 - pkg:deb/debian/python3-libvirt@7.0.0-2?arch=armhf
