@@ -13,3 +13,4 @@
 - pkg:deb/debian/safe-vdash@0.20.0-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/safe-vdash@0.20.0-3%2Bb1?arch=riscv64
 - pkg:deb/debian/safe-vdash@0.20.0-3%2Bb1?arch=s390x
+- pkg:deb/debian/safe-vdash@0.20.0-6%2Bb2?arch=loong64
