@@ -26,3 +26,9 @@
 - pkg:deb/debian/aspectc%2B%2B@2.3-4?arch=arm64
 - pkg:deb/debian/aspectc%2B%2B@2.3-4?arch=armhf
 - pkg:deb/debian/aspectc%2B%2B@2.3-4?arch=i386
+- pkg:deb/debian/aspectc%2B%2B@2.5%2Bsvn20261003-2?arch=amd64
+- pkg:deb/debian/aspectc%2B%2B@2.5%2Bsvn20261003-2?arch=arm64
+- pkg:deb/debian/aspectc%2B%2B@2.5%2Bsvn20261003-2?arch=armhf
+- pkg:deb/debian/aspectc%2B%2B@2.5%2Bsvn20261003-2?arch=i386
+- pkg:deb/debian/aspectc%2B%2B@2.5%2Bsvn20261003-2?arch=ppc64el
+- pkg:deb/debian/aspectc%2B%2B@2.5%2Bsvn20261003-2?arch=s390x
