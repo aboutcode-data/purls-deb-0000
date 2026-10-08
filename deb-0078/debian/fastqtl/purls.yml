@@ -19,6 +19,7 @@
 - pkg:deb/debian/fastqtl@2.184%2Bv7%2Bdfsg-4%2Bb3?arch=ppc64el
 - pkg:deb/debian/fastqtl@2.184%2Bv7%2Bdfsg-4%2Bb3?arch=riscv64
 - pkg:deb/debian/fastqtl@2.184%2Bv7%2Bdfsg-4%2Bb3?arch=s390x
+- pkg:deb/debian/fastqtl@2.184%2Bv7%2Bdfsg-5%2Bb2?arch=riscv64
 - pkg:deb/debian/fastqtl@2.184%2Bv7%2Bdfsg-5?arch=amd64
 - pkg:deb/debian/fastqtl@2.184%2Bv7%2Bdfsg-5?arch=arm64
 - pkg:deb/debian/fastqtl@2.184%2Bv7%2Bdfsg-5?arch=armhf
