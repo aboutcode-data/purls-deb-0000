@@ -12,3 +12,4 @@
 - pkg:deb/debian/librust-erbium-core-dev@1.0.5-7?arch=ppc64el
 - pkg:deb/debian/librust-erbium-core-dev@1.0.5-7?arch=riscv64
 - pkg:deb/debian/librust-erbium-core-dev@1.0.5-7?arch=s390x
+- pkg:deb/debian/librust-erbium-core-dev@1.0.8-5?arch=ppc64el
