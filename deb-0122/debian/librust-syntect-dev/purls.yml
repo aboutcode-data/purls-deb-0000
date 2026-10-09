@@ -19,3 +19,4 @@
 - pkg:deb/debian/librust-syntect-dev@5.2.0-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/librust-syntect-dev@5.2.0-2%2Bb1?arch=riscv64
 - pkg:deb/debian/librust-syntect-dev@5.2.0-2%2Bb1?arch=s390x
+- pkg:deb/debian/librust-syntect-dev@5.3.0-2?arch=ppc64el

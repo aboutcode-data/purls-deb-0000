@@ -19,3 +19,4 @@
 - pkg:deb/debian/sdpb@1.0-4?arch=arm64
 - pkg:deb/debian/sdpb@1.0-4?arch=armhf
 - pkg:deb/debian/sdpb@1.0-4?arch=i386
+- pkg:deb/debian/sdpb@1.0-5%2Bb1?arch=s390x

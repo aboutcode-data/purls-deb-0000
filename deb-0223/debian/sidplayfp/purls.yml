@@ -34,3 +34,4 @@
 - pkg:deb/debian/sidplayfp@2.4.0-1?arch=mipsel
 - pkg:deb/debian/sidplayfp@2.4.0-1?arch=ppc64el
 - pkg:deb/debian/sidplayfp@2.4.0-1?arch=s390x
+- pkg:deb/debian/sidplayfp@3.2.1-1?arch=ppc64el

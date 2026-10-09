@@ -13,3 +13,4 @@
 - pkg:deb/debian/librust-yaml-rust2-dev@0.10.4-1?arch=ppc64el
 - pkg:deb/debian/librust-yaml-rust2-dev@0.10.4-1?arch=riscv64
 - pkg:deb/debian/librust-yaml-rust2-dev@0.10.4-1?arch=s390x
+- pkg:deb/debian/librust-yaml-rust2-dev@0.11.0%2Bds-1?arch=ppc64el

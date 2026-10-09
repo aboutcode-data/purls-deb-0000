@@ -6,3 +6,4 @@
 - pkg:deb/debian/supercell@2.1.1%2B~0.0~git20221028.d8eeb73-2?arch=ppc64el
 - pkg:deb/debian/supercell@2.1.1%2B~0.0~git20221028.d8eeb73-2?arch=riscv64
 - pkg:deb/debian/supercell@2.1.1%2B~0.0~git20221028.d8eeb73-2?arch=s390x
+- pkg:deb/debian/supercell@2.1.2-1%2Bb1?arch=s390x
