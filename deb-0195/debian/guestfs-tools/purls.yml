@@ -29,3 +29,4 @@
 - pkg:deb/debian/guestfs-tools@1.54.0-2?arch=ppc64el
 - pkg:deb/debian/guestfs-tools@1.54.0-2?arch=riscv64
 - pkg:deb/debian/guestfs-tools@1.54.0-2?arch=s390x
+- pkg:deb/debian/guestfs-tools@1.56.1-1?arch=riscv64

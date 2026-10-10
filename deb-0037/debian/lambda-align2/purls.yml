@@ -14,3 +14,4 @@
 - pkg:deb/debian/lambda-align2@2.0.1-3?arch=ppc64el
 - pkg:deb/debian/lambda-align2@2.0.1-3?arch=riscv64
 - pkg:deb/debian/lambda-align2@2.0.1-3?arch=s390x
+- pkg:deb/debian/lambda-align2@2.0.1-5?arch=riscv64
