@@ -16,3 +16,4 @@
 - pkg:deb/debian/libqt5contact5-plugin-sqlite@0.3.25-2?arch=amd64
 - pkg:deb/debian/libqt5contact5-plugin-sqlite@0.3.25-2?arch=arm64
 - pkg:deb/debian/libqt5contact5-plugin-sqlite@0.3.25-2?arch=armhf
+- pkg:deb/debian/libqt5contact5-plugin-sqlite@0.3.25-2?arch=riscv64
