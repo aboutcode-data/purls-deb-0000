@@ -1,1 +1,2 @@
 - pkg:deb/debian/libmastodon-client-perl@0.017-2?arch=all
+- pkg:deb/debian/libmastodon-client-perl@0.019-1?arch=all
