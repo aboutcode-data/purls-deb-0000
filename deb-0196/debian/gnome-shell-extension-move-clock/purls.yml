@@ -1,2 +1,3 @@
 - pkg:deb/debian/gnome-shell-extension-move-clock@1.01-2?arch=all
 - pkg:deb/debian/gnome-shell-extension-move-clock@49.0-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-move-clock@51.0-1?arch=all
