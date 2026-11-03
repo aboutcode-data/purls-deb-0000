@@ -22,3 +22,11 @@
 - pkg:deb/debian/vym@2.9.598-1?arch=ppc64el
 - pkg:deb/debian/vym@2.9.598-1?arch=riscv64
 - pkg:deb/debian/vym@2.9.598-1?arch=s390x
+- pkg:deb/debian/vym@3.0.0%2Bgit20260819-2?arch=amd64
+- pkg:deb/debian/vym@3.0.0%2Bgit20260819-2?arch=arm64
+- pkg:deb/debian/vym@3.0.0%2Bgit20260819-2?arch=armhf
+- pkg:deb/debian/vym@3.0.0%2Bgit20260819-2?arch=i386
+- pkg:deb/debian/vym@3.0.0%2Bgit20260819-2?arch=loong64
+- pkg:deb/debian/vym@3.0.0%2Bgit20260819-2?arch=ppc64el
+- pkg:deb/debian/vym@3.0.0%2Bgit20260819-2?arch=riscv64
+- pkg:deb/debian/vym@3.0.0%2Bgit20260819-2?arch=s390x
