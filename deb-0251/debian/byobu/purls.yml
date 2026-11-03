@@ -1,3 +1,4 @@
 - pkg:deb/debian/byobu@5.133-1.1?arch=all
 - pkg:deb/debian/byobu@5.133-1.2?arch=all
 - pkg:deb/debian/byobu@5.133-1?arch=all
+- pkg:deb/debian/byobu@7.23-1?arch=all
