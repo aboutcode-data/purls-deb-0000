@@ -1,1 +1,2 @@
 - pkg:deb/debian/lokalize-data@25.04.0-1?arch=all
+- pkg:deb/debian/lokalize-data@26.08.2-1?arch=all

@@ -1,2 +1,4 @@
 - pkg:deb/debian/python3-locust@2.12.1-1?arch=all
 - pkg:deb/debian/python3-locust@2.24.0-1?arch=all
+- pkg:deb/debian/python3-locust@2.46.7-1?arch=all
+- pkg:deb/debian/python3-locust@2.46.7-2?arch=all
