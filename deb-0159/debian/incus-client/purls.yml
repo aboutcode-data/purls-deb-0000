@@ -74,3 +74,4 @@
 - pkg:deb/debian/incus-client@7.6.0-1~exp1?arch=i386
 - pkg:deb/debian/incus-client@7.6.0-1~exp1?arch=loong64
 - pkg:deb/debian/incus-client@7.6.0-1~exp1?arch=ppc64el
+- pkg:deb/debian/incus-client@7.6.0-1~exp1?arch=s390x

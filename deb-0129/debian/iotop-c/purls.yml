@@ -36,3 +36,12 @@
 - pkg:deb/debian/iotop-c@1.31-1~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/iotop-c@1.31-1~bpo13%2B1?arch=riscv64
 - pkg:deb/debian/iotop-c@1.31-1~bpo13%2B1?arch=s390x
+- pkg:deb/debian/iotop-c@1.33-1?arch=amd64
+- pkg:deb/debian/iotop-c@1.33-1?arch=arm64
+- pkg:deb/debian/iotop-c@1.33-1?arch=armhf
+- pkg:deb/debian/iotop-c@1.33-1?arch=i386
+- pkg:deb/debian/iotop-c@1.33-1?arch=loong64
+- pkg:deb/debian/iotop-c@1.33-1?arch=ppc64el
+- pkg:deb/debian/iotop-c@1.33-1?arch=riscv64
+- pkg:deb/debian/iotop-c@1.33-1?arch=s390x
+- pkg:deb/debian/iotop-c@1.33-1~bpo13%2B1?arch=amd64
