@@ -2,3 +2,4 @@
 - pkg:deb/debian/libminion-perl@10.25%2Bdfsg-4?arch=all
 - pkg:deb/debian/libminion-perl@10.31%2Bdfsg-2?arch=all
 - pkg:deb/debian/libminion-perl@10.31%2Bdfsg-2~bpo12%2B1?arch=all
+- pkg:deb/debian/libminion-perl@12.0%2Bdfsg-1?arch=all
