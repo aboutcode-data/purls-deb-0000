@@ -1,2 +1,3 @@
 - pkg:deb/debian/ruby-omniauth-wordpress@0.2.2-2.1?arch=all
 - pkg:deb/debian/ruby-omniauth-wordpress@0.2.2-2?arch=all
+- pkg:deb/debian/ruby-omniauth-wordpress@0.2.2-4?arch=all
