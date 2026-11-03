@@ -3,3 +3,4 @@
 - pkg:deb/debian/golang-golang-x-sys-dev@0.22.0-1~bpo12%2B1?arch=all
 - pkg:deb/debian/golang-golang-x-sys-dev@0.3.0-1?arch=all
 - pkg:deb/debian/golang-golang-x-sys-dev@0.38.0-1?arch=all
+- pkg:deb/debian/golang-golang-x-sys-dev@0.49.0%2Bdfsg-2?arch=all
