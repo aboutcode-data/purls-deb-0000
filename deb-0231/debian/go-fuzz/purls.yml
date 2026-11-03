@@ -1,0 +1,7 @@
+- pkg:deb/debian/go-fuzz@0.0~git20240924.e577bee%2Bds2-2?arch=amd64
+- pkg:deb/debian/go-fuzz@0.0~git20240924.e577bee%2Bds2-2?arch=arm64
+- pkg:deb/debian/go-fuzz@0.0~git20240924.e577bee%2Bds2-2?arch=armhf
+- pkg:deb/debian/go-fuzz@0.0~git20240924.e577bee%2Bds2-2?arch=i386
+- pkg:deb/debian/go-fuzz@0.0~git20240924.e577bee%2Bds2-2?arch=loong64
+- pkg:deb/debian/go-fuzz@0.0~git20240924.e577bee%2Bds2-2?arch=ppc64el
+- pkg:deb/debian/go-fuzz@0.0~git20240924.e577bee%2Bds2-2?arch=s390x
