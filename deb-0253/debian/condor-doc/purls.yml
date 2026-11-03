@@ -1,1 +1,2 @@
 - pkg:deb/debian/condor-doc@23.9.6%2Bdfsg-2.1?arch=all
+- pkg:deb/debian/condor-doc@25.14.1%2Bdfsg-1?arch=all
