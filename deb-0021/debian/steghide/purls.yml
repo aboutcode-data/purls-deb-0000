@@ -4,6 +4,7 @@
 - pkg:deb/debian/steghide@0.5.1%2Bgit20240220-3?arch=i386
 - pkg:deb/debian/steghide@0.5.1%2Bgit20240220-3?arch=loong64
 - pkg:deb/debian/steghide@0.5.1%2Bgit20240220-3?arch=ppc64el
+- pkg:deb/debian/steghide@0.5.1%2Bgit20240220-3?arch=riscv64
 - pkg:deb/debian/steghide@0.5.1%2Bgit20240220-3?arch=s390x
 - pkg:deb/debian/steghide@0.5.1-15%2Bb1?arch=riscv64
 - pkg:deb/debian/steghide@0.5.1-15?arch=amd64
