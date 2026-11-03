@@ -1,3 +1,4 @@
 - pkg:deb/debian/libmaven-filtering-java@3.1.1-1?arch=all
 - pkg:deb/debian/libmaven-filtering-java@3.3.0-1?arch=all
 - pkg:deb/debian/libmaven-filtering-java@3.4.0-1?arch=all
+- pkg:deb/debian/libmaven-filtering-java@3.5.1-1?arch=all
