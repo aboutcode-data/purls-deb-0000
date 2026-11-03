@@ -2,3 +2,4 @@
 - pkg:deb/debian/svxlink-gpio@19.09.2-1?arch=all
 - pkg:deb/debian/svxlink-gpio@24.02-5?arch=all
 - pkg:deb/debian/svxlink-gpio@25.05.1-2?arch=all
+- pkg:deb/debian/svxlink-gpio@26.05.2-1?arch=all
