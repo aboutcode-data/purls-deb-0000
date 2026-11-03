@@ -33,3 +33,4 @@
 - pkg:deb/debian/kdetoys@26.04.0%2B5.174?arch=loong64
 - pkg:deb/debian/kdetoys@26.04.0%2B5.174?arch=ppc64el
 - pkg:deb/debian/kdetoys@26.04.0%2B5.174?arch=riscv64
+- pkg:deb/debian/kdetoys@26.04.0%2B5.174?arch=s390x
