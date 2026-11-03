@@ -27,3 +27,11 @@
 - pkg:deb/debian/ngmlr@0.2.7%2Bgit20210816.a2a31fb%2Bdfsg-4~0exp0simde?arch=i386
 - pkg:deb/debian/ngmlr@0.2.7%2Bgit20210816.a2a31fb%2Bdfsg-4~0exp0simde?arch=ppc64el
 - pkg:deb/debian/ngmlr@0.2.7%2Bgit20210816.a2a31fb%2Bdfsg-4~0exp0simde?arch=s390x
+- pkg:deb/debian/ngmlr@0.2.7%2Bgit20210816.a2a31fb%2Bdfsg-5%2Bb1?arch=arm64
+- pkg:deb/debian/ngmlr@0.2.7%2Bgit20210816.a2a31fb%2Bdfsg-5%2Bb1?arch=riscv64
+- pkg:deb/debian/ngmlr@0.2.7%2Bgit20210816.a2a31fb%2Bdfsg-5%2Bb1?arch=s390x
+- pkg:deb/debian/ngmlr@0.2.7%2Bgit20210816.a2a31fb%2Bdfsg-5?arch=amd64
+- pkg:deb/debian/ngmlr@0.2.7%2Bgit20210816.a2a31fb%2Bdfsg-5?arch=armhf
+- pkg:deb/debian/ngmlr@0.2.7%2Bgit20210816.a2a31fb%2Bdfsg-5?arch=i386
+- pkg:deb/debian/ngmlr@0.2.7%2Bgit20210816.a2a31fb%2Bdfsg-5?arch=loong64
+- pkg:deb/debian/ngmlr@0.2.7%2Bgit20210816.a2a31fb%2Bdfsg-5?arch=ppc64el

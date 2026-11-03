@@ -13,6 +13,14 @@
 - pkg:deb/debian/nickle@2.107?arch=ppc64el
 - pkg:deb/debian/nickle@2.107?arch=riscv64
 - pkg:deb/debian/nickle@2.107?arch=s390x
+- pkg:deb/debian/nickle@2.110?arch=amd64
+- pkg:deb/debian/nickle@2.110?arch=arm64
+- pkg:deb/debian/nickle@2.110?arch=armhf
+- pkg:deb/debian/nickle@2.110?arch=i386
+- pkg:deb/debian/nickle@2.110?arch=loong64
+- pkg:deb/debian/nickle@2.110?arch=ppc64el
+- pkg:deb/debian/nickle@2.110?arch=riscv64
+- pkg:deb/debian/nickle@2.110?arch=s390x
 - pkg:deb/debian/nickle@2.90?arch=amd64
 - pkg:deb/debian/nickle@2.90?arch=arm64
 - pkg:deb/debian/nickle@2.90?arch=armhf
