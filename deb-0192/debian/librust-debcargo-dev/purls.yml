@@ -40,3 +40,5 @@
 - pkg:deb/debian/librust-debcargo-dev@2.8.4-5?arch=i386
 - pkg:deb/debian/librust-debcargo-dev@2.8.4-5?arch=loong64
 - pkg:deb/debian/librust-debcargo-dev@2.8.4-5?arch=ppc64el
+- pkg:deb/debian/librust-debcargo-dev@2.8.4-5?arch=riscv64
+- pkg:deb/debian/librust-debcargo-dev@2.8.4-5?arch=s390x
