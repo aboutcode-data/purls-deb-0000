@@ -1,1 +1,3 @@
 - pkg:deb/debian/exim4-mod-gsasl@4.100.1-2~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/exim4-mod-gsasl@4.100.1-4?arch=amd64
+- pkg:deb/debian/exim4-mod-gsasl@4.100.1-4?arch=arm64
