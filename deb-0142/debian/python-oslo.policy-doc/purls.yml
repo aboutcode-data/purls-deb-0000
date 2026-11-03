@@ -3,3 +3,4 @@
 - pkg:deb/debian/python-oslo.policy-doc@4.5.1-3?arch=all
 - pkg:deb/debian/python-oslo.policy-doc@4.6.0-2?arch=all
 - pkg:deb/debian/python-oslo.policy-doc@4.6.0-3?arch=all
+- pkg:deb/debian/python-oslo.policy-doc@6.0.1-4?arch=all
