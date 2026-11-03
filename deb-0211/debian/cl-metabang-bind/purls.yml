@@ -1,3 +1,4 @@
 - pkg:deb/debian/cl-metabang-bind@20171130-1.1?arch=all
 - pkg:deb/debian/cl-metabang-bind@20200101.git9ab6e64-1?arch=all
 - pkg:deb/debian/cl-metabang-bind@20230508.git0819642-1?arch=all
+- pkg:deb/debian/cl-metabang-bind@20260620.gitaf3f67d-1?arch=all
