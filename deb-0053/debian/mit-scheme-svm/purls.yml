@@ -1,1 +1,2 @@
 - pkg:deb/debian/mit-scheme-svm@12.1-13?arch=ppc64el
+- pkg:deb/debian/mit-scheme-svm@12.1-14?arch=riscv64
