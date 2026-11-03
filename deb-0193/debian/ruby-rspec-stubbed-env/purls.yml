@@ -1,2 +1,3 @@
 - pkg:deb/debian/ruby-rspec-stubbed-env@1.0.0-2?arch=all
+- pkg:deb/debian/ruby-rspec-stubbed-env@1.0.17-1?arch=all
 - pkg:deb/debian/ruby-rspec-stubbed-env@1.0.4-1?arch=all
