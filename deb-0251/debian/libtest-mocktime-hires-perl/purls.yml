@@ -1,1 +1,2 @@
 - pkg:deb/debian/libtest-mocktime-hires-perl@0.08-2?arch=all
+- pkg:deb/debian/libtest-mocktime-hires-perl@0.08-3?arch=all
