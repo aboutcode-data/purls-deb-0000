@@ -31,3 +31,6 @@
 - pkg:deb/debian/libaubio-dev@0.4.9-6%2Bb3?arch=armhf
 - pkg:deb/debian/libaubio-dev@0.4.9-6%2Bb3?arch=i386
 - pkg:deb/debian/libaubio-dev@0.4.9-6%2Bb3?arch=loong64
+- pkg:deb/debian/libaubio-dev@0.4.9-6%2Bb3?arch=ppc64el
+- pkg:deb/debian/libaubio-dev@0.4.9-6%2Bb3?arch=riscv64
+- pkg:deb/debian/libaubio-dev@0.4.9-6%2Bb3?arch=s390x
