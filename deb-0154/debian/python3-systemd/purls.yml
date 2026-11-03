@@ -2,6 +2,7 @@
 - pkg:deb/debian/python3-systemd@234-3%2Bb4?arch=arm64
 - pkg:deb/debian/python3-systemd@234-3%2Bb4?arch=armhf
 - pkg:deb/debian/python3-systemd@234-3%2Bb4?arch=i386
+- pkg:deb/debian/python3-systemd@235-1%2Bb10?arch=arm64
 - pkg:deb/debian/python3-systemd@235-1%2Bb2?arch=amd64
 - pkg:deb/debian/python3-systemd@235-1%2Bb2?arch=arm64
 - pkg:deb/debian/python3-systemd@235-1%2Bb2?arch=armel
@@ -11,6 +12,7 @@
 - pkg:deb/debian/python3-systemd@235-1%2Bb2?arch=mipsel
 - pkg:deb/debian/python3-systemd@235-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/python3-systemd@235-1%2Bb2?arch=s390x
+- pkg:deb/debian/python3-systemd@235-1%2Bb4?arch=loong64
 - pkg:deb/debian/python3-systemd@235-1%2Bb5?arch=riscv64
 - pkg:deb/debian/python3-systemd@235-1%2Bb6?arch=amd64
 - pkg:deb/debian/python3-systemd@235-1%2Bb6?arch=armel
@@ -26,3 +28,9 @@
 - pkg:deb/debian/python3-systemd@235-1%2Bb7?arch=ppc64el
 - pkg:deb/debian/python3-systemd@235-1%2Bb7?arch=s390x
 - pkg:deb/debian/python3-systemd@235-1%2Bb8?arch=arm64
+- pkg:deb/debian/python3-systemd@235-1%2Bb8?arch=riscv64
+- pkg:deb/debian/python3-systemd@235-1%2Bb9?arch=amd64
+- pkg:deb/debian/python3-systemd@235-1%2Bb9?arch=armhf
+- pkg:deb/debian/python3-systemd@235-1%2Bb9?arch=i386
+- pkg:deb/debian/python3-systemd@235-1%2Bb9?arch=ppc64el
+- pkg:deb/debian/python3-systemd@235-1%2Bb9?arch=s390x
