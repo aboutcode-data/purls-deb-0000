@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-hpke-dev@0.14.0%2Bds-1?arch=all
+- pkg:deb/debian/librust-hpke-dev@0.15.1%2Bds-1?arch=all
