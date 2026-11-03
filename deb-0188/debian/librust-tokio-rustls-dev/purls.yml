@@ -25,3 +25,4 @@
 - pkg:deb/debian/librust-tokio-rustls-dev@0.26.6-1?arch=loong64
 - pkg:deb/debian/librust-tokio-rustls-dev@0.26.6-1?arch=ppc64el
 - pkg:deb/debian/librust-tokio-rustls-dev@0.26.6-1?arch=riscv64
+- pkg:deb/debian/librust-tokio-rustls-dev@0.26.6-1?arch=s390x
