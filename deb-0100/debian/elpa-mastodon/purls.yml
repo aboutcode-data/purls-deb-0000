@@ -2,3 +2,4 @@
 - pkg:deb/debian/elpa-mastodon@2.0.1-1?arch=all
 - pkg:deb/debian/elpa-mastodon@2.0.7-1?arch=all
 - pkg:deb/debian/elpa-mastodon@2.1.6-1?arch=all
+- pkg:deb/debian/elpa-mastodon@2.1.8-1?arch=all
