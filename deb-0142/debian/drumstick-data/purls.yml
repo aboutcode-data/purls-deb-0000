@@ -1,2 +1,3 @@
 - pkg:deb/debian/drumstick-data@2.10.0-1?arch=all
+- pkg:deb/debian/drumstick-data@2.11.1-1?arch=all
 - pkg:deb/debian/drumstick-data@2.7.2-1?arch=all
