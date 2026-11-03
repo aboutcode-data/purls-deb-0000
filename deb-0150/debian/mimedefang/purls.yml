@@ -27,3 +27,10 @@
 - pkg:deb/debian/mimedefang@3.6-2?arch=riscv64
 - pkg:deb/debian/mimedefang@3.6-2?arch=s390x
 - pkg:deb/debian/mimedefang@3.6-3?arch=amd64
+- pkg:deb/debian/mimedefang@3.6-3?arch=arm64
+- pkg:deb/debian/mimedefang@3.6-3?arch=armhf
+- pkg:deb/debian/mimedefang@3.6-3?arch=i386
+- pkg:deb/debian/mimedefang@3.6-3?arch=loong64
+- pkg:deb/debian/mimedefang@3.6-3?arch=ppc64el
+- pkg:deb/debian/mimedefang@3.6-3?arch=riscv64
+- pkg:deb/debian/mimedefang@3.6-3?arch=s390x
