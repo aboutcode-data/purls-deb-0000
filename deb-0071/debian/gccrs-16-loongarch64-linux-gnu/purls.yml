@@ -1,1 +1,2 @@
 - pkg:deb/debian/gccrs-16-loongarch64-linux-gnu@16-20260217-1?arch=loong64
+- pkg:deb/debian/gccrs-16-loongarch64-linux-gnu@16.2.0-4?arch=loong64
