@@ -1,1 +1,2 @@
 - pkg:deb/debian/libtika-java@1.22-2?arch=all
+- pkg:deb/debian/libtika-java@1.22-3?arch=all
