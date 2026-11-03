@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-pynobo@1.8.1-1.1?arch=all
+- pkg:deb/debian/python3-pynobo@1.9.1-1?arch=all

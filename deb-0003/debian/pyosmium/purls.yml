@@ -5,3 +5,5 @@
 - pkg:deb/debian/pyosmium@4.1.1-1~bpo13%2B1?arch=all
 - pkg:deb/debian/pyosmium@4.2.0-2?arch=all
 - pkg:deb/debian/pyosmium@4.2.0-2~bpo13%2B1?arch=all
+- pkg:deb/debian/pyosmium@4.3.2-1?arch=all
+- pkg:deb/debian/pyosmium@4.3.2-1~bpo13%2B1?arch=all
