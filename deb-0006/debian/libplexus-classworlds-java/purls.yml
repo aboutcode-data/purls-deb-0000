@@ -1,2 +1,3 @@
+- pkg:deb/debian/libplexus-classworlds-java@2.12.1-1?arch=all
 - pkg:deb/debian/libplexus-classworlds-java@2.6.0-1?arch=all
 - pkg:deb/debian/libplexus-classworlds-java@2.7.0-1?arch=all
