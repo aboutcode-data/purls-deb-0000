@@ -27,3 +27,5 @@
 - pkg:deb/debian/php8.4-interbase@8.4.27-1~deb13u1?arch=armhf
 - pkg:deb/debian/php8.4-interbase@8.4.27-1~deb13u1?arch=i386
 - pkg:deb/debian/php8.4-interbase@8.4.27-1~deb13u1?arch=ppc64el
+- pkg:deb/debian/php8.4-interbase@8.4.27-1~deb13u1?arch=riscv64
+- pkg:deb/debian/php8.4-interbase@8.4.27-1~deb13u1?arch=s390x
