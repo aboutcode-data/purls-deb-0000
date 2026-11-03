@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-ruff@0.0.291%2Bdfsg1-4?arch=all
+- pkg:deb/debian/python3-ruff@0.16.10%2Bds-1?arch=all
