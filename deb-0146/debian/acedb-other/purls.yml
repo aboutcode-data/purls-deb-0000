@@ -1,3 +1,11 @@
+- pkg:deb/debian/acedb-other@4.9.39%2Bdfsg.02-13?arch=amd64
+- pkg:deb/debian/acedb-other@4.9.39%2Bdfsg.02-13?arch=arm64
+- pkg:deb/debian/acedb-other@4.9.39%2Bdfsg.02-13?arch=armhf
+- pkg:deb/debian/acedb-other@4.9.39%2Bdfsg.02-13?arch=i386
+- pkg:deb/debian/acedb-other@4.9.39%2Bdfsg.02-13?arch=loong64
+- pkg:deb/debian/acedb-other@4.9.39%2Bdfsg.02-13?arch=ppc64el
+- pkg:deb/debian/acedb-other@4.9.39%2Bdfsg.02-13?arch=riscv64
+- pkg:deb/debian/acedb-other@4.9.39%2Bdfsg.02-13?arch=s390x
 - pkg:deb/debian/acedb-other@4.9.39%2Bdfsg.02-5?arch=amd64
 - pkg:deb/debian/acedb-other@4.9.39%2Bdfsg.02-5?arch=arm64
 - pkg:deb/debian/acedb-other@4.9.39%2Bdfsg.02-5?arch=armhf
