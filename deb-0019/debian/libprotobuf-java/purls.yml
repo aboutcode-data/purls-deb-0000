@@ -3,3 +3,4 @@
 - pkg:deb/debian/libprotobuf-java@3.21.12-14?arch=all
 - pkg:deb/debian/libprotobuf-java@3.21.12-3?arch=all
 - pkg:deb/debian/libprotobuf-java@3.25.4-1?arch=all
+- pkg:deb/debian/libprotobuf-java@4.36.2-3?arch=all
