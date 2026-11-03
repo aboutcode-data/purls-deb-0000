@@ -11,6 +11,8 @@
 - pkg:deb/debian/python3-admesh@0.98.9-2%2Bb13?arch=ppc64el
 - pkg:deb/debian/python3-admesh@0.98.9-2%2Bb13?arch=s390x
 - pkg:deb/debian/python3-admesh@0.98.9-2%2Bb14?arch=arm64
+- pkg:deb/debian/python3-admesh@0.98.9-2%2Bb15?arch=amd64
+- pkg:deb/debian/python3-admesh@0.98.9-2%2Bb15?arch=armhf
 - pkg:deb/debian/python3-admesh@0.98.9-2%2Bb4?arch=amd64
 - pkg:deb/debian/python3-admesh@0.98.9-2%2Bb4?arch=arm64
 - pkg:deb/debian/python3-admesh@0.98.9-2%2Bb4?arch=armhf
