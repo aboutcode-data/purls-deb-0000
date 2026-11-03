@@ -36,6 +36,14 @@
 - pkg:deb/debian/haproxy@3.0.11-1%2Bdeb13u2?arch=ppc64el
 - pkg:deb/debian/haproxy@3.0.11-1%2Bdeb13u2?arch=riscv64
 - pkg:deb/debian/haproxy@3.0.11-1%2Bdeb13u2?arch=s390x
+- pkg:deb/debian/haproxy@3.0.11-1%2Bdeb13u4?arch=amd64
+- pkg:deb/debian/haproxy@3.0.11-1%2Bdeb13u4?arch=arm64
+- pkg:deb/debian/haproxy@3.0.11-1%2Bdeb13u4?arch=armel
+- pkg:deb/debian/haproxy@3.0.11-1%2Bdeb13u4?arch=armhf
+- pkg:deb/debian/haproxy@3.0.11-1%2Bdeb13u4?arch=i386
+- pkg:deb/debian/haproxy@3.0.11-1%2Bdeb13u4?arch=ppc64el
+- pkg:deb/debian/haproxy@3.0.11-1%2Bdeb13u4?arch=riscv64
+- pkg:deb/debian/haproxy@3.0.11-1%2Bdeb13u4?arch=s390x
 - pkg:deb/debian/haproxy@3.2.13-1?arch=amd64
 - pkg:deb/debian/haproxy@3.2.13-1?arch=arm64
 - pkg:deb/debian/haproxy@3.2.13-1?arch=armhf
@@ -44,6 +52,7 @@
 - pkg:deb/debian/haproxy@3.2.13-1?arch=ppc64el
 - pkg:deb/debian/haproxy@3.2.13-1?arch=riscv64
 - pkg:deb/debian/haproxy@3.2.13-1?arch=s390x
+- pkg:deb/debian/haproxy@3.2.26-1?arch=riscv64
 - pkg:deb/debian/haproxy@3.2.9-1?arch=amd64
 - pkg:deb/debian/haproxy@3.2.9-1?arch=arm64
 - pkg:deb/debian/haproxy@3.2.9-1?arch=armhf
