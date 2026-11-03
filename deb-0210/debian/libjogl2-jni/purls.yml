@@ -14,3 +14,9 @@
 - pkg:deb/debian/libjogl2-jni@2.6.0%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/libjogl2-jni@2.6.0%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/libjogl2-jni@2.6.0%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/libjogl2-jni@2.6.0%2Bdfsg1-1?arch=amd64
+- pkg:deb/debian/libjogl2-jni@2.6.0%2Bdfsg1-1?arch=arm64
+- pkg:deb/debian/libjogl2-jni@2.6.0%2Bdfsg1-1?arch=loong64
+- pkg:deb/debian/libjogl2-jni@2.6.0%2Bdfsg1-1?arch=ppc64el
+- pkg:deb/debian/libjogl2-jni@2.6.0%2Bdfsg1-1?arch=riscv64
+- pkg:deb/debian/libjogl2-jni@2.6.0%2Bdfsg1-1?arch=s390x
