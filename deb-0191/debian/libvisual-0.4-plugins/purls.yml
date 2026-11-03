@@ -27,3 +27,10 @@
 - pkg:deb/debian/libvisual-0.4-plugins@0.4.2%2Bdfsg-3?arch=ppc64el
 - pkg:deb/debian/libvisual-0.4-plugins@0.4.2%2Bdfsg-3?arch=riscv64
 - pkg:deb/debian/libvisual-0.4-plugins@0.4.2%2Bdfsg-3?arch=s390x
+- pkg:deb/debian/libvisual-0.4-plugins@0.4.2%2Bdfsg-7?arch=amd64
+- pkg:deb/debian/libvisual-0.4-plugins@0.4.2%2Bdfsg-7?arch=arm64
+- pkg:deb/debian/libvisual-0.4-plugins@0.4.2%2Bdfsg-7?arch=armhf
+- pkg:deb/debian/libvisual-0.4-plugins@0.4.2%2Bdfsg-7?arch=i386
+- pkg:deb/debian/libvisual-0.4-plugins@0.4.2%2Bdfsg-7?arch=loong64
+- pkg:deb/debian/libvisual-0.4-plugins@0.4.2%2Bdfsg-7?arch=ppc64el
+- pkg:deb/debian/libvisual-0.4-plugins@0.4.2%2Bdfsg-7?arch=s390x
