@@ -1,0 +1,5 @@
+- pkg:deb/debian/libosmo-mgcp-client16@1.16.1%2Bdfsg1-2?arch=amd64
+- pkg:deb/debian/libosmo-mgcp-client16@1.16.1%2Bdfsg1-2?arch=arm64
+- pkg:deb/debian/libosmo-mgcp-client16@1.16.1%2Bdfsg1-2?arch=loong64
+- pkg:deb/debian/libosmo-mgcp-client16@1.16.1%2Bdfsg1-2?arch=ppc64el
+- pkg:deb/debian/libosmo-mgcp-client16@1.16.1%2Bdfsg1-2?arch=riscv64
