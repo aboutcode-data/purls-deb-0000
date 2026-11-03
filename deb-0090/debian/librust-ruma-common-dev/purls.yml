@@ -22,3 +22,4 @@
 - pkg:deb/debian/librust-ruma-common-dev@0.10.5-9?arch=ppc64el
 - pkg:deb/debian/librust-ruma-common-dev@0.10.5-9?arch=riscv64
 - pkg:deb/debian/librust-ruma-common-dev@0.10.5-9?arch=s390x
+- pkg:deb/debian/librust-ruma-common-dev@0.20.2%2B0.17.2%2Bds-1?arch=all
