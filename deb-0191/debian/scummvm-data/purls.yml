@@ -2,3 +2,4 @@
 - pkg:deb/debian/scummvm-data@2.7.0%2Bdfsg-1?arch=all
 - pkg:deb/debian/scummvm-data@2.9.0%2Bdfsg-1?arch=all
 - pkg:deb/debian/scummvm-data@2.9.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/scummvm-data@2026.4.0%2Bdfsg-1?arch=all
