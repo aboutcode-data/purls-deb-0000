@@ -37,3 +37,8 @@
 - pkg:deb/debian/monero@0.18.5.3%2B~0%2B20260428-1%2Bb1?arch=riscv64
 - pkg:deb/debian/monero@0.18.5.3%2B~0%2B20260428-1~bpo13%2B1?arch=amd64
 - pkg:deb/debian/monero@0.18.5.3%2B~0%2B20260428-1~bpo13%2B1?arch=arm64
+- pkg:deb/debian/monero@0.18.5.3%2B~0%2B20260428-1~bpo13%2B1?arch=armel
+- pkg:deb/debian/monero@0.18.5.3%2B~0%2B20260428-1~bpo13%2B1?arch=armhf
+- pkg:deb/debian/monero@0.18.5.3%2B~0%2B20260428-1~bpo13%2B1?arch=i386
+- pkg:deb/debian/monero@0.18.5.3%2B~0%2B20260428-1~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/monero@0.18.5.3%2B~0%2B20260428-1~bpo13%2B1?arch=s390x
