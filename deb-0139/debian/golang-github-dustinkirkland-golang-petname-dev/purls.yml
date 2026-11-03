@@ -1,2 +1,3 @@
 - pkg:deb/debian/golang-github-dustinkirkland-golang-petname-dev@2.11-1?arch=all
 - pkg:deb/debian/golang-github-dustinkirkland-golang-petname-dev@2.11~git20191129.8e5a1ed-2?arch=all
+- pkg:deb/debian/golang-github-dustinkirkland-golang-petname-dev@2.14-1?arch=all
