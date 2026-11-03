@@ -1,1 +1,2 @@
 - pkg:deb/debian/asahi-platform-audio@2.1?arch=arm64
+- pkg:deb/debian/asahi-platform-audio@4.0?arch=arm64
