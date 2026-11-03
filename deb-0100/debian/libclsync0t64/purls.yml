@@ -13,3 +13,4 @@
 - pkg:deb/debian/libclsync0t64@0.4.5-2.2?arch=ppc64el
 - pkg:deb/debian/libclsync0t64@0.4.5-2.2?arch=riscv64
 - pkg:deb/debian/libclsync0t64@0.4.5-2.2?arch=s390x
+- pkg:deb/debian/libclsync0t64@0.4.5-3?arch=riscv64
