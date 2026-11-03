@@ -19,3 +19,4 @@
 - pkg:deb/debian/libshairport-dev@1.2.1~git20120510.cbed0c1-4%2Bb2?arch=ppc64el
 - pkg:deb/debian/libshairport-dev@1.2.1~git20120510.cbed0c1-4%2Bb2?arch=riscv64
 - pkg:deb/debian/libshairport-dev@1.2.1~git20120510.cbed0c1-4%2Bb2?arch=s390x
+- pkg:deb/debian/libshairport-dev@1.2.1~git20120510.cbed0c1-4.1?arch=amd64
