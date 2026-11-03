@@ -2,3 +2,5 @@
 - pkg:deb/debian/libsoup-3.0-doc@3.6.5-3?arch=all
 - pkg:deb/debian/libsoup-3.0-doc@3.6.5-5?arch=all
 - pkg:deb/debian/libsoup-3.0-doc@3.6.6-1?arch=all
+- pkg:deb/debian/libsoup-3.0-doc@3.8.0-5?arch=all
+- pkg:deb/debian/libsoup-3.0-doc@3.8.1-1?arch=all
