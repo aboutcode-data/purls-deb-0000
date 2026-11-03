@@ -20,3 +20,4 @@
 - pkg:deb/debian/libgpod4t64@0.8.3-23?arch=ppc64el
 - pkg:deb/debian/libgpod4t64@0.8.3-23?arch=riscv64
 - pkg:deb/debian/libgpod4t64@0.8.3-23?arch=s390x
+- pkg:deb/debian/libgpod4t64@0.8.3-24?arch=riscv64
