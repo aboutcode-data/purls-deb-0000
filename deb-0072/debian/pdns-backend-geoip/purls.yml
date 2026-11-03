@@ -33,3 +33,5 @@
 - pkg:deb/debian/pdns-backend-geoip@5.1.5-1?arch=arm64
 - pkg:deb/debian/pdns-backend-geoip@5.1.5-1?arch=loong64
 - pkg:deb/debian/pdns-backend-geoip@5.1.5-1?arch=ppc64el
+- pkg:deb/debian/pdns-backend-geoip@5.1.5-1?arch=riscv64
+- pkg:deb/debian/pdns-backend-geoip@5.1.5-1?arch=s390x
