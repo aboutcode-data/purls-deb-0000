@@ -1,1 +1,2 @@
 - pkg:deb/debian/libnet-dns-fingerprint-perl@20190131-1.1?arch=all
+- pkg:deb/debian/libnet-dns-fingerprint-perl@20190131-2?arch=all

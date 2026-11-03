@@ -3,3 +3,4 @@
 - pkg:deb/debian/netgen-doc@6.2.2501%2Bdfsg1-12?arch=all
 - pkg:deb/debian/netgen-doc@6.2.2601%2Bdfsg1-2?arch=all
 - pkg:deb/debian/netgen-doc@6.2.2601%2Bdfsg1-3?arch=all
+- pkg:deb/debian/netgen-doc@6.2.2606%2Bdfsg1-3?arch=all
