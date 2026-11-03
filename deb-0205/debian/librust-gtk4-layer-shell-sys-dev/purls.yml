@@ -13,3 +13,11 @@
 - pkg:deb/debian/librust-gtk4-layer-shell-sys-dev@0.4.0-4?arch=ppc64el
 - pkg:deb/debian/librust-gtk4-layer-shell-sys-dev@0.4.0-4?arch=riscv64
 - pkg:deb/debian/librust-gtk4-layer-shell-sys-dev@0.4.0-4?arch=s390x
+- pkg:deb/debian/librust-gtk4-layer-shell-sys-dev@0.6.1-1?arch=amd64
+- pkg:deb/debian/librust-gtk4-layer-shell-sys-dev@0.6.1-1?arch=arm64
+- pkg:deb/debian/librust-gtk4-layer-shell-sys-dev@0.6.1-1?arch=armhf
+- pkg:deb/debian/librust-gtk4-layer-shell-sys-dev@0.6.1-1?arch=i386
+- pkg:deb/debian/librust-gtk4-layer-shell-sys-dev@0.6.1-1?arch=loong64
+- pkg:deb/debian/librust-gtk4-layer-shell-sys-dev@0.6.1-1?arch=ppc64el
+- pkg:deb/debian/librust-gtk4-layer-shell-sys-dev@0.6.1-1?arch=riscv64
+- pkg:deb/debian/librust-gtk4-layer-shell-sys-dev@0.6.1-1?arch=s390x
