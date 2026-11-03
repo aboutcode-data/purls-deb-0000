@@ -31,3 +31,5 @@
 - pkg:deb/debian/libeckit0d@2.5.0-1%2Bb1?arch=arm64
 - pkg:deb/debian/libeckit0d@2.5.0-1%2Bb1?arch=loong64
 - pkg:deb/debian/libeckit0d@2.5.0-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/libeckit0d@2.5.0-1%2Bb1?arch=s390x
+- pkg:deb/debian/libeckit0d@2.5.0-1?arch=riscv64

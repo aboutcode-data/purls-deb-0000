@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-edlio@0.2.1-2?arch=all
+- pkg:deb/debian/python3-edlio@0.3.4-3?arch=all
