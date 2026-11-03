@@ -33,3 +33,7 @@
 - pkg:deb/debian/accountwizard@25.08.3-2?arch=ppc64el
 - pkg:deb/debian/accountwizard@25.08.3-2?arch=riscv64
 - pkg:deb/debian/accountwizard@25.08.3-2?arch=s390x
+- pkg:deb/debian/accountwizard@26.08.2-2?arch=amd64
+- pkg:deb/debian/accountwizard@26.08.2-2?arch=arm64
+- pkg:deb/debian/accountwizard@26.08.2-2?arch=armhf
+- pkg:deb/debian/accountwizard@26.08.2-2?arch=i386
