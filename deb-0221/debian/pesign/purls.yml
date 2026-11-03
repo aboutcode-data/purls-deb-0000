@@ -10,3 +10,10 @@
 - pkg:deb/debian/pesign@116-8.1?arch=i386
 - pkg:deb/debian/pesign@116-8.1?arch=ppc64el
 - pkg:deb/debian/pesign@116-8.1?arch=riscv64
+- pkg:deb/debian/pesign@117-2?arch=amd64
+- pkg:deb/debian/pesign@117-2?arch=arm64
+- pkg:deb/debian/pesign@117-2?arch=armhf
+- pkg:deb/debian/pesign@117-2?arch=i386
+- pkg:deb/debian/pesign@117-2?arch=loong64
+- pkg:deb/debian/pesign@117-2?arch=ppc64el
+- pkg:deb/debian/pesign@117-2?arch=riscv64
