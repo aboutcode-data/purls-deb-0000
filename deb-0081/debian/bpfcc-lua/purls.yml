@@ -14,3 +14,4 @@
 - pkg:deb/debian/bpfcc-lua@0.37.0%2Bds-9?arch=amd64
 - pkg:deb/debian/bpfcc-lua@0.37.0%2Bds-9?arch=arm64
 - pkg:deb/debian/bpfcc-lua@0.37.0%2Bds-9?arch=armhf
+- pkg:deb/debian/bpfcc-lua@0.37.0%2Bds-9?arch=s390x
