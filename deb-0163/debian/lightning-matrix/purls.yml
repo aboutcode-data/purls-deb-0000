@@ -1,0 +1,2 @@
+- pkg:deb/debian/lightning-matrix@0.10.2%2Bdfsg1-1?arch=amd64
+- pkg:deb/debian/lightning-matrix@0.10.2%2Bdfsg1-1?arch=arm64
