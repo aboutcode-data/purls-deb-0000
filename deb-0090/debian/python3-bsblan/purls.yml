@@ -2,3 +2,5 @@
 - pkg:deb/debian/python3-bsblan@3.1.1-1?arch=all
 - pkg:deb/debian/python3-bsblan@4.2.1-1?arch=all
 - pkg:deb/debian/python3-bsblan@5.0.1-1?arch=all
+- pkg:deb/debian/python3-bsblan@6.1.10-2?arch=all
+- pkg:deb/debian/python3-bsblan@6.2.1-1?arch=all
