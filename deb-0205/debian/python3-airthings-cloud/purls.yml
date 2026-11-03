@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-airthings-cloud@0.2.0-2?arch=all
+- pkg:deb/debian/python3-airthings-cloud@0.3.1-1?arch=all
