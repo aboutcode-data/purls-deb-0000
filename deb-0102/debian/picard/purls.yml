@@ -19,3 +19,4 @@
 - pkg:deb/debian/picard@2.8.5-1%2Bb1?arch=mipsel
 - pkg:deb/debian/picard@2.8.5-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/picard@2.8.5-1%2Bb1?arch=s390x
+- pkg:deb/debian/picard@3.0.4-1?arch=riscv64

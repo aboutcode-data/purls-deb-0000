@@ -28,6 +28,7 @@
 - pkg:deb/debian/qosmic@1.6.0%2Bv20261024-1?arch=i386
 - pkg:deb/debian/qosmic@1.6.0%2Bv20261024-1?arch=loong64
 - pkg:deb/debian/qosmic@1.6.0%2Bv20261024-1?arch=ppc64el
+- pkg:deb/debian/qosmic@1.6.0%2Bv20261024-1?arch=riscv64
 - pkg:deb/debian/qosmic@1.6.0%2Bv20261024-1?arch=s390x
 - pkg:deb/debian/qosmic@1.6.0-4%2Bb1?arch=amd64
 - pkg:deb/debian/qosmic@1.6.0-4%2Bb1?arch=arm64

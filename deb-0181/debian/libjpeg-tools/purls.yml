@@ -19,3 +19,4 @@
 - pkg:deb/debian/libjpeg-tools@0.0~git20241105.c719010-1?arch=ppc64el
 - pkg:deb/debian/libjpeg-tools@0.0~git20241105.c719010-1?arch=riscv64
 - pkg:deb/debian/libjpeg-tools@0.0~git20241105.c719010-1?arch=s390x
+- pkg:deb/debian/libjpeg-tools@0.0~git20260724.702114c-1?arch=riscv64

@@ -19,3 +19,4 @@
 - pkg:deb/debian/kbruch@25.04.0-1?arch=ppc64el
 - pkg:deb/debian/kbruch@25.04.0-1?arch=riscv64
 - pkg:deb/debian/kbruch@25.04.0-1?arch=s390x
+- pkg:deb/debian/kbruch@26.08.2-1?arch=riscv64
