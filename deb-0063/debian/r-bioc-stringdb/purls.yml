@@ -1,3 +1,4 @@
 - pkg:deb/debian/r-bioc-stringdb@2.10.1-1?arch=all
 - pkg:deb/debian/r-bioc-stringdb@2.18.0-2?arch=all
 - pkg:deb/debian/r-bioc-stringdb@2.24.2-1?arch=all
+- pkg:deb/debian/r-bioc-stringdb@2.24.3-1?arch=all
