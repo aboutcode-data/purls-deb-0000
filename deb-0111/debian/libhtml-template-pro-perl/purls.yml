@@ -11,6 +11,7 @@
 - pkg:deb/debian/libhtml-template-pro-perl@0.9524-1%2Bb2?arch=mipsel
 - pkg:deb/debian/libhtml-template-pro-perl@0.9524-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/libhtml-template-pro-perl@0.9524-1%2Bb2?arch=s390x
+- pkg:deb/debian/libhtml-template-pro-perl@0.9524-1%2Bb3?arch=loong64
 - pkg:deb/debian/libhtml-template-pro-perl@0.9524-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libhtml-template-pro-perl@0.9524-1%2Bb5?arch=amd64
 - pkg:deb/debian/libhtml-template-pro-perl@0.9524-1%2Bb5?arch=arm64

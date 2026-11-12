@@ -19,3 +19,8 @@
 - pkg:deb/debian/libhtml-tidy-perl@1.60-5%2Bb6?arch=arm64
 - pkg:deb/debian/libhtml-tidy-perl@1.60-5%2Bb6?arch=armhf
 - pkg:deb/debian/libhtml-tidy-perl@1.60-5%2Bb6?arch=i386
+- pkg:deb/debian/libhtml-tidy-perl@1.60-5%2Bb7?arch=ppc64el
+- pkg:deb/debian/libhtml-tidy-perl@1.60-5%2Bb8?arch=amd64
+- pkg:deb/debian/libhtml-tidy-perl@1.60-5%2Bb8?arch=armhf
+- pkg:deb/debian/libhtml-tidy-perl@1.60-5%2Bb8?arch=i386
+- pkg:deb/debian/libhtml-tidy-perl@1.60-5%2Bb9?arch=arm64

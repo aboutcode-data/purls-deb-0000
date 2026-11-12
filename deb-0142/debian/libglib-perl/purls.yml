@@ -19,6 +19,7 @@
 - pkg:deb/debian/libglib-perl@1.329.3-3%2Bb3?arch=ppc64el
 - pkg:deb/debian/libglib-perl@1.329.3-3%2Bb3?arch=riscv64
 - pkg:deb/debian/libglib-perl@1.329.3-3%2Bb3?arch=s390x
+- pkg:deb/debian/libglib-perl@1.329.4-1%2Bb3?arch=loong64
 - pkg:deb/debian/libglib-perl@1.329.4-1?arch=amd64
 - pkg:deb/debian/libglib-perl@1.329.4-1?arch=arm64
 - pkg:deb/debian/libglib-perl@1.329.4-1?arch=armhf
