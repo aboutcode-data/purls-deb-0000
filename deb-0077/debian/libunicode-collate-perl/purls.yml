@@ -19,3 +19,5 @@
 - pkg:deb/debian/libunicode-collate-perl@1.31-1%2Bb5?arch=i386
 - pkg:deb/debian/libunicode-collate-perl@1.31-1%2Bb5?arch=ppc64el
 - pkg:deb/debian/libunicode-collate-perl@1.31-1%2Bb5?arch=s390x
+- pkg:deb/debian/libunicode-collate-perl@1.31-1%2Bb7?arch=amd64
+- pkg:deb/debian/libunicode-collate-perl@1.31-1%2Bb7?arch=ppc64el
