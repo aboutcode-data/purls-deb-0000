@@ -19,6 +19,7 @@
 - pkg:deb/debian/libfile-mmagic-xs-perl@0.09008-4%2Bb5?arch=i386
 - pkg:deb/debian/libfile-mmagic-xs-perl@0.09008-4%2Bb5?arch=ppc64el
 - pkg:deb/debian/libfile-mmagic-xs-perl@0.09008-4%2Bb5?arch=s390x
+- pkg:deb/debian/libfile-mmagic-xs-perl@0.09008-5%2Bb3?arch=loong64
 - pkg:deb/debian/libfile-mmagic-xs-perl@0.09008-5?arch=amd64
 - pkg:deb/debian/libfile-mmagic-xs-perl@0.09008-5?arch=arm64
 - pkg:deb/debian/libfile-mmagic-xs-perl@0.09008-5?arch=armhf
