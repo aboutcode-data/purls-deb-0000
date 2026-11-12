@@ -1,3 +1,5 @@
+- pkg:deb/debian/librg-blast-parser-perl@0.03-10%2Bb2?arch=i386
+- pkg:deb/debian/librg-blast-parser-perl@0.03-10%2Bb3?arch=loong64
 - pkg:deb/debian/librg-blast-parser-perl@0.03-10?arch=amd64
 - pkg:deb/debian/librg-blast-parser-perl@0.03-10?arch=arm64
 - pkg:deb/debian/librg-blast-parser-perl@0.03-10?arch=armhf

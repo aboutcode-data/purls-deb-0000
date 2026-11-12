@@ -10,6 +10,7 @@
 - pkg:deb/debian/libperlio-layers-perl@0.012-3%2Bb3?arch=ppc64el
 - pkg:deb/debian/libperlio-layers-perl@0.012-3%2Bb3?arch=riscv64
 - pkg:deb/debian/libperlio-layers-perl@0.012-3%2Bb3?arch=s390x
+- pkg:deb/debian/libperlio-layers-perl@0.012-3%2Bb5?arch=i386
 - pkg:deb/debian/libperlio-layers-perl@0.012-3?arch=amd64
 - pkg:deb/debian/libperlio-layers-perl@0.012-3?arch=arm64
 - pkg:deb/debian/libperlio-layers-perl@0.012-3?arch=armel

@@ -11,6 +11,7 @@
 - pkg:deb/debian/libperl-destruct-level-perl@0.02-3%2Bb1?arch=mipsel
 - pkg:deb/debian/libperl-destruct-level-perl@0.02-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/libperl-destruct-level-perl@0.02-3%2Bb1?arch=s390x
+- pkg:deb/debian/libperl-destruct-level-perl@0.02-3%2Bb3?arch=loong64
 - pkg:deb/debian/libperl-destruct-level-perl@0.02-3%2Bb4?arch=armel
 - pkg:deb/debian/libperl-destruct-level-perl@0.02-3%2Bb4?arch=ppc64el
 - pkg:deb/debian/libperl-destruct-level-perl@0.02-3%2Bb4?arch=riscv64
@@ -20,3 +21,4 @@
 - pkg:deb/debian/libperl-destruct-level-perl@0.02-3%2Bb5?arch=armhf
 - pkg:deb/debian/libperl-destruct-level-perl@0.02-3%2Bb5?arch=i386
 - pkg:deb/debian/libperl-destruct-level-perl@0.02-3%2Bb5?arch=ppc64el
+- pkg:deb/debian/libperl-destruct-level-perl@0.02-3%2Bb7?arch=i386

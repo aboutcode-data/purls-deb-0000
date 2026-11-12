@@ -13,3 +13,5 @@
 - pkg:deb/debian/libopengl-modern-perl@0.0401-1?arch=ppc64el
 - pkg:deb/debian/libopengl-modern-perl@0.0401-1?arch=riscv64
 - pkg:deb/debian/libopengl-modern-perl@0.0401-1?arch=s390x
+- pkg:deb/debian/libopengl-modern-perl@0.0405-1%2Bb2?arch=i386
+- pkg:deb/debian/libopengl-modern-perl@0.0405-1%2Bb2?arch=loong64
