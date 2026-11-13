@@ -19,6 +19,7 @@
 - pkg:deb/debian/libhtml-parser-perl@3.83-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/libhtml-parser-perl@3.83-1%2Bb2?arch=riscv64
 - pkg:deb/debian/libhtml-parser-perl@3.83-1%2Bb2?arch=s390x
+- pkg:deb/debian/libhtml-parser-perl@3.86-1%2Bb1?arch=s390x
 - pkg:deb/debian/libhtml-parser-perl@3.86-1?arch=amd64
 - pkg:deb/debian/libhtml-parser-perl@3.86-1?arch=arm64
 - pkg:deb/debian/libhtml-parser-perl@3.86-1?arch=armhf

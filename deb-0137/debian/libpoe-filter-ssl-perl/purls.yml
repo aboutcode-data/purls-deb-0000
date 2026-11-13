@@ -20,3 +20,4 @@
 - pkg:deb/debian/libpoe-filter-ssl-perl@0.41-3?arch=mipsel
 - pkg:deb/debian/libpoe-filter-ssl-perl@0.41-3?arch=ppc64el
 - pkg:deb/debian/libpoe-filter-ssl-perl@0.41-3?arch=s390x
+- pkg:deb/debian/libpoe-filter-ssl-perl@0.41-5%2Bb2?arch=s390x

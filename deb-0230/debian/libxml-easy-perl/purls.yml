@@ -19,3 +19,4 @@
 - pkg:deb/debian/libxml-easy-perl@0.011-4%2Bb1?arch=ppc64el
 - pkg:deb/debian/libxml-easy-perl@0.011-4%2Bb1?arch=riscv64
 - pkg:deb/debian/libxml-easy-perl@0.011-4%2Bb1?arch=s390x
+- pkg:deb/debian/libxml-easy-perl@0.014-1%2Bb2?arch=s390x
