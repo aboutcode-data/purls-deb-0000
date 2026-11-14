@@ -37,3 +37,4 @@
 - pkg:deb/debian/elinks@0.19.1-2.1%2Bb2?arch=arm64
 - pkg:deb/debian/elinks@0.19.1-2.1%2Bb2?arch=armhf
 - pkg:deb/debian/elinks@0.19.1-2.1%2Bb2?arch=ppc64el
+- pkg:deb/debian/elinks@0.19.1-2.1%2Bb2?arch=riscv64
