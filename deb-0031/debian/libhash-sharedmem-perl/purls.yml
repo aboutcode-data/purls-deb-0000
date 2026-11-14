@@ -14,3 +14,4 @@
 - pkg:deb/debian/libhash-sharedmem-perl@0.005-1%2Bb4?arch=ppc64el
 - pkg:deb/debian/libhash-sharedmem-perl@0.005-1%2Bb4?arch=s390x
 - pkg:deb/debian/libhash-sharedmem-perl@0.005-1%2Bb5?arch=amd64
+- pkg:deb/debian/libhash-sharedmem-perl@0.007-2%2Bb1?arch=riscv64

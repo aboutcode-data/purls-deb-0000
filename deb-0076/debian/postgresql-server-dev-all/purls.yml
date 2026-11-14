@@ -8,6 +8,7 @@
 - pkg:deb/debian/postgresql-server-dev-all@248%2Bdeb12u1?arch=mipsel
 - pkg:deb/debian/postgresql-server-dev-all@248%2Bdeb12u1?arch=ppc64el
 - pkg:deb/debian/postgresql-server-dev-all@248%2Bdeb12u1?arch=s390x
+- pkg:deb/debian/postgresql-server-dev-all@278%2Bdeb13u1?arch=all
 - pkg:deb/debian/postgresql-server-dev-all@278?arch=all
 - pkg:deb/debian/postgresql-server-dev-all@287?arch=all
 - pkg:deb/debian/postgresql-server-dev-all@289?arch=all
