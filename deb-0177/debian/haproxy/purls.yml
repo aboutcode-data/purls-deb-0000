@@ -53,6 +53,7 @@
 - pkg:deb/debian/haproxy@3.2.13-1?arch=riscv64
 - pkg:deb/debian/haproxy@3.2.13-1?arch=s390x
 - pkg:deb/debian/haproxy@3.2.26-1?arch=riscv64
+- pkg:deb/debian/haproxy@3.2.27-1?arch=s390x
 - pkg:deb/debian/haproxy@3.2.9-1?arch=amd64
 - pkg:deb/debian/haproxy@3.2.9-1?arch=arm64
 - pkg:deb/debian/haproxy@3.2.9-1?arch=armhf
@@ -75,3 +76,4 @@
 - pkg:deb/debian/haproxy@3.3.4-1?arch=ppc64el
 - pkg:deb/debian/haproxy@3.3.4-1?arch=riscv64
 - pkg:deb/debian/haproxy@3.3.4-1?arch=s390x
+- pkg:deb/debian/haproxy@3.4.8-1?arch=ppc64el

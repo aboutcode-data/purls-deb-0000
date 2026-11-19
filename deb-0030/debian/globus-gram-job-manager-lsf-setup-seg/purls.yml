@@ -19,3 +19,4 @@
 - pkg:deb/debian/globus-gram-job-manager-lsf-setup-seg@3.0-5%2Bb1?arch=ppc64el
 - pkg:deb/debian/globus-gram-job-manager-lsf-setup-seg@3.0-5%2Bb1?arch=riscv64
 - pkg:deb/debian/globus-gram-job-manager-lsf-setup-seg@3.0-5%2Bb1?arch=s390x
+- pkg:deb/debian/globus-gram-job-manager-lsf-setup-seg@3.2-1?arch=riscv64

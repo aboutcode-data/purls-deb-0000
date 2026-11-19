@@ -1,0 +1,2 @@
+- pkg:deb/debian/libc4core0.6@0.6.0-5?arch=loong64
+- pkg:deb/debian/libc4core0.6@0.6.0-5?arch=s390x
