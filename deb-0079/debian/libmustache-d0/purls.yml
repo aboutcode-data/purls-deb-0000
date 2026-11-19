@@ -21,3 +21,4 @@
 - pkg:deb/debian/libmustache-d0@0.1.4-1%2Bb8?arch=amd64
 - pkg:deb/debian/libmustache-d0@0.1.4-1%2Bb8?arch=arm64
 - pkg:deb/debian/libmustache-d0@0.1.4-1%2Bb8?arch=i386
+- pkg:deb/debian/libmustache-d0@0.1.5-1?arch=s390x
