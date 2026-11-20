@@ -8,3 +8,4 @@
 - pkg:deb/debian/polygen@1.0.6.ds2-25%2Bb3?arch=ppc64el
 - pkg:deb/debian/polygen@1.0.6.ds2-25%2Bb3?arch=riscv64
 - pkg:deb/debian/polygen@1.0.6.ds2-25%2Bb3?arch=s390x
+- pkg:deb/debian/polygen@1.0.6.ds2-25%2Bb6?arch=riscv64
