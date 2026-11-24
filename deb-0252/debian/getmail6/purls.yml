@@ -2,3 +2,4 @@
 - pkg:deb/debian/getmail6@6.18.11-2?arch=all
 - pkg:deb/debian/getmail6@6.19.07-1?arch=all
 - pkg:deb/debian/getmail6@6.19.10-1?arch=all
+- pkg:deb/debian/getmail6@6.21.03-1?arch=all
