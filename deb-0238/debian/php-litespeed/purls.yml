@@ -1,1 +1,2 @@
 - pkg:deb/debian/php-litespeed@8.4%2B101?arch=all
+- pkg:deb/debian/php-litespeed@8.6%2B103?arch=all
