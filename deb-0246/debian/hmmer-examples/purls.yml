@@ -7,3 +7,6 @@
 - pkg:deb/debian/hmmer-examples@3.4%2Bdfsg-3?arch=arm64
 - pkg:deb/debian/hmmer-examples@3.4%2Bdfsg-3?arch=armhf
 - pkg:deb/debian/hmmer-examples@3.4%2Bdfsg-3?arch=i386
+- pkg:deb/debian/hmmer-examples@3.4%2Bdfsg2-2?arch=amd64
+- pkg:deb/debian/hmmer-examples@3.4%2Bdfsg2-2?arch=arm64
+- pkg:deb/debian/hmmer-examples@3.4%2Bdfsg2-2?arch=i386
