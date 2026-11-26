@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-aioghost@0.4.34-1?arch=all
+- pkg:deb/debian/python3-aioghost@0.4.38-1?arch=all
