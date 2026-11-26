@@ -42,3 +42,4 @@
 - pkg:deb/debian/pari-gp@2.19.1-1~bpo13%2B1?arch=armhf
 - pkg:deb/debian/pari-gp@2.19.1-1~bpo13%2B1?arch=i386
 - pkg:deb/debian/pari-gp@2.19.1-1~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/pari-gp@2.19.1-1~bpo13%2B1?arch=s390x
