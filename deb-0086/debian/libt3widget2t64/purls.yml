@@ -11,4 +11,5 @@
 - pkg:deb/debian/libt3widget2t64@1.2.2-2?arch=i386
 - pkg:deb/debian/libt3widget2t64@1.2.2-2?arch=loong64
 - pkg:deb/debian/libt3widget2t64@1.2.2-2?arch=ppc64el
+- pkg:deb/debian/libt3widget2t64@1.2.2-2?arch=riscv64
 - pkg:deb/debian/libt3widget2t64@1.2.2-2?arch=s390x
