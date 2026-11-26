@@ -19,3 +19,4 @@
 - pkg:deb/debian/ncmpc@0.52-1?arch=ppc64el
 - pkg:deb/debian/ncmpc@0.52-1?arch=riscv64
 - pkg:deb/debian/ncmpc@0.52-1?arch=s390x
+- pkg:deb/debian/ncmpc@0.55-1?arch=riscv64
