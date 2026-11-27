@@ -2,3 +2,4 @@
 - pkg:deb/debian/dgit-test-dummy@1.193?arch=all
 - pkg:deb/debian/dgit-test-dummy@1.194?arch=all
 - pkg:deb/debian/dgit-test-dummy@1.233?arch=all
+- pkg:deb/debian/dgit-test-dummy@1.238?arch=all
