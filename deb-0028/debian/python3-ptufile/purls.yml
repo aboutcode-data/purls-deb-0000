@@ -6,3 +6,4 @@
 - pkg:deb/debian/python3-ptufile@2026.10.16-1?arch=ppc64el
 - pkg:deb/debian/python3-ptufile@2026.10.16-1?arch=riscv64
 - pkg:deb/debian/python3-ptufile@2026.10.16-1?arch=s390x
+- pkg:deb/debian/python3-ptufile@2026.11.18-1?arch=riscv64
