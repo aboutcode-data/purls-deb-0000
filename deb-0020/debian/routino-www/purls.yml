@@ -5,3 +5,4 @@
 - pkg:deb/debian/routino-www@3.4.3-2?arch=all
 - pkg:deb/debian/routino-www@3.4.3-3?arch=all
 - pkg:deb/debian/routino-www@3.4.4-1~bpo13%2B1?arch=all
+- pkg:deb/debian/routino-www@3.5-1~bpo13%2B1?arch=all
