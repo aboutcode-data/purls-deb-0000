@@ -1,0 +1,2 @@
+- pkg:deb/debian/postgresql-19-pgq3@3.5.2-1?arch=amd64
+- pkg:deb/debian/postgresql-19-pgq3@3.5.2-1?arch=arm64
