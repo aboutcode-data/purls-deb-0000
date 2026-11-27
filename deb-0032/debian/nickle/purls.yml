@@ -21,6 +21,7 @@
 - pkg:deb/debian/nickle@2.110?arch=ppc64el
 - pkg:deb/debian/nickle@2.110?arch=riscv64
 - pkg:deb/debian/nickle@2.110?arch=s390x
+- pkg:deb/debian/nickle@2.117?arch=riscv64
 - pkg:deb/debian/nickle@2.90?arch=amd64
 - pkg:deb/debian/nickle@2.90?arch=arm64
 - pkg:deb/debian/nickle@2.90?arch=armhf
