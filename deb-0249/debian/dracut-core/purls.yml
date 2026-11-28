@@ -58,3 +58,7 @@
 - pkg:deb/debian/dracut-core@112-7?arch=loong64
 - pkg:deb/debian/dracut-core@112-7?arch=ppc64el
 - pkg:deb/debian/dracut-core@112-7?arch=s390x
+- pkg:deb/debian/dracut-core@113-2?arch=amd64
+- pkg:deb/debian/dracut-core@113-2?arch=i386
+- pkg:deb/debian/dracut-core@113-2?arch=ppc64el
+- pkg:deb/debian/dracut-core@113-2?arch=riscv64

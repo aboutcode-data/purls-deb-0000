@@ -23,6 +23,9 @@
 - pkg:deb/debian/libeliom-ocaml-dev@12.1.0-1%2Bb6?arch=ppc64el
 - pkg:deb/debian/libeliom-ocaml-dev@12.1.0-1%2Bb6?arch=riscv64
 - pkg:deb/debian/libeliom-ocaml-dev@12.1.0-1%2Bb6?arch=s390x
+- pkg:deb/debian/libeliom-ocaml-dev@13.0.0-3%2Bb2?arch=amd64
+- pkg:deb/debian/libeliom-ocaml-dev@13.0.0-3%2Bb2?arch=i386
+- pkg:deb/debian/libeliom-ocaml-dev@13.0.0-3%2Bb2?arch=ppc64el
 - pkg:deb/debian/libeliom-ocaml-dev@6.12.4-1%2Bb4?arch=amd64
 - pkg:deb/debian/libeliom-ocaml-dev@6.12.4-1%2Bb4?arch=arm64
 - pkg:deb/debian/libeliom-ocaml-dev@6.12.4-1%2Bb4?arch=armhf

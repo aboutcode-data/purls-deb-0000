@@ -19,3 +19,5 @@
 - pkg:deb/debian/digikam@8.8.0-1?arch=arm64
 - pkg:deb/debian/digikam@8.8.0-1?arch=armhf
 - pkg:deb/debian/digikam@8.8.0-1?arch=i386
+- pkg:deb/debian/digikam@9.1.0-1%2Bb4?arch=amd64
+- pkg:deb/debian/digikam@9.1.0-1%2Bb4?arch=i386
