@@ -19,3 +19,4 @@
 - pkg:deb/debian/ott-tools@0.34%2Bds-3?arch=arm64
 - pkg:deb/debian/ott-tools@0.34%2Bds-3?arch=ppc64el
 - pkg:deb/debian/ott-tools@0.34%2Bds-3?arch=s390x
+- pkg:deb/debian/ott-tools@0.34%2Bds-5%2Bb3?arch=riscv64
