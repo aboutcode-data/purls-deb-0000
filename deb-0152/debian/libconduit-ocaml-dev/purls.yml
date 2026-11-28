@@ -32,3 +32,4 @@
 - pkg:deb/debian/libconduit-ocaml-dev@8.0.0-4%2Bb6?arch=ppc64el
 - pkg:deb/debian/libconduit-ocaml-dev@8.0.0-4%2Bb6?arch=riscv64
 - pkg:deb/debian/libconduit-ocaml-dev@8.0.0-4%2Bb6?arch=s390x
+- pkg:deb/debian/libconduit-ocaml-dev@8.0.0-4%2Bb9?arch=amd64
