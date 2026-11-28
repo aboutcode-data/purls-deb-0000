@@ -13,6 +13,10 @@
 - pkg:deb/debian/libqt5svg5-dev@5.15.17-2?arch=ppc64el
 - pkg:deb/debian/libqt5svg5-dev@5.15.17-2?arch=riscv64
 - pkg:deb/debian/libqt5svg5-dev@5.15.17-2?arch=s390x
+- pkg:deb/debian/libqt5svg5-dev@5.15.19-3?arch=amd64
+- pkg:deb/debian/libqt5svg5-dev@5.15.19-3?arch=i386
+- pkg:deb/debian/libqt5svg5-dev@5.15.19-3?arch=ppc64el
+- pkg:deb/debian/libqt5svg5-dev@5.15.19-3?arch=riscv64
 - pkg:deb/debian/libqt5svg5-dev@5.15.2-3?arch=amd64
 - pkg:deb/debian/libqt5svg5-dev@5.15.2-3?arch=arm64
 - pkg:deb/debian/libqt5svg5-dev@5.15.2-3?arch=armhf

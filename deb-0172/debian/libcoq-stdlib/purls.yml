@@ -18,3 +18,4 @@
 - pkg:deb/debian/libcoq-stdlib@9.0.0-3%2Bb1?arch=s390x
 - pkg:deb/debian/libcoq-stdlib@9.0.0-3%2Bb2?arch=amd64
 - pkg:deb/debian/libcoq-stdlib@9.0.0-3%2Bb3?arch=riscv64
+- pkg:deb/debian/libcoq-stdlib@9.2.0-1%2Bb3?arch=riscv64

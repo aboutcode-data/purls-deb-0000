@@ -4,3 +4,6 @@
 - pkg:deb/debian/libamd-comgr3@7.0.2%2Bdfsg-4?arch=amd64
 - pkg:deb/debian/libamd-comgr3@7.0.2%2Bdfsg-4?arch=arm64
 - pkg:deb/debian/libamd-comgr3@7.0.2%2Bdfsg-4?arch=ppc64el
+- pkg:deb/debian/libamd-comgr3@7.0.2%2Bdfsg-6?arch=amd64
+- pkg:deb/debian/libamd-comgr3@7.0.2%2Bdfsg-6?arch=ppc64el
+- pkg:deb/debian/libamd-comgr3@7.0.2%2Bdfsg-6?arch=riscv64
