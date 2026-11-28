@@ -2,4 +2,5 @@
 - pkg:deb/debian/postgresql-19-tablelog@0.6.4-5?arch=arm64
 - pkg:deb/debian/postgresql-19-tablelog@0.6.4-5?arch=loong64
 - pkg:deb/debian/postgresql-19-tablelog@0.6.4-5?arch=ppc64el
+- pkg:deb/debian/postgresql-19-tablelog@0.6.4-5?arch=riscv64
 - pkg:deb/debian/postgresql-19-tablelog@0.6.4-5?arch=s390x
