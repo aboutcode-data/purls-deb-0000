@@ -26,3 +26,4 @@
 - pkg:deb/debian/libbpp-qt-dev@2.4.1-8?arch=mipsel
 - pkg:deb/debian/libbpp-qt-dev@2.4.1-8?arch=ppc64el
 - pkg:deb/debian/libbpp-qt-dev@2.4.1-8?arch=s390x
+- pkg:deb/debian/libbpp-qt-dev@3.0.0-1?arch=riscv64
