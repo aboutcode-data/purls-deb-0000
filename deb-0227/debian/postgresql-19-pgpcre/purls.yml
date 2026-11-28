@@ -1,0 +1,6 @@
+- pkg:deb/debian/postgresql-19-pgpcre@0.20190509-10?arch=amd64
+- pkg:deb/debian/postgresql-19-pgpcre@0.20190509-10?arch=arm64
+- pkg:deb/debian/postgresql-19-pgpcre@0.20190509-10?arch=loong64
+- pkg:deb/debian/postgresql-19-pgpcre@0.20190509-10?arch=ppc64el
+- pkg:deb/debian/postgresql-19-pgpcre@0.20190509-10?arch=riscv64
+- pkg:deb/debian/postgresql-19-pgpcre@0.20190509-10?arch=s390x
