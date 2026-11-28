@@ -25,4 +25,5 @@
 - pkg:deb/debian/bzip2@1.0.8-7?arch=i386
 - pkg:deb/debian/bzip2@1.0.8-7?arch=loong64
 - pkg:deb/debian/bzip2@1.0.8-7?arch=ppc64el
+- pkg:deb/debian/bzip2@1.0.8-7?arch=riscv64
 - pkg:deb/debian/bzip2@1.0.8-7?arch=s390x

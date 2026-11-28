@@ -19,4 +19,5 @@
 - pkg:deb/debian/afio@2.5.2-4?arch=i386
 - pkg:deb/debian/afio@2.5.2-4?arch=loong64
 - pkg:deb/debian/afio@2.5.2-4?arch=ppc64el
+- pkg:deb/debian/afio@2.5.2-4?arch=riscv64
 - pkg:deb/debian/afio@2.5.2-4?arch=s390x

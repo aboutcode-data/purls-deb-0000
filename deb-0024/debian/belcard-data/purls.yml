@@ -1,1 +1,2 @@
 - pkg:deb/debian/belcard-data@5.3.105-3?arch=all
+- pkg:deb/debian/belcard-data@5.4.130-1?arch=all
